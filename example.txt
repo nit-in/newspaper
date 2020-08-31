@@ -1,0 +1,371 @@
+/home/user/newspaper
+├── business_standard
+│   ├── 01-Sep-2020
+│   │   ├── Commerce
+│   │   │   ├── a-global-perspective-on-innovation.pdf
+│   │   │   └── the-troubleshooter.pdf
+│   │   ├── Finance
+│   │   │   ├── gst-compensation-row-state-govts-ask-centre-to-borrow-and-pay.pdf
+│   │   │   └── q1-gdp-data-employment-creating-sectors-bear-brunt-of-slowdown.pdf
+│   │   └── Marketing
+│   │       └── q1-gdp-data-employment-creating-sectors-bear-brunt-of-slowdown.pdf
+│   ├── 11-Dec-2019
+│   │   └── Financial_Inclusion
+│   ├── 27-Aug-2020
+│   │   └── Industry
+│   │       └── goyal-launches-national-gis-enabled-land-bank-system-for-real-time-info.pdf
+│   ├── 28-Aug-2020
+│   │   └── Financial_Inclusion
+│   ├── 30-Aug-2020
+│   │   └── Business
+│   │       ├── huawei-focusing-on-cloud-business-still-having-access-to-us-chips-report.pdf
+│   │       └── the-journey-of-economic-reforms.pdf
+│   └── 31-Aug-2020
+│       ├── Economy
+│       │   └── japan-factory-output-rises-but-retail-sales-down-amid-fragile-recovery.pdf
+│       ├── Financial_Inclusion
+│       │   └── rupee-appreciates-14-paise-to-73-25-against-us-dollar-in-early-trade.pdf
+│       ├── Industry
+│       │   └── japan-factory-output-rises-but-retail-sales-down-amid-fragile-recovery.pdf
+│       ├── Market
+│       │   ├── rbi-announces-omo-for-sale-purchase-of-govt-securities-worth-rs-10k-cr.pdf
+│       │   └── rupee-appreciates-14-paise-to-73-25-against-us-dollar-in-early-trade.pdf
+│       └── Marketing
+│           └── rbi-announces-omo-for-sale-purchase-of-govt-securities-worth-rs-10k-cr.pdf
+├── economic_times
+│   ├── 16-Jul-2020
+│   │   └── Economy
+│   │       └── markets
+│   │           └── stocks
+│   │               └── news
+│   ├── 26-Aug-2020
+│   │   └── Economy
+│   │       └── markets
+│   │           └── stocks
+│   │               └── news
+│   │                   └── vocal-fiis-stall-appointment-of-underperforming-directors.pdf
+│   ├── 27-Aug-2020
+│   │   └── Economy
+│   │       └── markets
+│   │           └── stocks
+│   │               └── news
+│   │                   └── red-hot-nasdaq-100-is-threatening-to-double-inside-of-two-years.pdf
+│   └── 30-Aug-2020
+│       └── Economy
+│           └── markets
+│               └── stocks
+│                   └── news
+├── livemint
+│   ├── 01-Sep-2020
+│   │   └── Finance
+│   │       └── news
+│   │           └── india
+│   │               └── 75-of-companies-availing-moratorium-are-sub-investment-grade-says-crisil.pdf
+│   ├── 04-Aug-2020
+│   │   └── Market
+│   │       ├── companies
+│   │       │   └── news
+│   │       │       └── sequoia-india-makes-three-senior-level-hires.pdf
+│   │       └── industry
+│   │           └── advertising
+│   ├── 05-Aug-2020
+│   │   └── Market
+│   │       └── companies
+│   │           └── news
+│   │               ├── apple-s-schiller-steps-down-from-marketing-role-but-retains-app-store.pdf
+│   │               ├── sequoia-capital-strengthens-india-team-creates-new-public-policy-role.pdf
+│   │               └── total-adani-jv-to-seek-permit-for-setting-up-fuel-stations.pdf
+│   ├── 06-Aug-2020
+│   │   └── Market
+│   │       └── companies
+│   │           └── news
+│   │               ├── adani-total-jv-to-seek-fuel-retailing-licence.pdf
+│   │               └── lupin-signs-exclusive-pact-for-distribution-of-2-complex-injectable-drugs.pdf
+│   ├── 09-Aug-2020
+│   │   └── Market
+│   │       └── news
+│   │           └── india
+│   │               └── pm-modi-launches-rs-1-trillion-agri-infrastructure-fund.pdf
+│   ├── 19-Jul-2020
+│   │   └── Marketing
+│   │       └── news
+│   │           └── business-of-life
+│   │               └── entrepreneurs-untangle-the-complexities-of-indian-farming.pdf
+│   ├── 20-Jul-2020
+│   │   └── Marketing
+│   │       ├── companies
+│   │       │   └── news
+│   │       │       └── cipla-amgen-settle-case-involving-generic-cinacalcet-hydrochloride-tablets.pdf
+│   │       └── news
+│   │           └── india
+│   │               ├── 2-000-multi-brand-retail-outlets-to-be-opened-in-haryana-under-cooperative-dept.pdf
+│   │               └── police-arrest-14-in-mumbai-hyderabad-for-black-marketing-covid-drug.pdf
+│   ├── 22-Jul-2020
+│   │   └── Marketing
+│   │       └── companies
+│   │           └── news
+│   │               ├── panasonic-turns-focus-on-tier-2-and-tier-3-towns-bets-big-on-first-time-buyers.pdf
+│   │               └── spotify-signs-new-licensing-deal-with-vivendi-s-universal-music-group.pdf
+│   ├── 25-Aug-2020
+│   │   ├── Business
+│   │   │   ├── market
+│   │   │   │   ├── mark-to-market
+│   │   │   │   │   └── lic-housing-finance-shows-resilience-amid-pandemic-but-bad-loan-worry-remains.pdf
+│   │   │   │   └── stock-market-news
+│   │   │   │       └── lic-housing-finance-rallies-11-after-strong-q1-performance.pdf
+│   │   │   └── news
+│   │   │       └── india
+│   │   │           ├── govt-open-to-more-changes-in-eclgs-to-support-small-business-individuals.pdf
+│   │   │           ├── govt-open-to-more-tweaks-in-rs-3-trillion-credit-guarantee-scheme-sitharaman.pdf
+│   │   │           └── gst-council-may-mull-proposal-to-cut-tax-on-two-wheeler.pdf
+│   │   └── Industry
+│   │       ├── companies
+│   │       │   └── news
+│   │       │       └── flipkart-aims-100-transition-to-electric-vehicles-in-next-10-years.pdf
+│   │       └── news
+│   │           └── india
+│   ├── 26-Aug-2020
+│   │   └── Industry
+│   │       ├── companies
+│   │       │   ├── news
+│   │       │   │   ├── amazon-faces-new-antitrust-challenge-from-indian-online-sellers-report.pdf
+│   │       │   │   └── tata-group-plots-ambitious-e-commerce-push-to-take-on-amazon-reliance.pdf
+│   │       │   └── start-ups
+│   │       │       └── e-commerce-battle-spills-into-insurtech-business.pdf
+│   │       ├── industry
+│   │       │   └── retail
+│   │       │       └── 30-september-is-deadline-to-adhere-to-country-of-origin-tag.pdf
+│   │       └── news
+│   │           ├── business-of-life
+│   │           │   └── mint-lite-tata-all-in-one-e-commerce-app-amazon-covid-vaccines-others.pdf
+│   │           ├── india
+│   │           │   ├── centre-proactively-engaging-states-to-boost-exports-commerce-secretary.pdf
+│   │           │   └── plan-to-use-surplus-land-of-railways-to-generate-20-gw-renewable-energy-goyal.pdf
+│   │           └── world
+│   │               └── us-blacklists-chinese-individuals-firms-for-south-china-sea-work.pdf
+│   ├── 27-Aug-2020
+│   │   ├── Business
+│   │   │   ├── news
+│   │   │   │   └── india
+│   │   │   │       ├── finance-minister-nirmala-sitharaman-to-chair-41st-gst-council-meeting-today.pdf
+│   │   │   │       ├── govt-looking-at-reforms-to-increase-efficiency-and-transparency-in-property-tax-collection-among-urban-local-bodies.pdf
+│   │   │   │       ├── gst-council-meeting-debates-revenue-shortfall-of-states.pdf
+│   │   │   │       └── states-to-demand-answers-to-fiscal-woes-at-gst-meet-today.pdf
+│   │   │   └── politics
+│   │   │       └── policy
+│   │   │           └── 41st-gst-council-meeting-live-updates-nirmala-sitharaman-speech-here-s-what-is-expected.pdf
+│   │   ├── Commerce
+│   │   │   ├── companies
+│   │   │   │   ├── news
+│   │   │   │   │   ├── amazon-enters-fitness-space-with-amazon-halo-smart-band.pdf
+│   │   │   │   │   └── reliance-retail-warns-of-fake-jiomart-websites-seeking-franchisees.pdf
+│   │   │   │   └── start-ups
+│   │   │   │       └── indian-gaming-startup-gamezop-raises-rs-32-crore-from-us-investors-bitkraft.pdf
+│   │   │   ├── industry
+│   │   │   │   └── retail
+│   │   │   │       └── e-commerce-retail-market-expected-to-cross-100-billion-mark-by-2024.pdf
+│   │   │   ├── news
+│   │   │   │   ├── india
+│   │   │   │   │   ├── india-asean-businesses-need-to-work-to-resolve-differences-piyush-goyal.pdf
+│   │   │   │   │   └── what-indian-states-export-to-rest-of-the-world.pdf
+│   │   │   │   └── world
+│   │   │   │       └── us-targets-chinese-individuals-companies-amid-south-china-sea-dispute.pdf
+│   │   │   └── opinion
+│   │   │       └── online-views
+│   │   │           └── another-online-thrust-for-disintermediation.pdf
+│   │   ├── Finance
+│   │   │   ├── news
+│   │   │   │   └── india
+│   │   │   │       ├── bad-loans-govt-asks-psbs-to-look-at-initiating-insolvency-proceedings-against-personal-guarantors.pdf
+│   │   │   │       ├── centre-gives-2-options-to-states-on-gst-compensation-7-days-to-reply.pdf
+│   │   │   │       ├── finance-minister-nirmala-sitharaman-to-chair-41st-gst-council-meeting-today.pdf
+│   │   │   │       ├── government-wants-state-owned-lenders-to-monitor-cases-for-individual-bankruptcy.pdf
+│   │   │   │       └── gst-council-meeting-debates-revenue-shortfall-of-states.pdf
+│   │   │   └── politics
+│   │   │       └── policy
+│   │   │           ├── 41st-gst-council-meeting-live-updates-nirmala-sitharaman-speech-here-s-what-is-expected.pdf
+│   │   │           └── we-are-not-happy-with-outcome-cong-after-gst-council-meeting.pdf
+│   │   └── Industry
+│   │       ├── companies
+│   │       │   └── news
+│   │       │       ├── hai-ties-up-with-naukri-com-to-create-alternate-livelihoods-for-hospitality-work.pdf
+│   │       │       ├── pharma-industry-at-forefront-of-battle-against-covid-19-sun-pharma-chairman.pdf
+│   │       │       └── tata-motors-bsvi-commercial-vehicles-equipped-with-tech-performance-upgrades.pdf
+│   │       ├── money
+│   │       │   └── personal-finance
+│   │       │       └── covid-led-crisis-pushes-zillennials-into-investing.pdf
+│   │       ├── news
+│   │       │   ├── india
+│   │       │   │   ├── india-asean-businesses-need-to-work-to-resolve-differences-piyush-goyal.pdf
+│   │       │   │   ├── pharma-firms-worried-about-some-provisions-in-production-linked-incentive-scheme.pdf
+│   │       │   │   └── what-indian-states-export-to-rest-of-the-world.pdf
+│   │       │   └── world
+│   │       │       └── tired-of-social-distancing-at-home-try-mongolian-glamping.pdf
+│   │       └── technology
+│   │           └── tech-news
+│   │               └── pandemic-creates-demand-for-niche-digital-enabler-roles-say-experts.pdf
+│   ├── 27-Jul-2020
+│   │   └── Marketing
+│   │       └── industry
+│   │           └── media
+│   │               └── indian-audiences-watch-entertainers-with-or-without-star-kids.pdf
+│   ├── 28-Aug-2020
+│   │   ├── Business
+│   │   │   ├── companies
+│   │   │   │   └── news
+│   │   │   │       └── with-pag-deal-edelweiss-becomes-capital-surplus.pdf
+│   │   │   └── news
+│   │   │       └── india
+│   │   │           └── india-s-business-climate-rank-may-be-hit-by-world-bank-probe.pdf
+│   │   ├── Commerce
+│   │   │   └── companies
+│   │   │       └── news
+│   │   │           ├── walmart-sells-2-more-e-commerce-brands-in-digital-reshuffle.pdf
+│   │   │           └── walmart-wants-to-go-viral-with-tiktok-wall-street-thinks-it-can.pdf
+│   │   ├── Finance
+│   │   │   ├── companies
+│   │   │   │   └── news
+│   │   │   │       └── sbi-case-triggers-finmin-directive.pdf
+│   │   │   └── news
+│   │   │       └── world
+│   │   │           └── angela-merkel-warns-of-long-road-ahead-in-worsening-virus-crisis.pdf
+│   │   ├── Industry
+│   │   │   └── brand-stories
+│   │   │       └── tech-can-balance-development-sustainability-in-construction-space-say-experts.pdf
+│   │   └── Marketing
+│   │       ├── market
+│   │       │   └── mark-to-market
+│   │       │       └── as-pent-up-demand-fizzles-out-cement-prices-take-a-beating-across-most-regions.pdf
+│   │       └── mint-lounge
+│   │           └── features
+│   │               └── nitish-mittersain-big-game-hunting.pdf
+│   ├── 29-Aug-2020
+│   │   ├── Business
+│   │   │   ├── companies
+│   │   │   │   ├── company-results
+│   │   │   │   │   └── wockhardt-q1-net-profit-at-rs-760-cr.pdf
+│   │   │   │   └── news
+│   │   │   │       ├── herbalife-admits-bribing-chinese-officials-to-grow-business.pdf
+│   │   │   │       ├── how-future-retail-fits-well-in-ril-s-offline-retail-business.pdf
+│   │   │   │       └── reliance-retail-buys-future-group-s-retail-other-businesses-for-rs-24-713-cr.pdf
+│   │   │   ├── industry
+│   │   │   │   └── banking
+│   │   │   │       └── retail-loans-worry-banks.pdf
+│   │   │   ├── mint-lounge
+│   │   │   │   └── features
+│   │   │   │       └── queering-the-publishing-pitch.pdf
+│   │   │   └── news
+│   │   │       └── india
+│   │   │           ├── gstn-rolls-out-auto-generated-credit-statements-to-improve-compliance.pdf
+│   │   │           └── heavy-rains-floods-claim-39-lives-in-pakistan.pdf
+│   │   ├── Finance
+│   │   │   ├── news
+│   │   │   │   └── india
+│   │   │   │       └── insurance-for-jan-dhan-a-c-holders-fm.pdf
+│   │   │   └── politics
+│   │   │       ├── news
+│   │   │       │   └── hdk-hits-out-at-centre-for-blaming-covid-19-pandemic-for-contraction-of-country.pdf
+│   │   │       └── policy
+│   │   │           └── centre-writes-to-states-on-terms-for-financing-gst-shortfall.pdf
+│   │   └── Marketing
+│   │       ├── companies
+│   │       │   ├── company-results
+│   │       │   │   └── wockhardt-q1-net-profit-at-rs-760-cr.pdf
+│   │       │   ├── news
+│   │       │   │   └── urban-ladder-buyout-plan-to-consolidate-furniture-e-tail.pdf
+│   │       │   └── people
+│   │       │       └── women-fund-managers-beating-men-in-picking-stocks-goldman-finds.pdf
+│   │       ├── industry
+│   │       │   └── banking
+│   │       │       └── rbi-may-not-extend-moratorium-on-repayment-of-loans-beyond-monday.pdf
+│   │       ├── mint-lounge
+│   │       │   └── features
+│   │       │       └── queering-the-publishing-pitch.pdf
+│   │       └── news
+│   │           └── world
+│   │               └── brutal-loss-absolutely-heartbreaking-hollywood-on-chadwick-boseman-s-death.pdf
+│   ├── 29-Jul-2020
+│   │   └── Marketing
+│   │       ├── companies
+│   │       │   └── news
+│   │       │       ├── raymond-cuts-jobs-as-people-work-from-home.pdf
+│   │       │       └── sequoia-backed-hevo-raises-8-million-in-series-a-funding.pdf
+│   │       └── news
+│   │           └── india
+│   │               └── how-an-indian-small-town-boy-built-a-15-million-edtech-start-up.pdf
+│   ├── 30-Aug-2020
+│   │   ├── Commerce
+│   │   │   └── c.pdf
+│   │   ├── Economy
+│   │   │   ├── market
+│   │   │   │   └── mark-to-market
+│   │   │   │       └── markets-may-turn-wary-as-gdp-print-to-shift-focus-to-tough-economic-reality.pdf
+│   │   │   ├── news
+│   │   │   │   └── india
+│   │   │   │       ├── fiscal-deficit-to-touch-7-in-fy21-brickwork-ratings.pdf
+│   │   │   │       ├── india-s-exporters-are-on-the-edge.pdf
+│   │   │   │       └── unlock-4-0-reflects-india-s-tenuous-lives-versus-livelihood-trade-off.pdf
+│   │   │   └── opinion
+│   │   │       └── online-views
+│   │   │           └── this-could-yet-be-india-s-worst-economic-crisis.pdf
+│   │   ├── Finance
+│   │   │   └── insurance
+│   │   │       └── news
+│   │   │           └── four-reasons-why-comprehensive-motor-insurance-is-important-in-covid19-times.pdf
+│   │   └── Marketing
+│   │       ├── mint-lounge
+│   │       │   └── features
+│   │       │       └── masaba-masaba-real-women-in-real-stories.pdf
+│   │       └── news
+│   │           └── world
+│   │               └── india-asean-trade-ministers-call-for-fta-review.pdf
+│   └── 31-Aug-2020
+│       ├── Commerce
+│       │   └── market
+│       │       └── stock-market-news
+│       │           └── stocks-to-watch-ril-future-enterprises-pvr-vedanta-hcl-tech.pdf
+│       ├── Economy
+│       │   ├── market
+│       │   │   └── mark-to-market
+│       │   │       └── a-gdp-contraction-makes-for-an-ugly-loan-growth-arithmetic.pdf
+│       │   └── news
+│       │       └── india
+│       │           ├── bjp-government-has-attacked-the-informal-economy-rahul-gandhi.pdf
+│       │           ├── economy-still-in-unchartered-zone-rural-economy-at-risk-say-economists.pdf
+│       │           ├── india-s-economy-faces-worst-quarterly-slump-ever-after-lockdown.pdf
+│       │           └── india-s-q1-contraction-may-be-worst-among-g20.pdf
+│       ├── Finance
+│       │   └── news
+│       │       ├── india
+│       │       │   ├── core-sector-output-contracts-in-july.pdf
+│       │       │   ├── expect-negative-growth-in-four-quarters-in-fy21-india-ratings-chief-economist.pdf
+│       │       │   ├── india-faces-worst-quarterly-gdp-slump-ever-after-lockdown.pdf
+│       │       │   ├── india-s-fiscal-deficit-crosses-full-year-budget-target-in-4-month.pdf
+│       │       │   ├── india-s-gdp-contracts-record-23-9-in-q1-due-to-covid-key-highlights.pdf
+│       │       │   ├── india-s-tryst-with-recession-40-years-ago.pdf
+│       │       │   ├── rahul-gandhi-accuses-modi-govt-of-destroying-informal-sector-of-the-economy.pdf
+│       │       │   └── what-high-frequency-indicators-say-about-june-quarter.pdf
+│       │       └── world
+│       │           └── turkey-s-economy-shrinks-by-nearly-10-in-q2-during-lockdown.pdf
+│       └── Market
+│           └── market
+│               └── stock-market-news
+└── the_hindu
+    └── 31-Aug-2020
+        ├── Business
+        │   ├── \342\200\230Action\ against\ those\ violating\ COVID-19\ safety\ norms\342\200\231.pdf
+        │   └── Extend\ EMI\ repayment\ relief:\ Stalin.pdf
+        ├── Commerce
+        │   ├── Paytm\ Mall\ says\ no\ security\ lapses\ found\ after\ investigating\ alleged\ breach.pdf
+        │   └── Warren\ Buffett\ looks\ to\ Japan,\ takes\ 5%\ stakes\ in\ five\ trading\ companies.pdf
+        ├── Economy
+        │   └── \342\200\230Most\ firms\ availing\ moratorium\ were\ struggling\ before\ COVID-19\342\200\231.pdf
+        ├── Finance
+        │   ├── Tamil\ Nadu\ rejects\ Centre\342\200\231s\ options\ for\ GST\ compensation.pdf
+        │   └── When\ crises\ pay\ politically.pdf
+        ├── Industry
+        │   ├── \342\200\230Infrastructure,\ State\ support\ key\ to\ better\ investment\ climate\342\200\231.pdf
+        │   └── MRF\ sees\ spurt\ in\ demand\ for\ two-wheelers,\ tractors.pdf
+        └── Marketing
+
+232 directories, 136 files
