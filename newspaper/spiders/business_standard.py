@@ -37,7 +37,7 @@ class BusinessStandardSpider(scrapy.Spider):
                 article = url.parts[3]
                 date = str(20) + str(article[-18:-12])
                 date = datetime.strptime(date, "%Y%m%d").strftime(
-                    "%d-%b-%Y"
+                    "%Y-%b-%d"
                 )  # in format dd-mmm-yyyy
                 # get article no for printing page as business-standard has a print page
                 business_standard_link = config.BUSINESS_STANDARD_PRINT + str(

@@ -27,7 +27,7 @@ class TheHinduSpider(scrapy.Spider):
         response.selector.register_namespace(self.namespaces[0], self.namespaces[1])
         date = response.xpath("//th:Date//text()").get()
         date = date[:10]
-        date = datetime.strptime(date, "%Y-%m-%d").strftime("%d-%b-%Y")
+        date = datetime.strptime(date, "%Y-%m-%d").strftime("%Y-%b-%d")
         the_hindu_link = response.xpath("//th:Url//text()").get()
         article_name = response.xpath("//th:Name//text()").get()
         self.tag = self.tag.replace("%20", "_")

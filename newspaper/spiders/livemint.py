@@ -33,10 +33,10 @@ class LivemintSpider(scrapy.Spider):
             date = date[:10]
             #            fdname = fdname.replace(",","") not needed
             try:
-                date = datetime.strptime(date, "%d%b%Y").strftime("%d-%b-%Y")
+                date = datetime.strptime(date, "%d%b%Y").strftime("%Y-%b-%d")
             except ValueError:
                 today = datetime.today()
-                date = datetime.strftime(today, "%d-%b-%Y")
+                date = datetime.strftime(today, "%Y-%b-%d")
 
             try:
                 anchor = re.search("-(\d+).html", anchor).group(1)

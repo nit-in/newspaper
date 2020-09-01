@@ -30,7 +30,7 @@ class EconomicTimesSpider(scrapy.Spider):
             date = date.replace(" ", "")
             date = date[:10]
             #            fdname = fdname.replace(",","") not needed
-            date = datetime.strptime(date, "%d%b,%Y").strftime("%d-%b-%Y")
+            date = datetime.strptime(date, "%d%b,%Y").strftime("%Y-%b-%d")
             anchor = anchor.replace("articleshow", "printarticle")
             economic_times_link = str(config.ECONOMIC_TIMES_ROOT) + str(anchor)
             article_name = anchor[:-26]
