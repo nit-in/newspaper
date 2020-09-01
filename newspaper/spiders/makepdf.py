@@ -7,6 +7,7 @@ import csv
 import newspaper.spiders.config as config
 import pdfkit
 from pathlib import Path
+from itertools import chain
 
 # fields = ["Newspaper", "File_Name", "Link"]
 
@@ -37,16 +38,34 @@ class make_pdf:
         print("Working...")
         options = config.PDFKIT_OPTIONS
         if self.pdf_path.parent.is_dir():
-            print(f"Folder: {self.pdf_path.parent} already exixts")
+            print(f"\nFolder: {self.pdf_path.parent} already exists")
         else:
-            print(f"making {self.pdf_path.parent} folder")
+            print(f"\nmaking {self.pdf_path.parent} folder")
             self.pdf_path.parent.mkdir(parents=True)
         # self.file_name = os.path.join(self.folder,self.file_name + ".pdf")
-        if self.pdf_path.exists() and int(self.pdf_path.lstat().st_size) > 25600:
-            print(f"File: {self.pdf_path} already downloaded")
+        print(self.pdf_file_exists(self.pdf_path.name))
+        if (
+            self.pdf_file_exists(self.pdf_path.name)
+            and int(self.pdf_path.lstat().st_size) > 25600
+        ):
+            print(f"\nFile: {self.pdf_path} already downloaded")
         else:
-            print(f"Downloading: {self.pdf_path}")
+            print(f"\nDownloading: {self.pdf_path}")
             pdfkit.from_url(str(self.link), str(self.pdf_path), options=options)
+
+    def pdf_file_exists(self, pdf_name):
+        self.pdf_name = pdf_name
+        self.root = config.ROOT_DIR
+        self.root = Path(self.root).expanduser()
+        self.pdfs = Path(self.root).rglob("*.pdf")
+        self.pdf_list = []
+
+        for pdf in self.pdfs:
+            self.pdf_list.append(pdf.name)
+        if self.pdf_name in chain(self.pdf_list):
+            return True
+        else:
+            return False
 
     # def csvwriter(self, newspaper, name, link, downloaded=True):
     #     self.newspaper = newspaper
