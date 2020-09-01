@@ -1,11 +1,6 @@
 #!/usr/bin/python3
 import scrapy
-from yarl import URL
-import subprocess
-import os.path
 from datetime import datetime
-import functools
-from progress.bar import Bar
 import json
 import newspaper.spiders.config as config
 from newspaper.spiders.generate_links import generate_links as generate
@@ -20,8 +15,6 @@ class EconomicTimesSpider(scrapy.Spider):
     def start_requests(self):
         with open(config.JSON_FILE) as json_file:
             terms = json.load(json_file)
-            lower_range = int(terms["lower_value"])
-            upper_range = int(terms["upper_value"])
             terms = terms["search"]
             for term in terms:
                 self.tag = term

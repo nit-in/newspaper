@@ -1,9 +1,4 @@
 #!/usr/bin/python3
-import os.path
-import subprocess
-from stringcolor import *
-import functools
-import csv
 import newspaper.spiders.config as config
 import pdfkit
 from pathlib import Path
