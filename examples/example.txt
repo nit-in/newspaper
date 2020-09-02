@@ -1,371 +1,2460 @@
-/home/user/newspaper
+/home/cobalt/newspaper
 ├── business_standard
-│   ├── 01-Sep-2020
-│   │   ├── Commerce
-│   │   │   ├── a-global-perspective-on-innovation.pdf
-│   │   │   └── the-troubleshooter.pdf
-│   │   ├── Finance
-│   │   │   ├── gst-compensation-row-state-govts-ask-centre-to-borrow-and-pay.pdf
-│   │   │   └── q1-gdp-data-employment-creating-sectors-bear-brunt-of-slowdown.pdf
-│   │   └── Marketing
-│   │       └── q1-gdp-data-employment-creating-sectors-bear-brunt-of-slowdown.pdf
-│   ├── 11-Dec-2019
-│   │   └── Financial_Inclusion
-│   ├── 27-Aug-2020
-│   │   └── Industry
-│   │       └── goyal-launches-national-gis-enabled-land-bank-system-for-real-time-info.pdf
-│   ├── 28-Aug-2020
-│   │   └── Financial_Inclusion
-│   ├── 30-Aug-2020
-│   │   └── Business
-│   │       ├── huawei-focusing-on-cloud-business-still-having-access-to-us-chips-report.pdf
-│   │       └── the-journey-of-economic-reforms.pdf
-│   └── 31-Aug-2020
-│       ├── Economy
-│       │   └── japan-factory-output-rises-but-retail-sales-down-amid-fragile-recovery.pdf
-│       ├── Financial_Inclusion
-│       │   └── rupee-appreciates-14-paise-to-73-25-against-us-dollar-in-early-trade.pdf
-│       ├── Industry
-│       │   └── japan-factory-output-rises-but-retail-sales-down-amid-fragile-recovery.pdf
-│       ├── Market
-│       │   ├── rbi-announces-omo-for-sale-purchase-of-govt-securities-worth-rs-10k-cr.pdf
-│       │   └── rupee-appreciates-14-paise-to-73-25-against-us-dollar-in-early-trade.pdf
-│       └── Marketing
-│           └── rbi-announces-omo-for-sale-purchase-of-govt-securities-worth-rs-10k-cr.pdf
-├── economic_times
-│   ├── 16-Jul-2020
-│   │   └── Economy
-│   │       └── markets
-│   │           └── stocks
-│   │               └── news
-│   ├── 26-Aug-2020
-│   │   └── Economy
-│   │       └── markets
-│   │           └── stocks
-│   │               └── news
-│   │                   └── vocal-fiis-stall-appointment-of-underperforming-directors.pdf
-│   ├── 27-Aug-2020
-│   │   └── Economy
-│   │       └── markets
-│   │           └── stocks
-│   │               └── news
-│   │                   └── red-hot-nasdaq-100-is-threatening-to-double-inside-of-two-years.pdf
-│   └── 30-Aug-2020
-│       └── Economy
-│           └── markets
-│               └── stocks
-│                   └── news
-├── livemint
-│   ├── 01-Sep-2020
-│   │   └── Finance
-│   │       └── news
-│   │           └── india
-│   │               └── 75-of-companies-availing-moratorium-are-sub-investment-grade-says-crisil.pdf
-│   ├── 04-Aug-2020
-│   │   └── Market
-│   │       ├── companies
-│   │       │   └── news
-│   │       │       └── sequoia-india-makes-three-senior-level-hires.pdf
-│   │       └── industry
-│   │           └── advertising
-│   ├── 05-Aug-2020
-│   │   └── Market
-│   │       └── companies
-│   │           └── news
-│   │               ├── apple-s-schiller-steps-down-from-marketing-role-but-retains-app-store.pdf
-│   │               ├── sequoia-capital-strengthens-india-team-creates-new-public-policy-role.pdf
-│   │               └── total-adani-jv-to-seek-permit-for-setting-up-fuel-stations.pdf
-│   ├── 06-Aug-2020
-│   │   └── Market
-│   │       └── companies
-│   │           └── news
-│   │               ├── adani-total-jv-to-seek-fuel-retailing-licence.pdf
-│   │               └── lupin-signs-exclusive-pact-for-distribution-of-2-complex-injectable-drugs.pdf
-│   ├── 09-Aug-2020
-│   │   └── Market
-│   │       └── news
-│   │           └── india
-│   │               └── pm-modi-launches-rs-1-trillion-agri-infrastructure-fund.pdf
-│   ├── 19-Jul-2020
-│   │   └── Marketing
-│   │       └── news
-│   │           └── business-of-life
-│   │               └── entrepreneurs-untangle-the-complexities-of-indian-farming.pdf
-│   ├── 20-Jul-2020
-│   │   └── Marketing
-│   │       ├── companies
-│   │       │   └── news
-│   │       │       └── cipla-amgen-settle-case-involving-generic-cinacalcet-hydrochloride-tablets.pdf
-│   │       └── news
-│   │           └── india
-│   │               ├── 2-000-multi-brand-retail-outlets-to-be-opened-in-haryana-under-cooperative-dept.pdf
-│   │               └── police-arrest-14-in-mumbai-hyderabad-for-black-marketing-covid-drug.pdf
-│   ├── 22-Jul-2020
-│   │   └── Marketing
-│   │       └── companies
-│   │           └── news
-│   │               ├── panasonic-turns-focus-on-tier-2-and-tier-3-towns-bets-big-on-first-time-buyers.pdf
-│   │               └── spotify-signs-new-licensing-deal-with-vivendi-s-universal-music-group.pdf
-│   ├── 25-Aug-2020
+│   ├── 2005-Nov-01
+│   │   └── Animal_Husbandry
+│   │       └── panel-to-decide-on-poultry-vaccination.pdf
+│   ├── 2006-Feb-21
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── latur-to-host-dairy-expo-from-feb-26.pdf
+│   ├── 2008-Jan-19
+│   │   └── Animal_Husbandry
+│   │       └── don-t-apply-wto-subsidy-rules-to-traditional-fishermen-govt-urged.pdf
+│   ├── 2009-Aug-06
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── grant-more-for-allied-sectors-of-agriculture-house-panel.pdf
+│   ├── 2009-Sep-18
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── mini-dairy-project-in-idukki-plans-to-start-in-tn.pdf
+│   ├── 2010-Jan-07
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── haryana-dairy-development-corp-registers-profit.pdf
+│   ├── 2010-Jan-12
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── surinder-sud-my-farm-lady.pdf
+│   ├── 2010-Jan-26
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── naveen-unfurls-tri-colour-amid-maoist-threat.pdf
+│   ├── 2015-Nov-17
+│   │   └── Animal_Husbandry
+│   │       └── letters-farm-entrepreneurs.pdf
+│   ├── 2015-Sep-25
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── centre-plans-fisheries-push.pdf
+│   ├── 2016-Aug-07
+│   │   └── Commodities
+│   │       └── over-3-500-j-k-students-availed-scholarships-worth-rs-75-crore.pdf
+│   ├── 2016-Aug-14
+│   │   └── Animal_Husbandry
+│   │       └── former-minister-hari-singh-kumher-passes-away.pdf
+│   ├── 2016-Dec-02
+│   │   └── Commodities
+│   │       └── for-scholarship-students-may-now-have-to-link-aadhaar-to-bank-accounts.pdf
+│   ├── 2016-Jul-02
+│   │   └── Animal_Husbandry
+│   │       └── govt-sets-eyes-on-foreign-investment-in-dairy-sector.pdf
+│   ├── 2016-May-30
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── punjab-cow-breeders-complain-of-falling-trade.pdf
+│   ├── 2016-Nov-22
+│   │   └── Commodities
+│   │       └── zakir-naik-s-ngo-provided-rs-80-000-scholarship-to-is-sympathiser-nia.pdf
+│   ├── 2016-Oct-03
+│   │   └── Commodities
+│   │       └── in-india-95-per-cent-of-the-transactions-are-still-in-cash-rob-reeg.pdf
+│   ├── 2016-Oct-19
+│   │   └── Commodities
+│   │       └── taxation-kuldip-kumar.pdf
+│   ├── 2016-Oct-20
+│   │   └── Commodities
+│   │       └── jica-offers-scholarships-to-iit-h-students.pdf
+│   ├── 2017-Apr-29
+│   │   └── Commodities
+│   │       └── govt-to-give-rs-35-cr-to-children-of-freedom-fighters-in-bangladesh.pdf
+│   ├── 2017-Aug-08
+│   │   └── Commodities
+│   │       └── edutech-start-up-mindhour-to-provide-rs-11-cr-scholarships-via-quiz-contest.pdf
+│   ├── 2017-Aug-19
+│   │   └── Commodities
+│   │       └── phd-researchers-at-iit-iisc-to-get-rs-70-000-as-monthly-scholarship.pdf
+│   ├── 2017-Dec-14
+│   │   └── Commodities
+│   │       └── making-management-research-useful.pdf
+│   ├── 2017-Dec-28
+│   │   └── Commodities
+│   │       └── organs-printed-from-bio-ink-closer-to-reality.pdf
+│   ├── 2017-Feb-06
+│   │   └── Commodities
+│   │       └── british-council-to-give-over-rs-8-3-cr-scholarships-to-indian-students.pdf
+│   ├── 2017-Jul-20
+│   │   └── Commodities
+│   │       └── delhi-hc-calls-for-final-inquiry-report-against-four-jnu-students.pdf
+│   ├── 2017-Jun-19
+│   │   └── Animal_Husbandry
+│   │       └── maharashtra-to-give-rs-3-per-litre-subsidy-to-milk-farmers.pdf
+│   ├── 2017-Mar-02
+│   │   └── Commodities
+│   │       └── out-of-around-60-truman-scholarship-nominees-7-are-indian-americans.pdf
+│   ├── 2017-Mar-03
+│   │   └── Commodities
+│   │       └── israel-offering-scholarships-training-programmes-to-indian-students.pdf
+│   ├── 2017-Mar-08
+│   │   └── Commodities
+│   │       └── ikea-foundation-commits-euros-2-9-mn-for-girl-child-education-in-india.pdf
+│   ├── 2017-May-04
+│   │   └── Animal_Husbandry
+│   │       └── up-mulling-policy-to-make-dairy-cow-farming-lucrative.pdf
+│   ├── 2017-Nov-04
+│   │   └── Animal_Husbandry
+│   │       └── country-s-potential-in-dairy-poultry-must-be-used-by-investors-agri-min.pdf
+│   ├── 2017-Nov-23
+│   │   └── Commodities
+│   │       ├── google-to-fund-130-000-scholarships-in-training-indians-for-emerging-tech.pdf
+│   │       └── google-to-sponsor-1-3-lakh-scholarships-for-tech-developers-by-2018.pdf
+│   ├── 2017-Sep-12
+│   │   └── Commodities
+│   │       └── cabinet-to-award-rs-75k-monthly-scholarship-to-bright-students-javadekar.pdf
+│   ├── 2018-Aug-11
+│   │   └── Scholarship
+│   │       └── wipro-consumer-arm-to-offer-scholarships-to-girls-in-karnataka-telangana.pdf
+│   ├── 2018-Dec-07
+│   │   └── Wildlife
+│   │       └── 384-tigers-killed-by-poachers-across-india-in-last-10-yrs-reveals-rti.pdf
+│   ├── 2018-Dec-10
+│   │   └── Wildlife
+│   │       └── publish-reports-since-2010-on-ill-effect-of-pollution-on-health-sc-to-cpcb.pdf
+│   ├── 2018-Dec-11
+│   │   └── Wildlife
+│   │       └── declare-10-km-area-around-21-national-parks-sanctuaries-as-esz-sc-to-govt.pdf
+│   ├── 2018-Dec-27
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── mckinsey-company-faces-a-perilous-fight-in-a-texas-bankruptcy-case.pdf
+│   ├── 2018-Dec-31
+│   │   └── Wildlife
+│   │       └── bhel-bags-rs-3-500-crore-order-for-setting-up-west-bengal-thermal-unit.pdf
+│   ├── 2018-Feb-05
+│   │   ├── Animal_Husbandry
+│   │   │   └── budget-2018-onus-on-states-to-make-institutional-agri-financing-a-success.pdf
+│   │   └── Dairy
+│   ├── 2018-Feb-08
+│   │   └── Scholarship
+│   │       ├── cabinet-nod-for-rs-80-000-pm-fellowship-for-iit-btechs-to-stop-brain-drain.pdf
+│   │       └── why-southeast-asia-needs-new-scholarship.pdf
+│   ├── 2018-Feb-12
+│   │   └── Dairy
+│   │       └── a-case-for-integrated-farm-management.pdf
+│   ├── 2018-Jan-08
+│   │   └── Animal_Husbandry
+│   │       └── budget-2018-larger-institutional-financing-possible-for-animal-husbandry.pdf
+│   ├── 2018-Jul-09
+│   │   └── Scholarship
+│   │       └── in-first-year-pm-s-research-fellowship-awarded-to-135-of-promised-1-000.pdf
+│   ├── 2018-Jul-18
+│   │   └── Scholarship
+│   │       └── over-25-2-mn-minority-students-50-girls-avail-scholarship-schemes-naqvi.pdf
+│   ├── 2018-Mar-25
+│   │   └── Animal_Husbandry
+│   │       └── 250-000-cattle-in-mp-stamped-with-unique-12-digit-aadhaar-like-number.pdf
+│   ├── 2018-Mar-26
+│   │   └── Scholarship
+│   │       └── central-university-in-kerala-revives-earn-while-you-learn-scholarship.pdf
+│   ├── 2018-May-29
+│   │   └── Animal_Husbandry
+│   │       └── nddb-bats-for-co-op-dairies-seeks-sops-to-maintain-excess-inventories.pdf
+│   ├── 2018-Nov-07
+│   │   └── Wildlife
+│   │       └── diwali-2018-delhiites-pick-crackers-over-clean-air-violate-sc-time-frame.pdf
+│   ├── 2018-Nov-11
+│   │   └── Coal
+│   │       └── cyclone-gaja-to-intensify-into-severe-cyclonic-storm-in-next-24-hours.pdf
+│   ├── 2018-Nov-14
+│   │   └── Coal
+│   │       └── aiadmk-blasts-rajinikanth-for-saying-pm-modi-seems-strong-in-elections.pdf
+│   ├── 2018-Nov-17
+│   │   └── Wildlife
+│   │       └── climate-finance-myth-vs-reality.pdf
+│   ├── 2018-Oct-02
+│   │   └── Coal
+│   │       └── indian-fish-exports-to-surge-61-to-1-7-mn-tonnes-by-2030-report.pdf
+│   ├── 2018-Oct-05
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   └── need-coordinated-effort-to-cripple-narcotics-trade-india-at-unga.pdf
+│   │   └── Wildlife
+│   │       └── india-s-cooling-energy-consumption-to-grow-around-2-2-times-by-2027-report.pdf
+│   ├── 2018-Oct-13
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── narendra-modi-to-meet-global-and-domestic-energy-majors-next-week.pdf
+│   ├── 2018-Oct-22
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── material-resource-use-to-double-by-2060-with-severe-environmental-impact.pdf
+│   ├── 2018-Oct-24
+│   │   └── Coal
+│   │       └── govt-okays-rs-75-bn-fund-to-help-boost-fish-production-jobs-in-fisheries.pdf
+│   ├── 2018-Oct-25
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── at-35-indian-coal-imports-rise-at-the-fastest-rate-in-42-months.pdf
+│   ├── 2018-Sep-01
+│   │   └── Scholarship
+│   │       └── pakistan-gets-rs-2-6-bn-in-japanese-grant-for-weather-radar-scholarship.pdf
+│   ├── 2018-Sep-17
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   └── horticulture-challenge.pdf
+│   │   └── Coal
+│   ├── 2019-Apr-01
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── market-intelligence.pdf
+│   ├── 2019-Apr-03
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── brent-crude-nears-70-as-oil-prices-rise-for-fourth-day-on-opec-supply-cuts.pdf
+│   ├── 2019-Apr-06
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── simple-ideas-to-transform-india.pdf
+│   ├── 2019-Apr-07
+│   │   └── Wildlife
+│   │       └── ngt-imposes-rs-100-crore-penalty-on-andhra-pradesh-govt-over-illegal-sand-mining.pdf
+│   ├── 2019-Apr-12
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── chevron-corp-plans-to-buy-anadarko-for-33-billion-in-shale-lng-push.pdf
+│   ├── 2019-Apr-19
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── reliance-to-start-gas-production-from-r-cluster-in-2nd-half-of-fy21.pdf
+│   ├── 2019-Aug-01
+│   │   └── Natural_Resource
+│   │       ├── assam-flood-water-recedes-in-kaziranga-pobitora.pdf
+│   │       └── dspu2008mutual-fund-takes-50-haircut-ccdu2008group-firms-ask-for-2-weeks.pdf
+│   ├── 2019-Aug-02
+│   │   └── Natural_Resource
+│   │       └── giving-wildlife-a-fighting-chance-the-new-face-of-conservation-in-india.pdf
+│   ├── 2019-Aug-04
+│   │   └── Irrigation
+│   │       └── explained-how-water-debate-in-gujarat-is-meandering-into-various-channels.pdf
+│   ├── 2019-Aug-07
+│   │   └── Irrigation
+│   │       └── cabinet-nod-for-rs-15-000-cr-loan-to-complete-irrigation-works.pdf
+│   ├── 2019-Aug-14
+│   │   └── Irrigation
+│   │       ├── market-live-sensex-nifty-q1-earnings-rupee-ongc-rites-nmdc-heg.pdf
+│   │       └── market-wrap-august-14-sensex-ends-353-pts-higher-pharma-stocks-slip.pdf
+│   ├── 2019-Aug-16
+│   │   ├── Irrigation
+│   │   │   └── market-wrap-aug-16-sensex-settles-39-pts-higher-it-pharma-stock-decline.pdf
+│   │   └── Natural_Resource
+│   │       └── sc-clears-chardham-highway-project-forms-fresh-panel-to-suggest-steps-to-mitigate-env-t-damage.pdf
+│   ├── 2019-Aug-17
+│   │   └── Parliament
+│   │       └── khadi-s-turnover-crosses-rs-74-323-crore-in-2018-19.pdf
+│   ├── 2019-Aug-18
+│   │   └── Natural_Resource
+│   │       └── wildlife-now-roam-where-us-once-forged-its-deadliest-weapons.pdf
+│   ├── 2019-Aug-19
+│   │   ├── Parliament
+│   │   │   └── gsp-withdrawal-plastic-exporters-explore-new-markets-to-keep-ball-rolling.pdf
+│   │   └── Wildlife
+│   │       └── will-ensure-ease-of-doing-responsible-business-environ-minister-javadekar.pdf
+│   ├── 2019-Aug-24
+│   │   └── Parliament
+│   │       └── msmes-to-get-pending-gst-refunds-within-30-days-nirmala-sitharaman.pdf
+│   ├── 2019-Aug-26
+│   │   ├── Natural_Resource
+│   │   │   └── bpcl-to-invest-rs-1-500-1-700-cr-in-floating-lng-terminal-in-ap.pdf
+│   │   └── Parliament
+│   │       ├── gadkari-s-mega-plan-for-small-biz-record-100-000-new-msmes-this-fiscal.pdf
+│   │       └── industry-backs-govt-s-move-to-have-a-single-definition-for-small-businesses.pdf
+│   ├── 2019-Aug-27
+│   │   ├── Parliament
+│   │   │   └── on-rbi-congress-asks-modi-govt-to-learn-from-argentina-s-experience.pdf
+│   │   └── Wildlife
+│   │       └── don-t-hold-your-breath-amazon-fires-aren-t-depleting-earth-s-oxygen-supply.pdf
+│   ├── 2019-Dec-01
+│   │   └── Parliament
+│   │       └── miles-to-go-as-financial-inclusion-has-only-scratched-surface-tribe-ceo.pdf
+│   ├── 2019-Dec-02
+│   │   └── Loan
+│   │       └── polavaram-project-completion-expected-by-dec-2021-but-depends-on-r-r-settlement-centre.pdf
+│   ├── 2019-Dec-05
+│   │   └── Scholarship
+│   │       └── software-development-mining-printing-books-not-to-qualify-for-lower-15-pc-corp-tax-rate-fm.pdf
+│   ├── 2019-Dec-06
+│   │   ├── Loan
+│   │   │   └── ajit-pawar-absolved-of-corruption-charge-in-maharashtra-irrigation-scam.pdf
+│   │   └── Scholarship
+│   │       └── bombay-to-mumbai.pdf
+│   ├── 2019-Dec-11
+│   │   ├── Financial_Inclusion
+│   │   └── Gst
+│   │       └── wave-and-pay-with-softpos.pdf
+│   ├── 2019-Dec-13
+│   │   └── Parliament
+│   │       └── cong-s-garibi-hatao-slogan-only-removed-poverty-of-its-leaders-gadkari.pdf
+│   ├── 2019-Dec-17
+│   │   └── Loan
+│   │       └── pre-budget-meet-agri-experts-demand-scrapping-gst-on-agri-inputs-revamp-of-pmfby.pdf
+│   ├── 2019-Dec-20
+│   │   └── Loan
+│   │       ├── aiib-announces-usd-210-million-loan-for-irrigation-solar-energy-projects-in-india.pdf
+│   │       └── ajit-pawar-not-involved-in-irrigation-scam-acb-reiterates.pdf
+│   ├── 2019-Dec-30
+│   │   └── Scholarship
+│   │       └── nit-trichy-alumni-commit-3-mn-for-alma-mater-s-research-work-scholarships.pdf
+│   ├── 2019-Dec-31
+│   │   └── Natural_Resource
+│   │       └── 2019-india-deepens-strategic-ties-with-south-africa.pdf
+│   ├── 2019-Feb-01
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   ├── govt-walked-the-talk-carried-successful-auction-of-natural-resources-including-coal-goyal.pdf
+│   │   │   └── goyal-announces-2-interest-subvention-for-farmers-hit-by-natural-calamities.pdf
+│   │   └── Coal
+│   │       └── budget-2019-interest-subvention-to-ease-pricing-pain-push-fishery-exports.pdf
+│   ├── 2019-Feb-04
+│   │   └── Scholarship
+│   │       └── odisha-govt-announces-kalia-scholarship-scheme-for-farmers-children.pdf
+│   ├── 2019-Feb-10
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── ioc-adani-hpcl-biggest-bidders-for-city-gas-licences.pdf
+│   ├── 2019-Feb-11
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── petronet-s-lng-terminal-plan-in-bangladesh-put-on-the-back-burner.pdf
+│   ├── 2019-Feb-22
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── ongc-likely-to-get-five-oil-gas-blocks-in-second-round-of-dsf-auction.pdf
+│   ├── 2019-Jan-01
+│   │   └── Coal
+│   │       └── tamil-nadu-starts-the-new-year-with-positive-response-for-plastic-ban.pdf
+│   ├── 2019-Jan-03
+│   │   └── Coal
+│   │       ├── chennai-corporation-seizes-21-67-mt-of-banned-plastics-in-tamil-nadu.pdf
+│   │       └── chennai-plastic-ban-corporation-siezes-9-10-tonnes-of-banned-plastics.pdf
+│   ├── 2019-Jan-04
+│   │   └── Wildlife
+│   │       └── centre-s-notification-on-groundwater-flawed-not-to-be-given-effect-ngt.pdf
+│   ├── 2019-Jan-06
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── ongc-cautions-against-listing-of-videsh-arm-cites-mozambique-asset-trouble.pdf
+│   ├── 2019-Jan-08
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── prabhat-dairy-to-enter-animal-nutrition-business-partners-danish-firm.pdf
+│   ├── 2019-Jan-23
+│   │   └── Wildlife
+│   │       └── tn-global-investors-meet-adani-group-to-invest-rs-12-000-crore-in-state.pdf
+│   ├── 2019-Jul-03
+│   │   └── Irrigation
+│   │       └── the-right-price-of-water.pdf
+│   ├── 2019-Jul-05
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   └── drink-a-pint-waste-less-food.pdf
+│   │   └── Irrigation
+│   │       └── in-water-stressed-india-govt-may-push-farmers-towards-efficient-irrigation.pdf
+│   ├── 2019-Jul-06
+│   │   └── Scholarship
+│   │       └── fashion-guru-prasad-bidapa-s-take-on-the-best-and-worst-things-in-budget.pdf
+│   ├── 2019-Jul-08
+│   │   └── Parliament
+│   │       └── crisil-sme-tracker-a-raft-of-positives-for-msmes-in-budget-2019.pdf
+│   ├── 2019-Jul-12
+│   │   └── Scholarship
+│   │       └── birla-announces-scholarship-for-london-business-school-10-mba-students.pdf
+│   ├── 2019-Jul-16
+│   │   └── Animal_Husbandry
+│   │       └── govt-plan-to-raise-rural-income-offer-free-cattle-biogas-plants-poultry.pdf
+│   ├── 2019-Jul-22
+│   │   └── Parliament
+│   │       └── need-focus-on-key-exports-to-boost-india-s-global-share-says-cii.pdf
+│   ├── 2019-Jul-23
+│   │   └── Irrigation
+│   │       └── the-agony-and-the-urgency-of-water.pdf
+│   ├── 2019-Jul-27
+│   │   └── Natural_Resource
+│   │       └── how-exemption-of-13-railway-projects-puts-wildlife-sanctuaries-at-risk.pdf
+│   ├── 2019-Jul-29
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   └── earth-s-2019-resources-budget-spent-by-july-29-report.pdf
+│   │   └── Natural_Resource
+│   │       └── pm-narendra-modi-to-feature-in-discovery-s-man-vs-wild.pdf
+│   ├── 2019-Jul-30
+│   │   └── Wildlife
+│   │       └── environmental-damage-the-devil-is-in-packaging-biodegradable-or-otherwise.pdf
+│   ├── 2019-Jul-31
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   └── mutual-funds-exposure-to-coffee-day-natural-resources-stood-at-rs-192-cr.pdf
+│   │   └── Natural_Resource
+│   │       └── mfs-have-rs-193-cr-exposure-to-coffee-day-natural-resources-tanglin.pdf
+│   ├── 2019-Jun-05
+│   │   └── Scholarship
+│   │       └── gehlot-govt-drops-deendayal-upadhyay-name-from-scholarship-test.pdf
+│   ├── 2019-Jun-11
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   └── hester-biosciences-hits-52-week-high-stock-surges-71-in-2019.pdf
+│   │   └── Scholarship
+│   │       └── scholarships-to-5-crore-minority-students-in-next-5-years-naqvi.pdf
+│   ├── 2019-Jun-19
+│   │   └── Irrigation
+│   │       └── budget-2019-agriculture-wishlist-increase-farmer-income-investment-in-r-d.pdf
+│   ├── 2019-Jun-20
+│   │   └── Irrigation
+│   │       └── jet-airways-india-ltd-leads-gainers-in-a-group.pdf
+│   ├── 2019-Jun-21
+│   │   └── Scholarship
+│   │       └── lessons-in-inclusivity.pdf
+│   ├── 2019-Jun-23
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   └── govt-has-no-business-to-be-in-business-divest-mining-firms-nmdc-hzl-anil-agarwal-to-pm.pdf
+│   │   └── Irrigation
+│   │       └── markets-punish-stocks-expelled-from-the-future-and-options-segment.pdf
+│   ├── 2019-Jun-24
+│   │   └── Irrigation
+│   │       ├── jain-irrigation-surges-72-in-two-days-after-management-clarifications.pdf
+│   │       └── stocks-to-watch-jain-irrigation-bhel-dr-reddy-s-piramal-bandhan-bank.pdf
+│   ├── 2019-Jun-27
+│   │   └── Irrigation
+│   │       └── growing-wheat-in-north-west-rice-in-eastern-states-can-reduce-water-crisis.pdf
+│   ├── 2019-Jun-28
+│   │   └── Wildlife
+│   │       └── four-years-after-signing-paris-pact-india-unclear-on-its-forestry-target.pdf
+│   ├── 2019-Mar-20
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── sharp-rally-in-resource-commodities-in-2019-on-hopes-of-china-demand.pdf
+│   ├── 2019-May-05
+│   │   └── Wildlife
+│   │       └── env-min-rejects-global-reports-claiming-1-2-million-deaths-in-india-due-to-pollution.pdf
+│   ├── 2019-May-10
+│   │   └── Animal_Husbandry
+│   │       └── nddb-develops-world-s-first-complete-parent-wise-genome-assembly-of-buffalo.pdf
+│   ├── 2019-Nov-02
+│   │   └── Natural_Resource
+│   │       └── locals-participate-to-create-odisha-s-first-eco-village-on-mahanadi-banks.pdf
+│   ├── 2019-Nov-08
+│   │   └── Parliament
+│   │       └── govt-should-explore-israel-brazil-models-for-onion-storage-ficci-study.pdf
+│   ├── 2019-Nov-09
+│   │   └── Natural_Resource
+│   │       └── how-the-titli-trust-is-protecting-lesser-creatures-such-as-butterflies.pdf
+│   ├── 2019-Nov-14
+│   │   └── Parliament
+│   │       └── msme-plays-key-role-in-becoming-usd-5-trillion-economy-union.pdf
+│   ├── 2019-Nov-16
+│   │   └── Wildlife
+│   │       └── it-s-time-to-shun-politics-and-work-together-to-tackle-pollution-kejriwal-to-javadekar.pdf
+│   ├── 2019-Nov-19
+│   │   └── Natural_Resource
+│   │       └── moef-rejects-goa-govt-s-demand-for-kalasa-banduri-water-diversion-project.pdf
+│   ├── 2019-Nov-21
+│   │   └── Parliament
+│   │       └── stake-sale-in-bpcl-sci-concor-to-strengthen-firms-bring-in-fresh-investments-ficci.pdf
+│   ├── 2019-Nov-22
+│   │   └── Parliament
+│   │       └── msme-sector-crucial-to-make-india-5-trillion-economy-sonowal.pdf
+│   ├── 2019-Nov-25
+│   │   └── Loan
+│   │       ├── acb-closes-irrigation-cases-says-not-related-to-ajit-pawar.pdf
+│   │       └── probe-in-9-irrigation-cases-closed-none-linked-to-ajit-acb.pdf
+│   ├── 2019-Nov-26
+│   │   └── Natural_Resource
+│   │       └── tea-output-in-the-south-drops-by-10-on-climate-change-planters-stressed.pdf
+│   ├── 2019-Nov-27
+│   │   └── Natural_Resource
+│   │       └── samsung-hires-over-1-200-engineers-for-india-r-d-this-year.pdf
+│   ├── 2019-Nov-28
+│   │   └── Natural_Resource
+│   │       └── cci-approves-37-4-pc-stake-buy-joint-control-of-adani-gas-by-total-group.pdf
+│   ├── 2019-Nov-30
+│   │   └── Loan
+│   │       └── climate-change-has-an-unlikely-victim-winemakers-who-are-trying-to-adapt.pdf
+│   ├── 2019-Oct-03
+│   │   └── Irrigation
+│   │       └── farming-gets-frugal-new-technologies-are-making-farmers-more-productive.pdf
+│   ├── 2019-Oct-07
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── advantage-indigenous-indian-cows.pdf
+│   ├── 2019-Oct-14
+│   │   └── Parliament
+│   │       └── over-rs-81-700-cr-disbursed-by-banks-during-9-day-loan-mela-finmin.pdf
+│   ├── 2019-Oct-15
+│   │   ├── Irrigation
+│   │   │   ├── s-p-downgrades-jain-irrigation-to-d-on-missed-principal-payments.pdf
+│   │   │   └── top-headlines-wipro-q2-beats-estimates-oil-firms-put-air-india-on-notice.pdf
+│   │   └── Loan
+│   ├── 2019-Oct-22
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   └── animal-spirits-latest-livestock-census-has-good-news-for-dairy-poultry.pdf
+│   │   ├── Natural_Resource
+│   │   │   └── supreme-court-to-hear-appeals-against-quashing-of-crz-clearances.pdf
+│   │   └── Parliament
+│   │       └── govt-to-soon-change-definition-of-msmes-gadkari.pdf
+│   ├── 2019-Oct-24
+│   │   └── Loan
+│   │       └── ind-ra-maintains-stable-outlook-for-construction-sector-on-existing-orders.pdf
+│   ├── 2019-Oct-28
+│   │   └── Wildlife
+│   │       └── nine-new-mineral-blocks-at-odisha-s-auctions-may-draw-lukewarm-bids.pdf
+│   ├── 2019-Sep-04
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   └── centre-working-on-tech-based-model-to-tackle-stray-cattle-issue-giriraj.pdf
+│   │   └── Irrigation
+│   │       └── letters-to-bs-lawmakers-must-study-how-to-use-farm-resources-judiciously.pdf
+│   ├── 2019-Sep-05
+│   │   └── Parliament
+│   │       └── govt-to-soon-decide-on-sinha-panel-report-on-msme-sector-gadkari.pdf
+│   ├── 2019-Sep-06
+│   │   └── Irrigation
+│   │       └── icar-prepares-a-plan-specifying-the-maximum-sowing-area-for-each-crop.pdf
+│   ├── 2019-Sep-07
+│   │   └── Scholarship
+│   │       └── how-an-ey-scholarship-programme-is-helping-strangers-form-life-long-bonds.pdf
+│   ├── 2019-Sep-09
+│   │   └── Animal_Husbandry
+│   │       └── opposition-to-rcep-grows-within-government-now-from-dairy-ministry.pdf
+│   ├── 2019-Sep-10
+│   │   └── Wildlife
+│   │       └── european-space-agency-records-amazon-air-pollution.pdf
+│   ├── 2019-Sep-12
+│   │   └── Wildlife
+│   │       └── fires-still-erupting-in-brazil-s-amazon-and-cerrado-regions.pdf
+│   ├── 2019-Sep-19
+│   │   └── Animal_Husbandry
+│   │       └── india-registers-fastest-growth-in-fish-production-in-more-than-two-decades.pdf
+│   ├── 2019-Sep-21
+│   │   └── Parliament
+│   │       └── utkarsh-small-finance-bank-aims-at-rs-500-600-cr-ipo-by-dec-2020.pdf
+│   ├── 2019-Sep-30
+│   │   └── Parliament
+│   │       └── govt-to-launch-enterprise-development-centres-for-msmes-in-all-districts.pdf
+│   ├── 2020-Apr-06
+│   │   └── Tourism
+│   │       └── india-not-out-of-woods-needs-to-exponentially-ramp-up-tests-experts-on-covid-19-pandemic.pdf
+│   ├── 2020-Apr-13
+│   │   └── Water
+│   │       └── prolonged-coronavirus-lockdown-could-make-india-s-summer-water-crisis-worse.pdf
+│   ├── 2020-Apr-17
+│   │   └── Tourism
+│   │       └── a-piece-of-the-artist.pdf
+│   ├── 2020-Apr-18
+│   │   └── Tourism
+│   │       └── gail-lines-up-plans-to-restart-infra-projects-post-covid-19-lockdown.pdf
+│   ├── 2020-Apr-20
+│   │   └── Tourism
+│   │       └── coronavirus-impact-hindu-priests-with-body-cameras-new-temple-economics.pdf
+│   ├── 2020-Apr-29
+│   │   └── Water
+│   │       └── centre-to-expand-jal-shakti-abhiyan-activities-during-upcoming-monsoon.pdf
+│   ├── 2020-Aug-01
+│   │   └── Forest
+│   │       └── ngt-raps-environment-ministry-over-monitoring-of-environmental-norms.pdf
+│   ├── 2020-Aug-02
+│   │   ├── Forest
+│   │   │   └── fires-in-amazon-rainforest-up-28-to-6-803-in-july-worrying-experts.pdf
+│   │   ├── Irrigation
+│   │   │   └── nafed-procures-95-000-tonnes-of-onion-from-farmers-to-create-buffer-stock.pdf
+│   │   └── Jal
+│   │       ├── ganga-pollution-ngt-asks-up-jal-nigam-to-complete-sewer-work-expeditiously.pdf
+│   │       └── ngt-panel-recommends-reworking-1994-water-sharing-pact-to-revive-yamuna.pdf
+│   ├── 2020-Aug-03
+│   │   ├── Employment
+│   │   │   └── rahul-gandhi-takes-dig-at-pm-narendra-modi-over-daily-covid-19-cases.pdf
+│   │   ├── Irrigation
+│   │   │   ├── local-demand-to-prop-up-crop-protection-smes-crisil-sme-tracker.pdf
+│   │   │   └── tractor-sales-grow-as-monsoon-govt-help-for-farmers-lift-rural-economy.pdf
+│   │   └── Msme
+│   │       ├── covid-19-outbreak-hits-norway-cruise-ship-could-spread-along-coast.pdf
+│   │       └── up-govt-to-install-solar-panels-on-hotels-guest-houses-under-tourism-dept.pdf
+│   ├── 2020-Aug-04
+│   │   ├── Coal
+│   │   │   └── cil-s-coal-allocation-under-spot-e-auction-scheme-drops-7-in-april-june.pdf
+│   │   ├── Forest
+│   │   │   └── smog-tower-installation-project-in-delhi-sc-asks-centre-to-start-work-soon.pdf
+│   │   ├── Irrigation
+│   │   │   ├── letter-to-bs-crop-care-federation-of-india-cannot-buy-public-opinion.pdf
+│   │   │   └── letter-to-bs-crop-care-federation-of-india-s-accusations-are-misleading.pdf
+│   │   └── Msme
+│   │       ├── airtel-expands-4g-footprint-in-rural-pockets-of-leh-kargil-in-ladakh.pdf
+│   │       ├── covid-19-patient-flees-from-facility-in-assam-s-dhubri-booked-hours-later.pdf
+│   │       └── pm-modi-to-attend-foundation-stone-laying-ceremony-of-ram-temple-in-ayodhya.pdf
+│   ├── 2020-Aug-05
+│   │   ├── Forest
+│   │   │   └── high-court-gives-nod-for-metro-line-4-in-mumbai-s-mangrove-buffer-zone.pdf
+│   │   └── Msme
+│   │       ├── richard-branson-space-bound-in-early-2021-says-virgin-galactic.pdf
+│   │       └── virgin-galactic-rolls-royce-team-up-to-make-supersonic-commercial-airplane.pdf
+│   ├── 2020-Aug-06
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   └── india-s-first-batch-of-ivf-buffalo-calves-born-amidst-covid-19-lockdown.pdf
+│   │   ├── Employment
+│   │   │   └── telangana-clears-draft-policy-giving-preference-to-locals-for-employment.pdf
+│   │   ├── Fisheries
+│   │   ├── Forest
+│   │   │   └── no-provision-to-relax-public-hearing-process-in-draft-eia-javadekar.pdf
+│   │   ├── Irrigation
+│   │   │   └── bayer-cropscience-q1-net-jumps-86-to-rs-251-7-cr-on-good-monsoon.pdf
+│   │   └── Msme
+│   │       ├── indian-hotel-industries-revenue-per-available-room-down-43-5-in-2020-jll.pdf
+│   │       └── rajasthan-to-introduce-new-tourism-policy-soon-amid-coronavirus-crisis.pdf
+│   ├── 2020-Aug-07
+│   │   ├── Coal
+│   │   │   └── coal-india-e-auction-fuel-allocation-rises-21-5-in-to-19-76-mt-in-june-qtr.pdf
+│   │   ├── Employment
+│   │   │   ├── shorter-meetings-but-longer-days-how-covid-19-has-changed-the-way-we-work.pdf
+│   │   │   ├── us-adds-1-8-mn-jobs-in-july-as-spike-in-covid-19-cases-stalls-hiring.pdf
+│   │   │   └── wall-street-dips-due-to-slowing-employment-growth-us-china-tensions.pdf
+│   │   ├── Fisheries
+│   │   │   ├── best-of-bs-opinion-rbi-s-right-call-india-china-tensions-and-more.pdf
+│   │   │   └── dairy-decline.pdf
+│   │   └── Forest
+│   │       ├── bingeing-netflix-here-s-why-streaming-comes-at-a-cost-to-environment.pdf
+│   │       └── unauthorised-groundwater-extraction-for-commercial-use-is-criminal-ngt.pdf
+│   ├── 2020-Aug-08
+│   │   ├── Coal
+│   │   │   ├── covid-19-impact-coal-india-revises-output-target-to-650-mn-tonne-in-fy21.pdf
+│   │   │   └── e-auction-for-commercial-coal-mines-likely-in-october-results-in-november.pdf
+│   │   ├── Employment
+│   │   │   ├── telangana-covid-19-update-highest-single-day-spike-of-2-256-cases-in-state.pdf
+│   │   │   └── us-employment-growth-slows-sharply-in-july-amid-covid-19-pandemic.pdf
+│   │   ├── Forest
+│   │   │   └── workers-return-to-new-environment-as-companies-reimagine-workspaces.pdf
+│   │   └── Jal
+│   │       └── himachal-pradesh-gets-central-approval-for-projects-worth-rs-7-922-69-cr.pdf
+│   ├── 2020-Aug-09
+│   │   ├── Coal
+│   │   │   └── july-coal-import-dips-43-to-11-13-mt-on-high-stockpile-at-pitheads-plants.pdf
+│   │   ├── Commodities
+│   │   ├── Consumer
+│   │   │   └── commodity-picks-10-august-2020.pdf
+│   │   ├── Employment
+│   │   │   ├── asia-pacific-may-see-up-to-54-3-bn-remittance-loss-due-to-covid-19-adb.pdf
+│   │   │   └── shelf-life-of-skills-now-only-2-3-years-says-nasscom-chairman.pdf
+│   │   └── Forest
+│   │       └── draft-eia-notification-dangerous-disaster-protest-against-it-rahul.pdf
+│   ├── 2020-Aug-10
+│   │   ├── Coal
+│   │   │   └── pay-hike-allowances-for-contract-workers-in-wage-deal-with-nlc-india.pdf
+│   │   ├── Employment
+│   │   │   └── a-recovery-to-worry.pdf
+│   │   ├── Fisheries
+│   │   │   └── mystery-seeds-icar-gathering-inputs-from-global-research-bodies-on-parcels.pdf
+│   │   ├── Forest
+│   │   │   ├── new-environment-impact-assessment-2020-draft-a-disaster-disgraceful-rahul.pdf
+│   │   │   └── rahul-gandhi-s-protest-against-eia-draft-unnecessary-premature-javadekar.pdf
+│   │   └── Msme
+│   │       ├── bankers-may-demand-change-in-loan-recast-scheme-for-stressed-borrowers.pdf
+│   │       └── govt-to-promote-manufacturing-of-selected-products-to-push-exports-gadkari.pdf
+│   ├── 2020-Aug-11
+│   │   ├── Coal
+│   │   │   └── accreditation-scheme-launched-for-prospecting-mining-plan-consultancies.pdf
+│   │   ├── Crop
+│   │   ├── Employment
+│   │   │   ├── best-of-bs-opinion-epicentre-of-covid-revival-in-employment-and-more.pdf
+│   │   │   └── democrats-say-donald-trump-s-payroll-tax-break-weakens-social-security.pdf
+│   │   ├── Forest
+│   │   │   ├── eia-assault-on-ecological-security-environment-poor-adivasis-congress.pdf
+│   │   │   ├── eia-receives-200-000-comments-centre-directs-its-own-agency-to-vet.pdf
+│   │   │   ├── govt-tightens-import-norms-of-18-chemicals-which-can-affect-environment.pdf
+│   │   │   ├── industry-wants-open-and-facilitative-import-environment-to-boost-exports.pdf
+│   │   │   └── jairam-ramesh-writes-to-javadekar-says-draft-eia-notification-flawed.pdf
+│   │   ├── Irrigation
+│   │   │   └── healthy-well-spread-rainfall-raises-hope-amid-covid-19-crisil-drip.pdf
+│   │   ├── Jal
+│   │   │   └── minister-shekhawat-launches-ivr-based-training-course-on-odf-plus-programme.pdf
+│   │   └── Msme
+│   │       ├── centre-may-allow-cooperative-banks-to-lend-under-emergency-credit-line.pdf
+│   │       ├── debt-recast-may-reduce-transparency-hinder-capital-raising-fitch.pdf
+│   │       ├── economic-impact-of-airbnb-in-india-stood-at-320-mn-in-2019-report.pdf
+│   │       ├── mod-import-ban-will-boost-domestic-firms-play-in-iddm-ashok-leyland-md.pdf
+│   │       ├── msmes-will-take-7-8-months-to-recover-from-covid-19-impact-d-b-economist.pdf
+│   │       ├── take-measures-to-increase-apparel-exports-two-times-gadkari-tells-aepc.pdf
+│   │       └── working-on-idea-of-land-bank-to-help-small-businesses-nitin-gadkari.pdf
+│   ├── 2020-Aug-12
+│   │   ├── Climate
+│   │   │   └── european-banks-slammed-for-climate-hypocrisy-urged-to-end-amazon-oil-trade.pdf
+│   │   ├── Coal
+│   │   │   ├── coal-india-seeks-15-concession-from-railways-for-coal-transportation.pdf
+│   │   │   ├── coal-india-seeks-concession-in-freight-rates-railways-likely-to-refuse.pdf
+│   │   │   └── iip-contraction-slows-to-16-6-in-june-amid-industrial-activity-relaxation.pdf
+│   │   ├── Commodities
+│   │   │   └── abn-amro-exits-trade-commodity-financing-after-losses-to-cut-800-jobs.pdf
+│   │   ├── Forest
+│   │   │   └── kerala-can-t-agree-to-many-recommendations-of-eia-draft-notification-cm.pdf
+│   │   ├── Jal
+│   │   │   └── bihar-cm-asks-officials-to-create-awareness-about-his-govt-s-work.pdf
+│   │   └── Msme
+│   │       ├── gadkari-calls-for-increased-global-investment-in-highways-msme-sectors.pdf
+│   │       ├── maharashtra-govt-slashes-charges-for-coronavirus-tests-by-rs-300.pdf
+│   │       └── stride-ventures-provides-debt-fund-of-rs-15-cr-in-lending-platform-ziploan.pdf
+│   ├── 2020-Aug-13
+│   │   ├── Climate
+│   │   │   └── how-can-govt-say-food-security-act-has-no-link-to-poverty-alleviation-hc.pdf
+│   │   ├── Climate_Change
+│   │   │   └── eia-draft-must-be-translated-into-all-indian-languages-environmentalists.pdf
+│   │   ├── Employment
+│   │   │   └── dip-in-gold-prices-can-beneficial-as-its-shine-was-starting-to-blind-india.pdf
+│   │   ├── Environment_Forest_And_Climate_Change
+│   │   ├── Forest
+│   │   │   ├── draft-eia-in-22-languages-sc-stays-contempt-plea-in-hc-against-centre.pdf
+│   │   │   └── stop-dismantling-environmental-norms-sonia-rahul-seek-withdrawal-of-eia.pdf
+│   │   ├── Jal
+│   │   │   └── 10-million-households-provided-tap-connections-in-current-year-minister.pdf
+│   │   └── Msme
+│   │       ├── almost-all-oil-removed-from-damaged-japanese-ship-says-mauritius-pm.pdf
+│   │       ├── flood-situation-improves-in-assam-11-262-in-two-others-districts-affected.pdf
+│   │       ├── hospitality-major-eih-posts-rs-152-cr-net-loss-in-q1-due-to-covid-19-crisis.pdf
+│   │       ├── india-announces-500-million-assistance-for-mega-infra-project-in-maldives.pdf
+│   │       └── sbi-eyes-three-fold-rise-in-retail-msme-gold-loan-business-in-fy21.pdf
+│   ├── 2020-Aug-14
+│   │   ├── Coal
+│   │   │   └── nlc-india-says-it-has-raised-rs-1-000-crore-by-issuing-commercial-paper.pdf
+│   │   ├── Fisheries
+│   │   │   └── parag-milk-foods-up-7-on-launching-a-new-product-in-its-premium-category.pdf
+│   │   └── Msme
+│   │       ├── even-with-covid-our-fresh-slippages-will-be-in-control-sbi-chairman.pdf
+│   │       ├── india-can-be-great-place-for-a-country-wanting-import-alternative-gadkari.pdf
+│   │       └── state-bank-of-india-targets-3x-growth-in-retail-msme-gold-loans.pdf
+│   ├── 2020-Aug-15
+│   │   ├── Coal
+│   │   │   └── pandemic-effect-worst-indian-profits-in-a-decade-beating-analyst-estimates.pdf
+│   │   ├── Farmer
+│   │   │   └── punjab-cm-amarinder-singh-promises-jobs-debt-relief-for-landless-farmers.pdf
+│   │   └── Food
+│   ├── 2020-Aug-16
+│   │   ├── Coal
+│   │   │   └── thermal-coking-coal-imports-at-major-ports-dip-31-to-37-mt-in-apr-jul.pdf
+│   │   ├── Employment
+│   │   │   └── supreme-court-asks-selection-panel-to-fill-up-ngt-vacancies-expeditiously.pdf
+│   │   └── Parliament
+│   │       ├── covid-19-impact-parliament-expected-to-rise-to-new-normal-for-business.pdf
+│   │       ├── inaugural-session-of-sri-lanka-s-new-parliament-set-to-open-on-august-20.pdf
+│   │       ├── indian-americans-not-happy-with-kamala-harris-as-democrats-vp-pick.pdf
+│   │       └── monsoon-session-to-witness-many-first-time-measures-in-view-of-covid-19.pdf
+│   ├── 2020-Aug-17
+│   │   ├── Coal
+│   │   │   └── domestic-coal-demand-may-be-subdued-in-q2-on-lower-demand-report.pdf
+│   │   ├── Employment
+│   │   │   └── project-dolphin-announced-by-pm-modi-to-be-launched-in-15-days-javadekar.pdf
+│   │   ├── Environment_Forest_And_Climate_Change
+│   │   │   └── uk-launches-u00a33-mn-innovation-challenge-in-india-to-tackle-covid-19-pandemic.pdf
+│   │   ├── Jal
+│   │   │   └── nhrc-notice-to-up-govt-dgp-over-gang-rape-and-murder-in-lakhimpur-kheri.pdf
+│   │   ├── Msme
+│   │   │   ├── courier-smes-cup-of-woe-spills-over-shows-crisil-sme-tracker.pdf
+│   │   │   └── hiring-picks-up-35-in-june-qtr-from-a-low-of-50-in-april-linkedin.pdf
+│   │   └── Parliament
+│   │       ├── fire-breaks-out-on-sixth-floor-of-parliament-annexe-building-under-control.pdf
+│   │       └── parliament-monsoon-session-may-begin-from-first-week-of-september.pdf
+│   ├── 2020-Aug-18
+│   │   ├── Employment
+│   │   │   └── 6-1-million-youth-may-lose-jobs-in-india-due-to-covid-19-adb-ilo-report.pdf
+│   │   ├── Micro_Small_Medium_And_Enterprises
+│   │   ├── Msme
+│   │   │   ├── cii-seeks-govt-intervention-for-revival-of-covid-hit-tourism-industry.pdf
+│   │   │   ├── covid-19-irctc-ties-up-with-ngo-to-offer-free-meals-to-needy-in-mumbai.pdf
+│   │   │   └── uttar-pradesh-msmes-to-get-up-to-rs-5-lakh-aid-under-new-start-up-policy.pdf
+│   │   └── Natural_Resource
+│   │       └── us-approves-oil-drilling-in-arctic-national-wildlife-refuge-in-alaska.pdf
+│   ├── 2020-Aug-19
+│   │   ├── Climate_Change
+│   │   │   ├── embassy-to-merge-assets-with-ibrel-create-one-of-india-s-largest-realtors.pdf
+│   │   │   └── procedure-for-forest-clearance-subverted-turned-farcical-says-report.pdf
+│   │   ├── Employment
+│   │   │   ├── period-leave-does-not-hamper-business-or-reduce-employability-say-firms.pdf
+│   │   │   └── q1-snapshot-of-the-indian-economy-attaining-recovery-will-be-a-long-haul.pdf
+│   │   └── Parliament
+│   │       └── vikas-dubey-case-sc-dismisses-plea-against-justice-b-s-chauhan-led-panel.pdf
+│   ├── 2020-Aug-20
+│   │   ├── Climate_Change
+│   │   │   └── maharashtra-committed-to-protect-conserve-western-ghats-uddhav-thackeray.pdf
+│   │   ├── Coal
+│   │   │   ├── india-s-dependence-on-thermal-power-to-dip-to-50-by-fy22-report.pdf
+│   │   │   └── tata-power-looks-to-use-preference-share-divestment-proceeds-to-cut-debt.pdf
+│   │   ├── Employment
+│   │   │   └── axis-bank-launches-gig-a-opportunities-to-hire-up-to-1-000-in-a-year.pdf
+│   │   ├── Jal
+│   │   │   └── jal-shakti-minister-gajendra-singh-shekhwat-tests-positive-for-coronavirus.pdf
+│   │   ├── Micro_Small_Medium_And_Enterprises
+│   │   │   └── approval-of-projects-under-pmegp-scheme-rises-44-between-april-august.pdf
+│   │   ├── Msme
+│   │   │   ├── govt-plans-stake-sale-in-irctc-invites-bids-for-managing-sale-by-sep-10.pdf
+│   │   │   ├── liquidity-to-msme-rises-as-bank-sanctions-cross-1-51-trn-under-eclgs.pdf
+│   │   │   ├── rs-1-5-trillion-sanctioned-by-banks-under-msme-lending-scheme-so-far.pdf
+│   │   │   └── up-ropes-in-fashion-designers-to-promote-traditional-crafts-and-industries.pdf
+│   │   ├── Parliament
+│   │   │   ├── a-year-of-hope-and-change.pdf
+│   │   │   └── parliamentary-panel-summons-facebook-on-sept-2-over-hate-posts.pdf
+│   │   └── Renewable
+│   ├── 2020-Aug-21
+│   │   ├── Coal
+│   │   │   └── coal-ministry-s-go-ahead-for-100-supply-to-thermal-power-units-by-cil.pdf
+│   │   ├── Ganga
+│   │   │   ├── covid-toes-rashes-to-hair-loss-8-ways-coronavirus-can-affect-your-skin.pdf
+│   │   │   ├── nearly-8-3-million-people-affected-in-16-flood-hit-districts-of-bihar.pdf
+│   │   │   └── va-tech-wabag-rallies-20-as-co-s-board-to-consider-fundraising-next-week.pdf
+│   │   ├── Jal
+│   │   │   ├── a-tap-for-every-home-india-adds-20-mn-water-connections-in-a-single-year.pdf
+│   │   │   └── bait-and-switch-the-maths-of-promises-and-delivery-will-have-to-add-up.pdf
+│   │   ├── Loan
+│   │   │   └── telangana-power-station-fire-ndrf-engaged-for-rescuing-those-trapped.pdf
+│   │   ├── Parliament
+│   │   │   ├── bjp-s-plan-a-and-plan-b-to-block-shashi-tharoor-s-summons-to-facebook.pdf
+│   │   │   └── top-headlines-future-to-discuss-merger-plan-parl-panel-summons-facebook.pdf
+│   │   └── Renewable
+│   │       ├── all-you-need-to-know-about-one-world-one-sun-one-grid-plan.pdf
+│   │       ├── bhel-bags-maiden-order-for-battery-energy-storage-systems-from-teri.pdf
+│   │       ├── ntpc-gets-niti-aayog-dipam-nod-to-set-up-renewable-energy-biz-arm.pdf
+│   │       ├── one-sun-one-world-one-grid-what-it-is-why-it-s-needed-what-will-it-do.pdf
+│   │       └── online-registration-licence-renewal-of-gold-hallmarking-centres-launched.pdf
+│   ├── 2020-Aug-22
+│   │   ├── Climate_Change
+│   │   │   └── california-wildfires-some-of-largest-in-state-history-thousands-flee.pdf
+│   │   ├── Ganga
+│   │   │   └── bihar-flood-situation-grim-8-36-million-people-affected-in-16-districts.pdf
+│   │   ├── Jal
+│   │   │   └── delhi-s-aap-govt-aims-to-meet-water-demand-supply-gap-in-3-years.pdf
+│   │   ├── Parliament
+│   │   │   ├── babri-masjid-case-sc-pushes-deadline-till-sept-30-for-verdict-by-cbi-court.pdf
+│   │   │   └── cag-report-on-defence-offset-performance-in-next-par-session-sitharaman.pdf
+│   │   └── Water
+│   ├── 2020-Aug-23
+│   │   ├── Fisheries
+│   │   │   └── milk-mantra-plans-expansion-in-talks-to-acquire-dairy-plant-in-kolkata.pdf
+│   │   ├── Ganga
+│   │   ├── Jal
+│   │   │   └── delhi-s-aap-govt-aims-to-bridge-water-demand-supply-gap-in-three-years.pdf
+│   │   ├── Natural_Resource
+│   │   │   └── incessant-rains-in-gujarat-hit-normal-life-flood-situation-in-bihar-grim.pdf
+│   │   └── Renewable
+│   │       └── covid-hit-39-gw-renewable-energy-projects-stare-at-delays-cancellations.pdf
+│   ├── 2020-Aug-24
+│   │   ├── Environment
+│   │   │   ├── extend-loan-moratorium-period-assistance-to-lawyers-pil-in-delhi-hc.pdf
+│   │   │   ├── pnb-expects-4-6-credit-growth-this-fiscal-says-mallikarjuna-rao.pdf
+│   │   │   ├── subordinate-debt-scheme-a-way-for-govt-to-hand-out-cash-to-needy-msmes.pdf
+│   │   │   └── weak-oil-refining-margins-to-put-pressure-on-fuel-retailers-fitch-ratings.pdf
+│   │   └── Parliament
+│   │       ├── japan-s-pm-abe-sets-mark-for-days-in-office-amid-rising-health-concerns.pdf
+│   │       └── kamal-nath-appeals-sonia-gandhi-to-continue-as-congress-president.pdf
+│   ├── 2020-Aug-25
+│   │   ├── Coal
+│   │   │   ├── govt-plans-cut-in-coal-imports-in-coming-years-to-save-forex-create-jobs.pdf
+│   │   │   └── land-acquisition-for-commercial-mining-may-come-under-coal-law-of-1957.pdf
+│   │   ├── Energy
+│   │   ├── Environment
+│   │   │   ├── banking-system-has-to-be-liberated-from-risk-aversion-mode-says-rbi.pdf
+│   │   │   ├── banks-sanction-loans-of-rs-1-56-trn-to-msmes-under-credit-guarantee-scheme.pdf
+│   │   │   ├── covid-19-impact-moody-s-lowers-sbi-s-baseline-credit-assessment-to-ba2.pdf
+│   │   │   ├── icici-bank-deploys-satellite-data-for-agricultural-credit-assessment.pdf
+│   │   │   ├── incentivising-fund-flow-at-affordable-rates-can-rekindle-investment-rbi.pdf
+│   │   │   ├── most-banks-see-meaningful-credit-growth-recovery-only-after-18-months.pdf
+│   │   │   ├── pharmacy-consolidation-may-disrupt-domestic-drug-market-credit-suisse.pdf
+│   │   │   ├── virgin-australia-s-unsecured-creditors-to-get-9-13-return-under-bain-deal.pdf
+│   │   │   └── what-saudi-aramco-s-cut-in-capex-could-mean-for-mega-deals-in-india.pdf
+│   │   ├── Micro_Small_Medium_And_Enterprises
+│   │   │   └── over-300-000-msmes-have-registered-on-udyam-portal-since-july-official.pdf
+│   │   ├── Natural_Resource
+│   │   │   └── bihar-flood-situation-remains-grim-8-362-million-people-affected.pdf
+│   │   ├── Parliament
+│   │   │   ├── greta-thunberg-voices-support-to-calls-for-postponement-of-neet-jee-exams.pdf
+│   │   │   └── latest-news-today-live-updates-25-august-2020.pdf
+│   │   └── Renewable
+│   │       └── teri-proposes-rs-40-trillion-worth-of-green-stimulus-to-revive-growth-jobs.pdf
+│   ├── 2020-Aug-26
+│   │   ├── Climate_Change
+│   │   │   └── us-prez-elections-biden-campaign-flooding-the-zone-with-celebrity-backers.pdf
+│   │   ├── Energy
+│   │   │   ├── sbi-plans-policy-to-lend-to-coal-miners-ahead-of-landmark-auctions.pdf
+│   │   │   └── states-to-pitch-for-dispute-resolution-system-at-gst-council-meet-on-aug-27.pdf
+│   │   ├── Environment
+│   │   │   ├── asian-development-bank-issues-3-billion-five-year-global-benchmark-bond.pdf
+│   │   │   └── rti-reply-raises-question-over-franklin-templeton-s-wind-up-move.pdf
+│   │   ├── Loan
+│   │   │   └── yamuna-continues-to-flow-near-warning-level-in-delhi-likely-to-increase.pdf
+│   │   ├── Natural_Resource
+│   │   │   └── how-the-sc-order-on-use-of-natural-resources-could-muffle-investments.pdf
+│   │   ├── Parliament
+│   │   │   ├── aap-mp-sanjay-singh-serves-privilege-notice-against-8-up-police-officials.pdf
+│   │   │   └── covid-19-impact-german-economy-shrinks-by-record-9-7-in-second-quarter.pdf
+│   │   ├── Renewable
+│   │   │   ├── planning-surplus-land-to-generate-20-gw-of-renewable-energy-goyal.pdf
+│   │   │   └── uae-central-to-india-s-extended-neighbourhood-says-s-jaishankar.pdf
+│   │   └── Supreme_Court
+│   ├── 2020-Aug-27
+│   │   ├── Agriculture
+│   │   │   └── need-to-change-negative-attitude-about-agriculture-says-telangana-cm.pdf
+│   │   ├── Consumer
+│   │   │   └── future-enterprises-hits-5-upper-circuit-as-board-to-consider-raising-funds.pdf
+│   │   ├── Credit
+│   │   │   └── icra-q1-net-profit-declines-17-to-rs-17-cr-income-down-at-rs-rs-80-8-cr.pdf
+│   │   ├── Environment
+│   │   │   ├── indian-farmers-driven-to-debt-as-banks-turn-risk-averse-during-pandemic.pdf
+│   │   │   ├── no-pressure-from-govt-to-participate-in-msme-scheme-says-sbi-chief.pdf
+│   │   │   ├── states-assure-centre-of-utilising-rs-1-trn-agri-fund-for-farmers-welfare.pdf
+│   │   │   └── unlock-bfsi-2-0-sbi-chief-hopes-for-lesser-corporate-debt-recast-requests.pdf
+│   │   ├── Farmer
+│   │   ├── Ganga
+│   │   │   └── over-8-36-million-people-still-suffering-in-bihar-as-floods-continue.pdf
+│   │   └── Renewable
+│   │       ├── railways-meets-solar-power-developers-for-zero-carbon-emission-goal.pdf
+│   │       └── will-hand-over-85-000-dignity-houses-in-ghmc-limits-by-dec-telangana-min.pdf
+│   ├── 2020-Aug-28
+│   │   ├── Climate_Change
+│   │   │   ├── decoded-here-s-why-women-may-face-less-severe-covid-19-symptoms-than-men.pdf
+│   │   │   └── env-min-official-spoke-about-fall-in-global-co2-emissions-govt-clarifies.pdf
+│   │   ├── Credit
+│   │   ├── Financial_Inclusion
+│   │   │   └── six-yrs-of-jan-dhan-widening-and-deepening-of-financial-inclusion-in-india.pdf
+│   │   ├── Fisheries
+│   │   │   └── milk-dairies-look-for-best-option-to-dispose-of-surplus-milk-due-to-covid.pdf
+│   │   ├── Gst
+│   │   │   ├── haryana-deputy-cm-seeks-rs-5-840-crore-gst-compensation-from-centre.pdf
+│   │   │   ├── icra-finds-finmin-s-estimates-of-gst-compensation-gap-much-smaller.pdf
+│   │   │   ├── multiplex-chain-pvr-found-guilty-of-profiteering-but-escapes-penalty.pdf
+│   │   │   ├── states-gst-revenue-shortfall-can-be-bridged-by-monetising-debt-nssf-sbi.pdf
+│   │   │   └── top-headlines-2-options-for-gst-compensation-covid-to-affect-it-employees.pdf
+│   │   ├── Loan
+│   │   │   ├── are-you-in-financial-trouble-ask-your-bank-to-restructure-your-loan-asap.pdf
+│   │   │   ├── rbi-may-not-extend-moratorium-on-repayment-of-loans-beyond-aug-31-report.pdf
+│   │   │   └── sc-to-hear-fresh-plea-for-extension-of-loan-moratorium-scheme-till-year-end.pdf
+│   │   └── Renewable
+│   │       ├── power-ministry-proposes-rpo-for-round-the-clock-renewable-energy.pdf
+│   │       └── rural-demand-to-aid-recovery-but-can-t-substitute-for-urban-demand-report.pdf
+│   ├── 2020-Aug-29
 │   │   ├── Business
-│   │   │   ├── market
-│   │   │   │   ├── mark-to-market
-│   │   │   │   │   └── lic-housing-finance-shows-resilience-amid-pandemic-but-bad-loan-worry-remains.pdf
-│   │   │   │   └── stock-market-news
-│   │   │   │       └── lic-housing-finance-rallies-11-after-strong-q1-performance.pdf
-│   │   │   └── news
-│   │   │       └── india
-│   │   │           ├── govt-open-to-more-changes-in-eclgs-to-support-small-business-individuals.pdf
-│   │   │           ├── govt-open-to-more-tweaks-in-rs-3-trillion-credit-guarantee-scheme-sitharaman.pdf
-│   │   │           └── gst-council-may-mull-proposal-to-cut-tax-on-two-wheeler.pdf
-│   │   └── Industry
-│   │       ├── companies
-│   │       │   └── news
-│   │       │       └── flipkart-aims-100-transition-to-electric-vehicles-in-next-10-years.pdf
-│   │       └── news
-│   │           └── india
-│   ├── 26-Aug-2020
-│   │   └── Industry
-│   │       ├── companies
-│   │       │   ├── news
-│   │       │   │   ├── amazon-faces-new-antitrust-challenge-from-indian-online-sellers-report.pdf
-│   │       │   │   └── tata-group-plots-ambitious-e-commerce-push-to-take-on-amazon-reliance.pdf
-│   │       │   └── start-ups
-│   │       │       └── e-commerce-battle-spills-into-insurtech-business.pdf
-│   │       ├── industry
-│   │       │   └── retail
-│   │       │       └── 30-september-is-deadline-to-adhere-to-country-of-origin-tag.pdf
-│   │       └── news
-│   │           ├── business-of-life
-│   │           │   └── mint-lite-tata-all-in-one-e-commerce-app-amazon-covid-vaccines-others.pdf
-│   │           ├── india
-│   │           │   ├── centre-proactively-engaging-states-to-boost-exports-commerce-secretary.pdf
-│   │           │   └── plan-to-use-surplus-land-of-railways-to-generate-20-gw-renewable-energy-goyal.pdf
-│   │           └── world
-│   │               └── us-blacklists-chinese-individuals-firms-for-south-china-sea-work.pdf
-│   ├── 27-Aug-2020
+│   │   │   ├── reliance-retail-to-buy-future-group-s-retail-business-for-rs-24-713-cr.pdf
+│   │   │   ├── states-may-permit-schools-to-call-50-staff-students-of-9th-to-12th-mha.pdf
+│   │   │   └── unlock-bfsi-2-0-rajnish-kumar-aditya-puri-on-their-success-mantra-more.pdf
+│   │   ├── Gst
+│   │   │   ├── frbm-hike-not-enough-need-0-75-percentage-point-leeway-thomas-isaac.pdf
+│   │   │   ├── govt-writes-to-states-suggests-borrowing-options-to-meet-gst-shortfall.pdf
+│   │   │   ├── latest-news-today-live-updates-29-august-2020.pdf
+│   │   │   ├── states-market-borrowing-set-to-get-costlier-sdl-yields-rise-24-bps.pdf
+│   │   │   ├── states-to-bear-interest-burden-for-borrowing-entire-rs-2-35-trn-shortfall.pdf
+│   │   │   └── will-fm-answer-how-to-describe-mismanagement-of-economy-chidambaram.pdf
+│   │   └── Renewable
+│   │       ├── energy-companies-go-green-change-tack-from-coal-to-renewables.pdf
+│   │       └── suzlon-energy-reports-q1-net-loss-at-rs-399-cr-due-to-lower-revenues.pdf
+│   ├── 2020-Aug-30
 │   │   ├── Business
-│   │   │   ├── news
-│   │   │   │   └── india
-│   │   │   │       ├── finance-minister-nirmala-sitharaman-to-chair-41st-gst-council-meeting-today.pdf
-│   │   │   │       ├── govt-looking-at-reforms-to-increase-efficiency-and-transparency-in-property-tax-collection-among-urban-local-bodies.pdf
-│   │   │   │       ├── gst-council-meeting-debates-revenue-shortfall-of-states.pdf
-│   │   │   │       └── states-to-demand-answers-to-fiscal-woes-at-gst-meet-today.pdf
-│   │   │   └── politics
-│   │   │       └── policy
-│   │   │           └── 41st-gst-council-meeting-live-updates-nirmala-sitharaman-speech-here-s-what-is-expected.pdf
+│   │   │   ├── as-ipo-looms-all-you-need-to-know-about-billionaire-jack-ma-s-ant-group.pdf
+│   │   │   ├── coal-india-to-create-additional-board-level-post-to-push-biz-development.pdf
+│   │   │   ├── ease-of-doing-business-beyond-quick-fixes.pdf
+│   │   │   ├── going-green-global-sustainable-bond-issuance-tops-99-9-bn-in-q2-fy20.pdf
+│   │   │   ├── grounded-in-mumbai.pdf
+│   │   │   ├── huawei-focusing-on-cloud-business-still-having-access-to-us-chips-report.pdf
+│   │   │   ├── india-seeks-stronger-rules-of-origin-as-it-urges-asean-for-fta-review.pdf
+│   │   │   ├── managing-markets.pdf
+│   │   │   └── we-want-to-be-a-key-player-in-distressed-assets-deutsche-bank-s-shaparia.pdf
+│   │   ├── Climate_Change
 │   │   ├── Commerce
-│   │   │   ├── companies
-│   │   │   │   ├── news
-│   │   │   │   │   ├── amazon-enters-fitness-space-with-amazon-halo-smart-band.pdf
-│   │   │   │   │   └── reliance-retail-warns-of-fake-jiomart-websites-seeking-franchisees.pdf
-│   │   │   │   └── start-ups
-│   │   │   │       └── indian-gaming-startup-gamezop-raises-rs-32-crore-from-us-investors-bitkraft.pdf
-│   │   │   ├── industry
-│   │   │   │   └── retail
-│   │   │   │       └── e-commerce-retail-market-expected-to-cross-100-billion-mark-by-2024.pdf
-│   │   │   ├── news
-│   │   │   │   ├── india
-│   │   │   │   │   ├── india-asean-businesses-need-to-work-to-resolve-differences-piyush-goyal.pdf
-│   │   │   │   │   └── what-indian-states-export-to-rest-of-the-world.pdf
-│   │   │   │   └── world
-│   │   │   │       └── us-targets-chinese-individuals-companies-amid-south-china-sea-dispute.pdf
-│   │   │   └── opinion
-│   │   │       └── online-views
-│   │   │           └── another-online-thrust-for-disintermediation.pdf
-│   │   ├── Finance
-│   │   │   ├── news
-│   │   │   │   └── india
-│   │   │   │       ├── bad-loans-govt-asks-psbs-to-look-at-initiating-insolvency-proceedings-against-personal-guarantors.pdf
-│   │   │   │       ├── centre-gives-2-options-to-states-on-gst-compensation-7-days-to-reply.pdf
-│   │   │   │       ├── finance-minister-nirmala-sitharaman-to-chair-41st-gst-council-meeting-today.pdf
-│   │   │   │       ├── government-wants-state-owned-lenders-to-monitor-cases-for-individual-bankruptcy.pdf
-│   │   │   │       └── gst-council-meeting-debates-revenue-shortfall-of-states.pdf
-│   │   │   └── politics
-│   │   │       └── policy
-│   │   │           ├── 41st-gst-council-meeting-live-updates-nirmala-sitharaman-speech-here-s-what-is-expected.pdf
-│   │   │           └── we-are-not-happy-with-outcome-cong-after-gst-council-meeting.pdf
-│   │   └── Industry
-│   │       ├── companies
-│   │       │   └── news
-│   │       │       ├── hai-ties-up-with-naukri-com-to-create-alternate-livelihoods-for-hospitality-work.pdf
-│   │       │       ├── pharma-industry-at-forefront-of-battle-against-covid-19-sun-pharma-chairman.pdf
-│   │       │       └── tata-motors-bsvi-commercial-vehicles-equipped-with-tech-performance-upgrades.pdf
-│   │       ├── money
-│   │       │   └── personal-finance
-│   │       │       └── covid-led-crisis-pushes-zillennials-into-investing.pdf
-│   │       ├── news
-│   │       │   ├── india
-│   │       │   │   ├── india-asean-businesses-need-to-work-to-resolve-differences-piyush-goyal.pdf
-│   │       │   │   ├── pharma-firms-worried-about-some-provisions-in-production-linked-incentive-scheme.pdf
-│   │       │   │   └── what-indian-states-export-to-rest-of-the-world.pdf
-│   │       │   └── world
-│   │       │       └── tired-of-social-distancing-at-home-try-mongolian-glamping.pdf
-│   │       └── technology
-│   │           └── tech-news
-│   │               └── pandemic-creates-demand-for-niche-digital-enabler-roles-say-experts.pdf
-│   ├── 27-Jul-2020
-│   │   └── Marketing
-│   │       └── industry
-│   │           └── media
-│   │               └── indian-audiences-watch-entertainers-with-or-without-star-kids.pdf
-│   ├── 28-Aug-2020
-│   │   ├── Business
-│   │   │   ├── companies
-│   │   │   │   └── news
-│   │   │   │       └── with-pag-deal-edelweiss-becomes-capital-surplus.pdf
-│   │   │   └── news
-│   │   │       └── india
-│   │   │           └── india-s-business-climate-rank-may-be-hit-by-world-bank-probe.pdf
-│   │   ├── Commerce
-│   │   │   └── companies
-│   │   │       └── news
-│   │   │           ├── walmart-sells-2-more-e-commerce-brands-in-digital-reshuffle.pdf
-│   │   │           └── walmart-wants-to-go-viral-with-tiktok-wall-street-thinks-it-can.pdf
-│   │   ├── Finance
-│   │   │   ├── companies
-│   │   │   │   └── news
-│   │   │   │       └── sbi-case-triggers-finmin-directive.pdf
-│   │   │   └── news
-│   │   │       └── world
-│   │   │           └── angela-merkel-warns-of-long-road-ahead-in-worsening-virus-crisis.pdf
+│   │   │   └── paytm-mall-suffers-massive-data-breach-ransom-demanded-report.pdf
+│   │   ├── Employment
+│   │   │   └── taxpayers-charter-expect-more-fairness.pdf
+│   │   ├── Gst
+│   │   │   ├── gst-compensation-row-fm-s-act-of-god-can-be-a-nightmare-for-rbi.pdf
+│   │   │   ├── gst-council-needs-to-work-out-revenue-shortfall-issue-sushil-modi.pdf
+│   │   │   ├── latest-news-today-live-updates-30-august-2020.pdf
+│   │   │   ├── purchases-imports-and-sez-supplies-to-be-auto-generated-under-gst-system.pdf
+│   │   │   ├── states-fiscal-deficit-may-touch-4-2-5-5-of-gsdp-in-current-financial-year.pdf
+│   │   │   ├── telecom-sector-revenue-expected-to-rise-15-in-fy21-on-higher-arpu-coai.pdf
+│   │   │   └── west-bengal-rejects-centre-s-borrowing-propositions-to-meet-gst-shortfall.pdf
 │   │   ├── Industry
-│   │   │   └── brand-stories
-│   │   │       └── tech-can-balance-development-sustainability-in-construction-space-say-experts.pdf
-│   │   └── Marketing
-│   │       ├── market
-│   │       │   └── mark-to-market
-│   │       │       └── as-pent-up-demand-fizzles-out-cement-prices-take-a-beating-across-most-regions.pdf
-│   │       └── mint-lounge
-│   │           └── features
-│   │               └── nitish-mittersain-big-game-hunting.pdf
-│   ├── 29-Aug-2020
+│   │   ├── Insurance
+│   │   ├── Pension
+│   │   │   └── future-group-reliance-deal-expected-to-address-financial-risks-to-lenders.pdf
+│   │   ├── Renewable
+│   │   │   ├── as-exxon-mobil-is-removed-from-the-dow-is-this-the-end-for-big-oil.pdf
+│   │   │   ├── gail-looks-at-petchem-renewables-for-growth.pdf
+│   │   │   └── saudi-aramco-discovers-two-oil-gas-fields-in-north-of-kingdom-report.pdf
+│   │   └── Tax
+│   ├── 2020-Aug-31
 │   │   ├── Business
-│   │   │   ├── companies
-│   │   │   │   ├── company-results
-│   │   │   │   │   └── wockhardt-q1-net-profit-at-rs-760-cr.pdf
-│   │   │   │   └── news
-│   │   │   │       ├── herbalife-admits-bribing-chinese-officials-to-grow-business.pdf
-│   │   │   │       ├── how-future-retail-fits-well-in-ril-s-offline-retail-business.pdf
-│   │   │   │       └── reliance-retail-buys-future-group-s-retail-other-businesses-for-rs-24-713-cr.pdf
-│   │   │   ├── industry
-│   │   │   │   └── banking
-│   │   │   │       └── retail-loans-worry-banks.pdf
-│   │   │   ├── mint-lounge
-│   │   │   │   └── features
-│   │   │   │       └── queering-the-publishing-pitch.pdf
-│   │   │   └── news
-│   │   │       └── india
-│   │   │           ├── gstn-rolls-out-auto-generated-credit-statements-to-improve-compliance.pdf
-│   │   │           └── heavy-rains-floods-claim-39-lives-in-pakistan.pdf
-│   │   ├── Finance
-│   │   │   ├── news
-│   │   │   │   └── india
-│   │   │   │       └── insurance-for-jan-dhan-a-c-holders-fm.pdf
-│   │   │   └── politics
-│   │   │       ├── news
-│   │   │       │   └── hdk-hits-out-at-centre-for-blaming-covid-19-pandemic-for-contraction-of-country.pdf
-│   │   │       └── policy
-│   │   │           └── centre-writes-to-states-on-terms-for-financing-gst-shortfall.pdf
-│   │   └── Marketing
-│   │       ├── companies
-│   │       │   ├── company-results
-│   │       │   │   └── wockhardt-q1-net-profit-at-rs-760-cr.pdf
-│   │       │   ├── news
-│   │       │   │   └── urban-ladder-buyout-plan-to-consolidate-furniture-e-tail.pdf
-│   │       │   └── people
-│   │       │       └── women-fund-managers-beating-men-in-picking-stocks-goldman-finds.pdf
-│   │       ├── industry
-│   │       │   └── banking
-│   │       │       └── rbi-may-not-extend-moratorium-on-repayment-of-loans-beyond-monday.pdf
-│   │       ├── mint-lounge
-│   │       │   └── features
-│   │       │       └── queering-the-publishing-pitch.pdf
-│   │       └── news
-│   │           └── world
-│   │               └── brutal-loss-absolutely-heartbreaking-hollywood-on-chadwick-boseman-s-death.pdf
-│   ├── 29-Jul-2020
-│   │   └── Marketing
-│   │       ├── companies
-│   │       │   └── news
-│   │       │       ├── raymond-cuts-jobs-as-people-work-from-home.pdf
-│   │       │       └── sequoia-backed-hevo-raises-8-million-in-series-a-funding.pdf
-│   │       └── news
-│   │           └── india
-│   │               └── how-an-indian-small-town-boy-built-a-15-million-edtech-start-up.pdf
-│   ├── 30-Aug-2020
+│   │   │   ├── best-of-bs-opinion-journey-of-economic-reforms-ease-of-doing-biz-more.pdf
+│   │   │   ├── china-s-new-tech-export-regulations-to-hinder-tiktok-s-survival-in-us.pdf
+│   │   │   ├── how-slow-but-steady-eruditus-won-chan-zuckerberg-fund-s-attention.pdf
+│   │   │   ├── man-for-many-seasons-former-envoy-k-shankar-bajpai-passes-away-at-92.pdf
+│   │   │   ├── phonepe-to-expand-business-digitise-25-mn-small-merchants-create-10k-jobs.pdf
+│   │   │   ├── ril-future-group-deal-ril-shares-rally-over-2-5-future-group-stocks-jump.pdf
+│   │   │   └── tiktok-will-strictly-abide-by-new-china-export-regulations-bytedance.pdf
+│   │   ├── Climate_Change
+│   │   │   └── plea-for-60-days-to-respond-to-translated-eia-2020-hc-seeks-govt-stand.pdf
 │   │   ├── Commerce
-│   │   │   └── c.pdf
-│   │   ├── Economy
-│   │   │   ├── market
-│   │   │   │   └── mark-to-market
-│   │   │   │       └── markets-may-turn-wary-as-gdp-print-to-shift-focus-to-tough-economic-reality.pdf
-│   │   │   ├── news
-│   │   │   │   └── india
-│   │   │   │       ├── fiscal-deficit-to-touch-7-in-fy21-brickwork-ratings.pdf
-│   │   │   │       ├── india-s-exporters-are-on-the-edge.pdf
-│   │   │   │       └── unlock-4-0-reflects-india-s-tenuous-lives-versus-livelihood-trade-off.pdf
-│   │   │   └── opinion
-│   │   │       └── online-views
-│   │   │           └── this-could-yet-be-india-s-worst-economic-crisis.pdf
+│   │   ├── Crop
+│   │   │   └── nestle-to-buy-aimmune-valuing-allergy-treatment-maker-at-2-6-billion.pdf
+│   │   ├── Energy
+│   │   ├── Environment_Forest_And_Climate_Change
 │   │   ├── Finance
-│   │   │   └── insurance
-│   │   │       └── news
-│   │   │           └── four-reasons-why-comprehensive-motor-insurance-is-important-in-covid19-times.pdf
-│   │   └── Marketing
-│   │       ├── mint-lounge
-│   │       │   └── features
-│   │       │       └── masaba-masaba-real-women-in-real-stories.pdf
-│   │       └── news
-│   │           └── world
-│   │               └── india-asean-trade-ministers-call-for-fta-review.pdf
-│   └── 31-Aug-2020
+│   │   │   ├── 5-companies-garner-rs-882-cr-via-non-convertible-debentures-in-april-july.pdf
+│   │   │   ├── aiims-for-karnataka-under-centre-s-active-consideration-health-minister.pdf
+│   │   │   ├── amit-shah-other-bjp-leaders-express-grief-over-pranab-mukherjee-s-death.pdf
+│   │   │   ├── first-economic-contraction-in-4-decades-india-gdp-shrinks-23-9-in-q1fy21.pdf
+│   │   │   ├── germany-to-revise-downward-its-2021-growth-forecast-due-to-covid-19-report.pdf
+│   │   │   ├── kerala-rejects-govt-s-proposal-of-borrowing-by-states-to-meet-gst-shortfall.pdf
+│   │   │   ├── most-firm-that-availed-loan-moratoriums-were-facing-challenges-before-covid.pdf
+│   │   │   ├── over-173-000-workers-returned-to-assam-during-lockdown-state-govt.pdf
+│   │   │   ├── pe-firm-tpg-capital-asks-puneet-bhatia-to-honour-shareholders-verdict.pdf
+│   │   │   ├── pranab-mukherjee-as-finance-minister-two-stints-25-years-apart.pdf
+│   │   │   ├── rahul-gandhi-congress-pay-rich-tributes-to-ex-president-pranab-mukherjee.pdf
+│   │   │   ├── shift-to-e-dis-method-at-the-earliest-if-your-broker-is-trading-for-you.pdf
+│   │   │   └── telangana-says-it-lost-rs-8-000-cr-income-seeks-full-gst-compensation.pdf
+│   │   ├── Food
+│   │   ├── Forest
+│   │   ├── Ganga
+│   │   │   └── 55-houses-swept-away-by-ganga-in-west-bengal-s-malda-district.pdf
+│   │   ├── Gst
+│   │   │   └── oppn-ruled-states-dismiss-centre-s-2-options-on-gst-compensation-shortfall.pdf
+│   │   ├── Irrigation
+│   │   ├── Loan
+│   │   │   └── yamuna-river-water-level-receding-gradually-say-officials.pdf
+│   │   ├── Renewable
+│   │   │   ├── bpcl-consumers-to-get-cooking-gas-subsidy-after-privatisation-too.pdf
+│   │   │   ├── oil-prices-edge-up-on-global-stimulus-support-despite-ample-supplies.pdf
+│   │   │   ├── power-equipment-companies-changing-tack-in-push-for-green-energy.pdf
+│   │   │   └── us-open-2020-kim-clijsters-return-serena-williams-other-things-to-know.pdf
+│   │   ├── Tourism
+│   │   └── Water
+│   │       └── tripura-bangladesh-inland-waterways-route-to-be-operational-on-september-5.pdf
+│   ├── 2020-Feb-03
+│   │   └── Loan
+│   │       └── jal-jeevan-mission-to-add-11-5-million-household-tap-connections-by-fy21.pdf
+│   ├── 2020-Feb-04
+│   │   ├── Loan
+│   │   │   └── escorts-stock-gains-on-tractor-sales-uptick-budget-2020-proposals.pdf
+│   │   └── Water
+│   │       └── left-parties-to-hold-protest-marches-against-union-budget-from-feb-12-to-18.pdf
+│   ├── 2020-Feb-07
+│   │   └── Tourism
+│   │       └── 200-mous-signed-at-defexpo-usd-5-bn-in-indian-defence-exports-by-2024-rajnath.pdf
+│   ├── 2020-Feb-14
+│   │   ├── Natural_Resource
+│   │   │   └── trump-wants-usd-1-5b-over-10-years-to-revive-us-uranium-mining.pdf
+│   │   └── Scholarship
+│   │       └── odisha-to-tap-5t-model-for-mineral-resource-mapping-extend-kalia-scheme.pdf
+│   ├── 2020-Feb-15
+│   │   └── Natural_Resource
+│   │       └── how-to-stop-the-next-global-outbreak.pdf
+│   ├── 2020-Feb-22
+│   │   └── Water
+│   │       └── need-to-enhance-global-risk-monitoring-sitharaman.pdf
+│   ├── 2020-Feb-24
+│   │   └── Tourism
+│   │       └── gail-to-invest-rs-1-05-lakh-cr-to-create-infra-for-gas-based-economy.pdf
+│   ├── 2020-Feb-27
+│   │   └── Water
+│   │       ├── aap-mla-raghav-chadha-likely-to-be-new-vice-chairman-of-delhi-jal-board.pdf
+│   │       └── delhi-violence-anti-caa-protests-have-not-dampened-investor-sentiment-fm.pdf
+│   ├── 2020-Jan-02
+│   │   └── Natural_Resource
+│   │       └── how-india-performed-in-managing-forests-water-and-plastic-waste-in-2019.pdf
+│   ├── 2020-Jan-08
+│   │   └── Natural_Resource
+│   │       └── australia-bushfires-authorities-plan-to-kill-10-000-water-starved-camels.pdf
+│   ├── 2020-Jan-10
+│   │   └── Natural_Resource
+│   │       ├── lensman-steve-winter-on-his-iconic-shots-big-cats-and-love-for-indian-food.pdf
+│   │       └── quarter-of-million-australians-asked-to-evacuate-as-bushfires-intensify.pdf
+│   ├── 2020-Jan-21
+│   │   └── Natural_Resource
+│   │       └── global-resource-consumption-tops-100-bn-tonnes-for-first-time.pdf
+│   ├── 2020-Jan-22
+│   │   └── Natural_Resource
+│   │       └── business-leaders-come-together-set-up-body-for-climate-change-action.pdf
+│   ├── 2020-Jan-31
+│   │   └── Loan
+│   │       └── privatised-cpses-reported-better-profit-sales-after-transition-survey.pdf
+│   ├── 2020-Jul-01
+│   │   └── Water
+│   │       └── every-bundelkhand-home-will-be-supplied-drinking-water-in-next-2-year-yogi.pdf
+│   ├── 2020-Jul-03
+│   │   └── Forest
+│   │       └── only-one-tiger-lives-in-a-forest-digvijaya-hits-back-at-scindia.pdf
+│   ├── 2020-Jul-09
+│   │   └── Water
+│   │       └── haryana-to-get-rs-1-500-cr-aid-for-crop-diversification-ponds-rejuvenation.pdf
+│   ├── 2020-Jul-11
+│   │   └── Water
+│   │       └── prove-horse-trading-charge-or-quit-politics-bjp-tells-gehlot-alleges-cm-is-targeting-his-deputy-due-to-infighting.pdf
+│   ├── 2020-Jul-12
+│   │   ├── Climate_Change
+│   │   ├── Forest
+│   │   │   └── 180-us-academic-institutions-join-lawsuit-against-student-visa-restrictions.pdf
+│   │   └── Water
+│   │       └── 2-5-mn-piped-water-connections-provided-during-covid-under-shekhawat.pdf
+│   ├── 2020-Jul-15
+│   │   └── Natural_Resource
+│   │       ├── india-eu-adopt-declaration-on-moving-towards-more-circular-economic-model.pdf
+│   │       └── russia-exports-more-gold-than-gas-for-the-first-time-in-30-years.pdf
+│   ├── 2020-Jul-16
+│   │   └── Water
+│   │       └── 100-000-tap-water-connections-provided-daily-4-5-mn-since-april-govt.pdf
+│   ├── 2020-Jul-20
+│   │   ├── Irrigation
+│   │   │   └── urban-equilibrium.pdf
+│   │   └── Jal
+│   │       ├── after-sog-notice-shekhawat-says-check-authenticity-of-audiotapes-first.pdf
+│   │       └── covid-19-casts-a-new-light-on-steel-as-rural-india-provides-some-succour.pdf
+│   ├── 2020-Jul-21
+│   │   ├── Fisheries
+│   │   │   └── city-fishing-harbour-out-of-bounds-for-public-says-tamil-nadu-govt.pdf
+│   │   └── Irrigation
+│   │       ├── groundnut-soyabean-propel-kharif-sowing-in-gujarat-to-more-than-75.pdf
+│   │       └── rains-may-pick-up-in-the-next-few-days-over-north-and-south-india-imd.pdf
+│   ├── 2020-Jul-22
+│   │   └── Jal
+│   │       └── pm-modi-to-lay-foundation-stone-for-manipur-water-project-on-thursday.pdf
+│   ├── 2020-Jul-23
+│   │   ├── Irrigation
+│   │   │   ├── bharti-axa-gets-rs-800-cr-crop-insurance-mandate-from-maharashtra-k-taka.pdf
+│   │   │   ├── lockdown-and-uneven-rainfall-hits-tea-crop-prices-firm-up-at-auctions.pdf
+│   │   │   └── rallis-investors-should-wait-for-consistent-performance-in-upcoming-qtrs.pdf
+│   │   └── Jal
+│   │       └── pm-narendra-modi-lays-foundation-stone-for-manipur-water-supply-project.pdf
+│   ├── 2020-Jul-24
+│   │   └── Irrigation
+│   │       └── up-farmers-expect-bumper-paddy-crop-this-year-with-good-monsoons.pdf
+│   ├── 2020-Jul-27
+│   │   └── Jal
+│   │       └── ngt-panel-seeks-report-from-cpcb-dpcc-on-frothing-in-yamuna-river.pdf
+│   ├── 2020-Jul-28
+│   │   └── Fisheries
+│   │       └── us-raises-questions-on-certain-indian-schemes-for-fishery-in-wto-committee.pdf
+│   ├── 2020-Jul-29
+│   │   ├── Irrigation
+│   │   │   ├── deve-gowda-threatens-nationwide-stir-against-karnataka-s-new-land-law.pdf
+│   │   │   ├── eng-vs-ire-upto-younger-crop-to-take-ireland-cricket-forward-says-o-brien.pdf
+│   │   │   └── review-pmfby.pdf
+│   │   └── Natural_Resource
+│   │       └── finance-transmission-may-trip-india-in-race-to-meet-renewables-targets.pdf
+│   ├── 2020-Jul-30
+│   │   └── Jal
+│   │       └── krishna-river-board-directs-andhra-govt-to-stop-rayalaseema-project-works.pdf
+│   ├── 2020-Jul-31
+│   │   └── Irrigation
+│   │       ├── india-s-kharif-rice-sowing-up-19-so-far-on-account-of-good-rains.pdf
+│   │       └── rainfall-in-aug-sept-to-be-normal-says-imd-more-area-under-kharif-crops.pdf
+│   ├── 2020-Jun-01
+│   │   └── Water
+│   │       └── modi-govt-2-0-s-first-year-in-office-e-booklet-on-achievements-released.pdf
+│   ├── 2020-Jun-03
+│   │   ├── Dairy
+│   │   │   └── britannia-overall-business-outlook-expected-to-be-robust-going-ahead.pdf
+│   │   └── Natural_Resource
+│   │       └── wildlife-poaching-in-india-more-than-doubles-during-lockdown-report.pdf
+│   ├── 2020-Jun-04
+│   │   ├── Natural_Resource
+│   │   │   └── kerala-pregnant-elephant-s-cruel-death-maximum-punishment-culprits-can-get-under-wildlife-protection-act.pdf
+│   │   └── Tourism
+│   │       └── three-pvt-hospitals-to-reserve-10-beds-for-poor-covid-19-patients-in-delhi.pdf
+│   ├── 2020-Jun-06
+│   │   └── Tourism
+│   │       └── covid-19-crisis-no-new-scheme-for-a-year-as-govt-tightens-purse-strings.pdf
+│   ├── 2020-Jun-07
+│   │   └── Tourism
+│   │       └── delhi-medical-body-slams-cm-for-warning-hospitals-over-covid-admissions.pdf
+│   ├── 2020-Jun-08
+│   │   ├── Dairy
+│   │   │   ├── mother-dairy-launches-haldi-milk-to-boost-immunity-amid-covid-19-outbreak.pdf
+│   │   │   └── sebi-directs-dairy-plantations-to-refund-investor-money-in-cis-case.pdf
+│   │   └── Water
+│   │       └── amit-shah-urges-people-to-use-indigenous-products-for-economic-self-reliance.pdf
+│   ├── 2020-Jun-10
+│   │   └── Dairy
+│   │       └── from-pepsi-to-britannia-brands-step-up-to-the-digital-storefront.pdf
+│   ├── 2020-Jun-13
+│   │   └── Tourism
+│   │       ├── delhi-govt-allows-sir-ganga-ram-hospital-to-resume-covid-19-testing.pdf
+│   │       └── sir-ganga-ram-hospital-moves-hc-for-quashing-fir-for-violating-covid-19-norms.pdf
+│   ├── 2020-Jun-14
+│   │   └── Tourism
+│   │       └── pnb-extends-credit-line-of-rs-750-cr-for-gorakhpur-link-expressway.pdf
+│   ├── 2020-Jun-15
+│   │   └── Dairy
+│   │       └── mother-dairy-ties-up-with-zomato-to-deliver-fruits-vegetables-in-delhi-ncr.pdf
+│   ├── 2020-Jun-19
+│   │   ├── Dairy
+│   │   │   └── milk-mantra-raises-10-million-from-us-based-dfc-gets-tech-package-too.pdf
+│   │   └── Fisheries
+│   ├── 2020-Jun-20
+│   │   └── Natural_Resource
+│   │       └── vulnerable-to-rise-in-temperature-india-needs-to-take-heatwave-seriously.pdf
+│   ├── 2020-Jun-21
+│   │   ├── Forest
+│   │   ├── Pension
+│   │   │   └── a-crackdown-on-the-steel-frame.pdf
+│   │   └── Trade
+│   ├── 2020-Jun-24
+│   │   ├── Animal_Husbandry
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── govt-approves-rs-15k-cr-animal-husbandry-infra-fund-to-generate-employment.pdf
+│   ├── 2020-Jun-25
+│   │   └── Forest
+│   │       └── 34-senior-bureaucrats-to-supervise-central-scheme-for-street-vendors.pdf
+│   ├── 2020-Jun-26
+│   │   └── Scholarship
+│   │       └── dinyar-patel-s-book-naoroji-fills-a-gap-in-major-historical-scholarship.pdf
+│   ├── 2020-Jun-27
+│   │   └── Forest
+│   │       └── locusts-reach-delhi-outskirts-govt-asks-south-west-zones-to-be-on-alert.pdf
+│   ├── 2020-Jun-30
+│   │   ├── Fisheries
+│   │   │   └── india-s-marine-fish-production-witnesses-marginal-rise-of-2-3-in-2019.pdf
+│   │   └── Forest
+│   │       └── delhi-hc-extends-time-till-august-11-for-filing-objections-to-draft-eia.pdf
+│   ├── 2020-Mar-04
+│   │   ├── Tourism
+│   │   │   ├── bihar-govt-to-develop-organic-corridor-in-13-districts.pdf
+│   │   │   └── yogi-government-fast-tracks-rs-36-000-crore-ganga-expressway-project.pdf
+│   │   └── Water
+│   │       └── coronavirus-fm-says-govt-ready-for-meaningful-intervention-if-required.pdf
+│   ├── 2020-Mar-05
+│   │   ├── Loan
+│   │   │   └── s-p-lowers-jain-irrigation-s-ratings-to-d-for-missing-interest-payments.pdf
+│   │   └── Water
+│   │       └── rs-750-cr-paid-by-jal-was-towards-obligation-of-jaypee-infratech-nclt.pdf
+│   ├── 2020-Mar-07
+│   │   └── Natural_Resource
+│   │       └── over-40-environment-related-crimes-in-rajasthan-during-2014-16-cag.pdf
+│   ├── 2020-Mar-09
+│   │   ├── Animal_Husbandry_Dairying_And_Fisheries
+│   │   │   └── a-lost-opportunity.pdf
+│   │   └── Tourism
+│   │       └── groundwater-situation-alarming-in-ganga-basin-states-due-to-rising-dry-days-official.pdf
+│   ├── 2020-Mar-16
+│   │   └── Water
+│   │       ├── delhi-court-acquits-aap-mla-dinesh-mohaniya-in-molestation-case-of-2016.pdf
+│   │       └── fm-reaches-out-to-cas-to-promote-vivad-se-vishwas-scheme.pdf
+│   ├── 2020-Mar-18
+│   │   └── Tourism
+│   │       └── people-s-participation-in-ganga-arti-banned-till-march-31.pdf
+│   ├── 2020-Mar-19
+│   │   └── Loan
+│   │       └── five-ways-to-manage-market-volatility.pdf
+│   ├── 2020-Mar-20
+│   │   └── Tourism
+│   │       └── coronavirus-street-and-hubs-deserted-as-people-go-for-social-distancing.pdf
+│   ├── 2020-May-06
+│   │   └── Natural_Resource
+│   │       └── coronavirus-crisis-texas-regulators-do-not-mandate-oil-production-cuts.pdf
+│   ├── 2020-May-07
+│   │   └── Tourism
+│   │       └── can-ganga-water-treat-covid-19-icmr-says-no-to-study-need-more-data.pdf
+│   ├── 2020-May-15
+│   │   ├── Animal_Husbandry
+│   │   │   ├── animal-husbandry-infra-development-fund-to-add-50-more-dairy-capacity.pdf
+│   │   │   ├── day-3-fm-s-rs-1-5-trn-package-rs-35-000-cr-outlay-over-coming-few-years.pdf
+│   │   │   └── rs-1-trn-fund-to-bee-keeping-fm-sitharaman-s-11-steps-to-help-farmers.pdf
+│   │   ├── Dairy
+│   │   │   └── sitharaman-brings-farm-sector-reforms-to-deregulate-onion-potato-prices.pdf
+│   │   └── Fisheries
+│   ├── 2020-May-22
+│   │   ├── Dairy
+│   │   │   └── everyday-heroes.pdf
+│   │   └── Water
+│   │       └── lockdown-leads-to-cleaner-water-bodies-minister-says-time-to-introspect.pdf
+│   ├── 2020-May-24
+│   │   └── Tourism
+│   │       └── uttar-pradesh-govt-launch-ganga-expressway-project-to-cost-rs-30-000-cr.pdf
+│   ├── 2020-May-27
+│   │   └── Natural_Resource
+│   │       └── locust-attack-badly-timed-serious-infestation-environment-min-official.pdf
+│   ├── 2020-May-29
+│   │   └── Loan
+│   │       └── kcr-launches-last-phase-of-rs-1-trn-kaleshwaram-lift-irrigation-project.pdf
+│   ├── 2020-May-30
+│   │   ├── Dairy
+│   │   │   └── up-to-amend-textile-tourism-policies-to-reboot-industry-create-jobs.pdf
+│   │   └── Water
+│   │       └── will-set-global-example-for-economic-revival-pm-modi-in-letter-to-nation.pdf
+│   ├── 2020-Sep-01
+│   │   ├── Business
+│   │   ├── Commerce
+│   │   ├── Dairy
+│   │   ├── Economy
+│   │   │   ├── are-covid-and-the-economy-still-linked.pdf
+│   │   │   └── from-pmi-to-auto-sales-august-numbers-send-mixed-signals-on-recovery.pdf
+│   │   ├── Finance
+│   │   │   ├── agriculture-clocks-growth-rate-of-3-4-in-q1-despite-gdp-contraction.pdf
+│   │   │   ├── auto-sales-bounce-back-in-august-on-low-base-effect-pent-up-demand.pdf
+│   │   │   ├── china-s-aug-export-orders-shake-off-covid-gloom-fuelling-factory-expansion.pdf
+│   │   │   ├── construction-finance-lrd-rates-lowest-in-10-yrs-for-top-realtors-experts.pdf
+│   │   │   ├── covid-19-1-700-mid-size-companies-need-debt-restructuring-says-crisil.pdf
+│   │   │   ├── covid-19-impact-turkey-s-economy-contracts-by-nearly-10-in-q2.pdf
+│   │   │   ├── covid-19-italy-plunges-into-recession-economy-shrinks-12-8-in-q2.pdf
+│   │   │   ├── economic-contraction-india-paid-the-price-of-lockdown-for-little-reward.pdf
+│   │   │   ├── economic-tsunami-priyanka-gandhi-attacks-centre-over-plummeting-gdp.pdf
+│   │   │   ├── germany-sees-economy-recovering-faster-than-expected-in-2020-amid-pandemic.pdf
+│   │   │   ├── global-economy-asian-factories-shaking-off-covid-19-gloom-china-shines.pdf
+│   │   │   ├── gst-compensation-row-state-govts-ask-centre-to-borrow-and-pay.pdf
+│   │   │   ├── india-among-large-emerging-mkts-with-highest-debt-burden-in-2021-moody-s.pdf
+│   │   │   ├── india-s-factory-activity-grows-for-first-time-in-five-months-in-august.pdf
+│   │   │   ├── israel-eyes-6-5-billion-in-annual-bilateral-trade-as-uae-peace-talks-begin.pdf
+│   │   │   ├── new-monetary-policy-framework-critical-robust-evolution-us-fed-vice-chair.pdf
+│   │   │   ├── q1-gdp-data-employment-creating-sectors-bear-brunt-of-slowdown.pdf
+│   │   │   ├── q2-financial-conditions-positive-due-to-steps-by-govt-rbi-cii-iba-survey.pdf
+│   │   │   ├── rbi-intent-to-check-yields-bat-for-stronger-rupee-sparks-bond-market-rally.pdf
+│   │   │   ├── rebooting-economy-adityanath-to-host-virtual-conclave-for-investors.pdf
+│   │   │   ├── south-korea-unveils-aggressive-spending-plans-for-growth-amid-covid19.pdf
+│   │   │   ├── the-troubleshooter.pdf
+│   │   │   ├── top-biz-headlines-gdp-shrinks-23-9-adani-gvk-deal-jiofiber-and-more.pdf
+│   │   │   └── why-buffett-s-bet-on-japan-could-turn-on-higher-inflation-weakening-dollar.pdf
+│   │   ├── Fisheries
+│   │   │   └── this-iitian-and-ex-infy-techie-is-creating-india-s-first-kiddie-dairy-brand.pdf
+│   │   ├── Industry
+│   │   ├── Insurance
+│   │   │   ├── best-of-bs-opinion-a-global-perspective-on-innovation-gst-row-more.pdf
+│   │   │   ├── cm-bhupesh-baghel-demands-rs-2-828-cr-from-centre-as-gst-compensation.pdf
+│   │   │   ├── consider-simple-legally-viable-ways-to-provide-gst-dues-kejriwal-to-pm.pdf
+│   │   │   ├── gross-gst-collection-stood-at-rs-86-449-crore-in-august-finance-min.pdf
+│   │   │   ├── kejriwal-writes-to-pm-modi-to-consider-more-viable-options-for-gst.pdf
+│   │   │   └── latest-news-today-live-updates-1-september-2020.pdf
+│   │   ├── Marketing
+│   │   │   └── 98-of-exporters-especially-msmes-will-benefit-under-meis-piyush-goyal.pdf
+│   │   ├── Micro_Small_Medium_And_Enterprises
+│   │   ├── Supreme_Court
+│   │   │   ├── 10-years-to-pay-agr-dues-puts-a-question-mark-on-vodafone-idea-s-survival.pdf
+│   │   │   ├── agr-case-professional-managers-face-bigger-risk-if-telcos-default.pdf
+│   │   │   ├── gains-ahead-for-jio-bharti-as-telco-market-heads-towards-a-duopoly.pdf
+│   │   │   ├── no-rubbing-of-shivalingam-at-mahakal-temple-sc-orders-to-stop-erosion.pdf
+│   │   │   ├── sc-gives-telcos-10-yrs-to-pay-agr-dues-says-10-to-be-paid-upfront.pdf
+│   │   │   ├── sc-gives-telcos-10-yrs-to-repay-agr-dues-nclt-to-decide-on-spectrum-sale.pdf
+│   │   │   ├── sc-okays-sbicap-s-proposal-to-fund-six-stalled-project-of-amrapali-group.pdf
+│   │   │   ├── sc-to-decide-on-extending-moratorium-on-repayment-of-loans-on-wednesday.pdf
+│   │   │   ├── sc-upholds-aptel-order-granting-compensatory-tariff-to-adani-power-plant.pdf
+│   │   │   ├── short-of-time-and-funds-voda-idea-can-t-celebrate-sc-s-agr-dues-order.pdf
+│   │   │   ├── the-agr-verdict-and-its-impact-on-vodafone-idea.pdf
+│   │   │   ├── three-key-sc-decisions-that-could-change-telecom-sweepstakes-in-the-country.pdf
+│   │   │   ├── top-court-makes-ceos-liable-if-telecom-companies-fail-to-pay-agr-dues.pdf
+│   │   │   ├── top-headlines-sc-verdict-on-agr-moratorium-on-loan-repayment-and-more.pdf
+│   │   │   ├── vodafone-idea-shares-plunge-17-airtel-up-4-after-sc-s-agr-verdict.pdf
+│   │   │   ├── voda-idea-in-danger-of-becoming-a-zombie-telco-may-just-about-survive.pdf
+│   │   │   ├── vodaidea-slips-25-from-day-s-high-airtel-up-6-post-sc-agr-verdict.pdf
+│   │   │   └── waiver-of-emi-interest-against-basic-canon-of-finance-centre-to-sc.pdf
+│   │   └── Tax
+│   │       ├── damaged-wto-now-leaderless-as-chief-roberto-azevedo-steps-down.pdf
+│   │       └── nifty-outlook-stock-calls-by-anand-rathi-buy-bajaj-auto-relaxo-footwear.pdf
+│   └── 2020-Sep-02
+│       ├── Agriculture
+│       │   └── fairness-cream-firms-get-innovative-with-marketing-use-synonyms-for-fair.pdf
+│       ├── Business
+│       │   ├── dhfl-auditors-discover-fraudulent-transactions-worth-rs-14-046-cr.pdf
+│       │   ├── fm-to-meet-heads-of-banks-nbfcs-to-review-loan-recast-scheme-on-thursday.pdf
+│       │   └── ministries-psus-banks-to-stop-physical-of-printing-calendars-diaries.pdf
+│       ├── Climate
+│       │   └── un-environment-program-calls-for-adopting-sustainable-food-systems.pdf
+│       ├── Climate_Change
+│       │   └── exxon-mobil-considering-global-job-cuts-as-pandemic-hurts-spokesman.pdf
 │       ├── Commerce
-│       │   └── market
-│       │       └── stock-market-news
-│       │           └── stocks-to-watch-ril-future-enterprises-pvr-vedanta-hcl-tech.pdf
+│       ├── Commodities
+│       ├── Consumer
+│       ├── Credit
+│       │   └── electricity-demand-improves-to-98-of-pre-covid-19-level-in-august-icra.pdf
+│       ├── Crop
 │       ├── Economy
-│       │   ├── market
-│       │   │   └── mark-to-market
-│       │   │       └── a-gdp-contraction-makes-for-an-ugly-loan-growth-arithmetic.pdf
-│       │   └── news
-│       │       └── india
-│       │           ├── bjp-government-has-attacked-the-informal-economy-rahul-gandhi.pdf
-│       │           ├── economy-still-in-unchartered-zone-rural-economy-at-risk-say-economists.pdf
-│       │           ├── india-s-economy-faces-worst-quarterly-slump-ever-after-lockdown.pdf
-│       │           └── india-s-q1-contraction-may-be-worst-among-g20.pdf
+│       │   ├── acquisition-of-future-group-to-strengthen-ril-s-retail-footprint-moody-s.pdf
+│       │   ├── bajaj-auto-posts-9-fall-in-total-sales-in-august-with-356-199-units-sold.pdf
+│       │   ├── cabinet-approves-pact-between-india-finland-for-cooperation-in-geology.pdf
+│       │   ├── coal-india-q1-profit-plunges-55-to-rs-2-080-cr-due-to-lower-sales.pdf
+│       │   ├── covid-19-restrictions-to-shave-off-18-of-ongc-capex-for-fy21-executive.pdf
+│       │   ├── global-markets-stocks-gain-on-us-manufacturing-survey-stimulus-hopes.pdf
+│       │   ├── gsfc-restarts-methanol-plant-after-six-years-to-aid-import-substitution.pdf
+│       │   ├── india-jumps-4-places-on-global-innovation-index-to-enter-top-50-league.pdf
+│       │   ├── india-mulling-anti-dumping-duty-on-acrylic-fibre-from-eu-peru-others.pdf
+│       │   ├── india-reeling-under-modi-made-disasters-rahul-on-economic-slowdown.pdf
+│       │   ├── kashmir-can-be-a-model-for-sustainable-economies-of-tomorrow-haseeb-drabu.pdf
+│       │   ├── one-of-the-world-s-richest-petrostates-kuwait-is-running-out-of-cash.pdf
+│       │   ├── rating-agencies-up-projection-for-india-s-gdp-contraction-in-fy21.pdf
+│       │   ├── rupee-skids-25-paise-to-73-12-against-us-dollar-in-early-trade.pdf
+│       │   ├── to-soften-covid-19-blow-india-plans-to-extend-mgnrega-to-the-cities.pdf
+│       │   ├── unacademy-raises-150mn-funding-led-by-softbank-valuation-reaches-1-45-bn.pdf
+│       │   └── us-seeks-mexico-talks-over-perishable-imports-in-bid-bolster-us-farmers.pdf
+│       ├── Employment
+│       ├── Energy
+│       ├── Environment
+│       │   └── credit-to-deposit-ratio-fell-to-73-1-in-q1-from-76-in-q4fy20.pdf
+│       ├── Farmer
+│       │   └── china-suspends-barley-imports-from-australia-s-largest-grain-exporter.pdf
 │       ├── Finance
-│       │   └── news
-│       │       ├── india
-│       │       │   ├── core-sector-output-contracts-in-july.pdf
-│       │       │   ├── expect-negative-growth-in-four-quarters-in-fy21-india-ratings-chief-economist.pdf
-│       │       │   ├── india-faces-worst-quarterly-gdp-slump-ever-after-lockdown.pdf
-│       │       │   ├── india-s-fiscal-deficit-crosses-full-year-budget-target-in-4-month.pdf
-│       │       │   ├── india-s-gdp-contracts-record-23-9-in-q1-due-to-covid-key-highlights.pdf
-│       │       │   ├── india-s-tryst-with-recession-40-years-ago.pdf
-│       │       │   ├── rahul-gandhi-accuses-modi-govt-of-destroying-informal-sector-of-the-economy.pdf
-│       │       │   └── what-high-frequency-indicators-say-about-june-quarter.pdf
-│       │       └── world
-│       │           └── turkey-s-economy-shrinks-by-nearly-10-in-q2-during-lockdown.pdf
-│       └── Market
-│           └── market
-│               └── stock-market-news
+│       │   └── centre-has-walked-the-talk-on-capex-shows-official-data.pdf
+│       ├── Financial_Inclusion
+│       ├── Food
+│       │   ├── why-sugar-farmers-remain-under-the-stress-of-mounting-payment-dues.pdf
+│       │   └── zomato-raises-rs-456-cr-from-temasek-subsidiary-macritchie-investments.pdf
+│       ├── Ganga
+│       ├── Industry
+│       │   └── isha-akash-ambani-byju-debut-on-fortune-s-40-under-40-influencer-list.pdf
+│       ├── Insurance
+│       │   ├── centre-state-finmin-officials-thrash-out-gst-compensation-gaps.pdf
+│       │   ├── far-from-fun-and-games-india-s-toy-story-looks-to-govt-to-script-a-change.pdf
+│       │   ├── fintech-deals-double-to-1-17-bn-during-jan-jun-despite-slowdown-report.pdf
+│       │   ├── gst-compensation-cess-mop-up-rises-for-first-time-in-five-months.pdf
+│       │   ├── gst-impasse-rekindle-trust-between-centre-and-states-mamata-tells-pm-modi.pdf
+│       │   ├── latest-news-today-live-updates-2-september-2020.pdf
+│       │   └── top-headlines-telcos-get-10-yrs-to-pay-agr-dues-gdp-projection-goes-up.pdf
+│       ├── Irrigation
+│       ├── Jal
+│       │   └── vistara-japan-airlines-enter-frequent-flyer-partnership-with-credit-points.pdf
+│       ├── Loan
+│       ├── Market
+│       │   ├── easy-money-makes-metals-shine-despite-economic-shock-caused-by-covid-19.pdf
+│       │   └── high-yield-contest-in-new-phase-as-indonesia-india-spread-jumps.pdf
+│       ├── Marketing
+│       │   ├── india-s-sugar-crop-faces-delays-with-covid-19-raging-throughout-nation.pdf
+│       │   └── vodafone-idea-board-to-mull-raising-funds-post-supreme-court-verdict-on-agr.pdf
+│       ├── Micro_Small_Medium_And_Enterprises
+│       │   └── indiamart-intermesh-hits-new-high-zooms-98-in-2-months.pdf
+│       ├── Mine
+│       ├── Msme
+│       ├── Parliament
+│       ├── Pension
+│       ├── Renewable
+│       │   ├── cabinet-approves-j-k-official-languages-bill-to-include-kashmiri-dogri.pdf
+│       │   ├── rattanindia-sells-entire-solar-portfolio-of-306-mw-to-gip-for-rs-1-670-cr.pdf
+│       │   └── renewing-motor-policy-on-time-is-more-cost-effective-and-hassle-free-option.pdf
+│       ├── Scholarship
+│       │   └── ford-motor-to-trim-us-workforce-by-1-400-offer-early-retirement-incentives.pdf
+│       ├── Supreme_Court
+│       │   ├── govt-wants-parliament-to-be-a-notice-board-tharoor-on-no-question-hour.pdf
+│       │   └── mps-unite-against-facebook-over-political-bias-seek-action-against-execs.pdf
+│       ├── Tax
+│       │   └── it-dept-launches-functionality-for-banks-to-check-refund-filing-status.pdf
+│       ├── Tourism
+│       │   ├── india-china-border-tension-brigade-commander-level-talks-today.pdf
+│       │   ├── layout-approved-ram-temple-at-ayodhya-to-spread-over-274-000-sq-mtr.pdf
+│       │   ├── tripura-records-highest-single-day-spike-of-566-covid-19-cases-5-deaths.pdf
+│       │   └── unlock-4-boating-resumes-in-nainital-tourism-getting-back-on-track.pdf
+│       ├── Trade
+│       │   └── edelweiss-arm-secures-350-million-funding-from-ontario-teachers-pension.pdf
+│       ├── Water
+│       │   └── jdu-cancels-app-launch-cm-nirish-kumar-to-address-virtual-rally-on-sept-7.pdf
+│       └── Wildlife
+├── economic_times
+│   ├── 2020-Aug-03
+│   │   └── Business
+│   │       └── australia-shares-end-flat-as-investors-brace-for-business-closures.pdf
+│   ├── 2020-Aug-04
+│   │   ├── Business
+│   │   │   └── tata-motors-to-drive-in-foreign-partner-in-india-passenger-car-business.pdf
+│   │   └── Commerce
+│   │       ├── india-asean-free-trade-agreement-review-can-double-bilateral-trade-hardeep-puri.pdf
+│   │       └── july-exports-reach-almost-last-years-level-said-commerce-minister-piyush-goyal.pdf
+│   ├── 2020-Aug-05
+│   │   └── Commerce
+│   │       └── blocking-of-online-system-for-tax-incentives-under-meis-to-hit-aluminium-exports-aai.pdf
+│   ├── 2020-Aug-07
+│   │   ├── Business
+│   │   │   ├── mindspace-business-parks-reit-lists-at-11-premium-over-issue-price-of-rs-275.pdf
+│   │   │   └── nse-bse-bulk-deals-nomura-capital-income-builder-lap-up-mindspace-business-parks-reit.pdf
+│   │   └── Commerce
+│   │       └── dgft-extends-date-for-filing-applications-for-export-of-ppe-medical-coveralls-till-aug-8.pdf
+│   ├── 2020-Aug-10
+│   │   ├── Business
+│   │   │   └── pm-modi-launches-financing-facility-worth-rs-1-lakh-crore-under-agriculture-infrastructure-fund.pdf
+│   │   ├── Commerce
+│   │   │   └── trade-agreements-should-be-fair-and-reciprocal-piyush-goyal-on-indias-growing-business-sentiments.pdf
+│   │   └── Finance
+│   │       └── shares-climb-as-china-industrial-data-offers-hope-for-coronavirus-recovery.pdf
+│   ├── 2020-Aug-12
+│   │   ├── Economy
+│   │   │   └── stimulus-impasse-risks-dragging-to-september-imperiling-economy.pdf
+│   │   └── Finance
+│   │       └── indiabulls-housing-finance-set-for-an-overhaul-whats-cooking.pdf
+│   ├── 2020-Aug-13
+│   │   ├── Commerce
+│   │   │   ├── china-extends-anti-dumping-tariff-on-indian-fibre-optic-product.pdf
+│   │   │   └── eicher-motors-buys-volvos-india-buses-business.pdf
+│   │   └── Finance
+│   │       └── gehlaut-steps-down-as-chief-of-indiabulls-housing-finance.pdf
+│   ├── 2020-Aug-14
+│   │   └── Commerce
+│   │       └── india-to-take-equal-proportional-measures-if-other-countries-impose-trade-barriers-goyal.pdf
+│   ├── 2020-Aug-15
+│   │   └── Commerce
+│   │       └── indias-july-trade-deficit-in-goods-at-4-83-billion-exports-decline-10-2-on-year.pdf
+│   ├── 2020-Aug-17
+│   │   ├── Commerce
+│   │   │   └── govt-extends-anti-dumping-duty-for-3-months-on-caustic-soda-from-china-korea.pdf
+│   │   └── Economy
+│   │       ├── guess-who-may-rebound-from-covid-crisis-first-the-reckless-and-young.pdf
+│   │       ├── indian-economy-may-shrink-by-16-5-per-cent-in-q1-sbi-report.pdf
+│   │       └── japanese-stocks-slip-as-economy-shrinks-at-record-rate-on-pandemic-hit.pdf
+│   ├── 2020-Aug-18
+│   │   └── Industry
+│   ├── 2020-Aug-20
+│   │   └── Commerce
+│   ├── 2020-Aug-21
+│   │   ├── Business
+│   │   │   └── former-finance-secretary-rajiv-kumar-appointed-as-new-election-commissioner.pdf
+│   │   └── Finance
+│   ├── 2020-Aug-22
+│   │   ├── Business
+│   │   │   └── pakistan-sanctions-taliban-to-avoid-global-finance-blacklist.pdf
+│   │   ├── Commerce
+│   │   │   └── sp-500-nasdaq-end-at-records-after-upbeat-business-surveys.pdf
+│   │   └── Finance
+│   │       └── next-2-quarters-will-decide-what-your-investments-will-fetch-this-year-play-your-cards-well.pdf
+│   ├── 2020-Aug-23
+│   │   └── Commerce
+│   │       └── dow-jones-subdued-at-open-ahead-of-us-business-surveys.pdf
+│   ├── 2020-Aug-24
+│   │   ├── Business
+│   │   │   └── consumer-finance-rebounds-with-buying-unlocked.pdf
+│   │   └── Industry
+│   │       ├── audio-quality-smartphone-users-top-priority-study.pdf
+│   │       ├── jios-own-5g-tech-may-help-cut-network-rollout-costs-by-10-15-analysts.pdf
+│   │       ├── sunil-mittal-hints-at-mobile-services-rate-hike.pdf
+│   │       └── telcos-seek-service-tax-waiver-on-agr-dues.pdf
+│   ├── 2020-Aug-25
+│   │   ├── Business
+│   │   │   └── va-tech-wabag-raises-rs-120-crore-from-jhunjhunwala-and-two-others.pdf
+│   │   ├── Economy
+│   │   │   └── indian-economy-may-have-contracted-by-25-in-q1fy21-icra.pdf
+│   │   ├── Finance
+│   │   │   ├── australia-shares-end-higher-on-trade-talk-optimism-virus-treatment-hopes.pdf
+│   │   │   ├── chinas-tech-heavy-chinext-rallies-for-second-day-on-historic-market-reform.pdf
+│   │   │   └── moodys-raises-growth-forecast-for-china-to-1-9.pdf
+│   │   └── Industry
+│   │       └── vodafone-idea-airtel-likely-to-get-show-cause-notices-from-trai.pdf
+│   ├── 2020-Aug-26
+│   │   ├── Business
+│   │   │   ├── cci-approves-carlyles-25-stake-acquisition-in-airtels-data-centre-biz.pdf
+│   │   │   └── snowflake-enables-business-success.pdf
+│   │   ├── Commerce
+│   │   │   └── department-of-commerce-proactively-engaging-with-states-to-promote-exports-wadhawan.pdf
+│   │   ├── Finance
+│   │   │   └── vocal-fiis-stall-appointment-of-underperforming-directors.pdf
+│   │   └── Industry
+│   │       └── vodafone-idea-revenue-market-share-plunges-in-q1-jio-airtel-make-strong-gains.pdf
+│   ├── 2020-Aug-27
+│   │   ├── Business
+│   │   │   └── nasdaq-opens-higher-after-salesforce-hp-enterprise-results.pdf
+│   │   └── Finance
+│   │       ├── pnb-housing-finance-failed-to-get-any-bidder-for-vipul-ltd-project-in-gurgaon.pdf
+│   │       └── red-hot-nasdaq-100-is-threatening-to-double-inside-of-two-years.pdf
+│   ├── 2020-Aug-28
+│   │   ├── Business
+│   │   │   └── pacific-alliance-group-to-acquire-wealth-management-investment-banking-biz-of-edelweiss-for-rs-2244-cr.pdf
+│   │   ├── Economy
+│   │   │   └── sensex-rises-for-6th-day-on-fed-rbi-promise-to-help-revive-covid-hit-economy.pdf
+│   │   ├── Finance
+│   │   │   ├── buy-lic-housing-finance-target-price-rs-353-geojit.pdf
+│   │   │   ├── finance-minister-nirmala-sitharamans-proposals-on-gst-compensation-unclear-states.pdf
+│   │   │   ├── indiabulls-housing-finance-ltd-shares-gain-2-71-as-sensex-rises.pdf
+│   │   │   ├── power-finance-corporation-ltd-shares-rise-1-54-as-sensex-climbs.pdf
+│   │   │   ├── shriram-transport-finance-company-ltd-shares-up-3-69-as-nifty-gains.pdf
+│   │   │   ├── stock-market-news-bajaj-finance-shares-gain-1.pdf
+│   │   │   └── view-from-new-york-the-future-is-what-it-is.pdf
+│   │   └── Industry
+│   │       └── share-price-of-page-industries-ltd-rises-as-nifty-strengthens.pdf
+│   ├── 2020-Aug-29
+│   │   ├── Business
+│   │   │   └── superinvestor-arnold-van-den-bergs-tips-on-how-to-tap-value-gaps-for-investing-success.pdf
+│   │   └── Finance
+│   │       └── why-technologys-grip-on-your-finances-will-only-increase.pdf
+│   ├── 2020-Aug-30
+│   │   ├── Business
+│   │   │   └── asking-states-to-borrow-is-skewed-idea-h-d-deve-gowda-on-gst-shortfall.pdf
+│   │   └── Economy
+│   │       └── look-what-doctor-rbi-has-just-prescribed-for-the-economy.pdf
+│   ├── 2020-Aug-31
+│   │   ├── Business
+│   │   │   └── shriram-transport-finance-company-ltd-shares-down-7-42-as-nifty-drops.pdf
+│   │   ├── Commerce
+│   │   │   ├── can-pharma-business-once-again-turn-ajay-piramals-fortune.pdf
+│   │   │   └── ril-in-talks-to-sell-minority-stake-in-retail-business-to-walmart-report.pdf
+│   │   ├── Finance
+│   │   │   ├── indiabulls-housing-finance-ltd-shares-down-4-09-as-nifty-gains.pdf
+│   │   │   ├── lic-housing-finance-ltd-shares-rise-0-14-as-sensex-climbs.pdf
+│   │   │   ├── power-finance-corporation-ltd-shares-decline-0-56-as-sensex-climbs.pdf
+│   │   │   └── recovery-in-indias-gdp-to-be-gradual-may-call-for-further-stimulus-say-analysts.pdf
+│   │   └── Industry
+│   │       ├── share-price-of-page-industries-ltd-falls-as-nifty-weakens.pdf
+│   │       └── share-price-of-pidilite-industries-ltd-falls-as-nifty-weakens.pdf
+│   ├── 2020-Jul-13
+│   │   ├── Business
+│   │   │   └── indian-business-outlook-is-the-worst-in-the-world-ihs-says.pdf
+│   │   └── Industry
+│   │       └── sector-outlook-constructive-on-rising-demand-tariff-improvement-bharti-infratel.pdf
+│   ├── 2020-Jul-14
+│   │   ├── Finance
+│   │   │   └── sensex-doesnt-move-with-the-economy-bse-500-more-in-sync.pdf
+│   │   └── Industry
+│   │       └── reliance-jio-grows-user-base-in-march-while-airtel-voda-idea-lose-due-to-lockdown-pangs.pdf
+│   ├── 2020-Jul-16
+│   │   ├── Commerce
+│   │   │   └── india-us-fta-on-the-cards-preceded-by-limited-trade-deal-informs-commerce-ministry.pdf
+│   │   └── Finance
+│   │       └── indians-pawning-gold-lifts-lenders-shares-in-reeling-economy.pdf
+│   ├── 2020-Jul-19
+│   │   ├── Commerce
+│   │   │   └── indian-spices-exports-up-by-23-percent-to-usd-359-million-in-june-says-assocham.pdf
+│   │   ├── Finance
+│   │   │   └── fiscal-cliffs-threaten-fragile-us-recovery-economy-week-ahead.pdf
+│   │   └── Industry
+│   │       ├── exporters-tap-rail-route-to-send-over-9000-tonnes-of-spices-to-bangladesh-amid-lockdown.pdf
+│   │       ├── gold-imports-dip-94-pc-in-april-june-to-usd-688-million-narrows-indias-trade-deficit.pdf
+│   │       ├── india-revives-initiative-for-preferential-trade-agreement-with-s-african-customs-union.pdf
+│   │       └── india-revives-initiative-to-conclude-preferential-trade-agreement-with-s-african-customs-union.pdf
+│   ├── 2020-Jul-23
+│   │   └── Commerce
+│   │       └── 20-sectors-identified-where-india-can-become-supplier-to-the-world-piyush-goyal.pdf
+│   ├── 2020-Jul-24
+│   │   ├── Business
+│   │   │   └── hindustan-zinc-gains-as-silver-business-shines-in-q1.pdf
+│   │   └── Economy
+│   │       └── despite-strong-rural-economy-traction-rakesh-jhunjhunwala-cuts-stake-in-escorts.pdf
+│   ├── 2020-Jul-25
+│   │   └── Finance
+│   │       └── did-the-market-really-go-ahead-of-the-economy-in-recent-rally.pdf
+│   ├── 2020-Jul-27
+│   │   └── Business
+│   │       ├── itcs-fmcg-in-line-with-view-but-cigarette-business-surprises-street.pdf
+│   │       └── ril-inches-closer-to-buying-future-groups-retail-business.pdf
+│   ├── 2020-Jul-28
+│   │   ├── Commerce
+│   │   │   └── commerce-ministry-not-accepting-meis-applications-from-exporters-availing-tax-incentives.pdf
+│   │   └── Economy
+│   │       └── fed-wrestles-with-its-next-moves-as-virus-stalls-us-economy.pdf
+│   ├── 2020-Jul-30
+│   │   ├── Business
+│   │   │   └── eye-on-future-ril-to-buy-minority-stake-in-its-fmcg-business.pdf
+│   │   ├── Economy
+│   │   │   └── us-economy-shrinks-at-record-32-9-pace-in-second-quarter.pdf
+│   │   └── Finance
+│   │       └── dow-jones-opens-higher-on-upbeat-earnings-fed-in-focus.pdf
+│   ├── 2020-Jul-31
+│   │   └── Commerce
+│   │       └── exporters-body-eepc-india-urges-centre-for-restoration-of-meis-incentive-benefits.pdf
+│   ├── 2020-Jun-11
+│   │   └── Industry
+│   │       └── have-requested-commerce-minister-to-allow-export-of-ppe-kits-nitin-gadkari.pdf
+│   ├── 2020-May-26
+│   │   └── Industry
+│   │       └── industry-pings-telecom-secretary-for-a-5g-panel-plan.pdf
+│   ├── 2020-Sep-01
+│   │   ├── Business
+│   │   │   ├── indiabulls-housing-finance-ltd-shares-decline-3-99-as-sensex-climbs.pdf
+│   │   │   ├── lic-housing-finance-ltd-shares-drop-0-75-as-sensex-rises.pdf
+│   │   │   ├── power-finance-corporation-ltd-shares-gain-2-87-as-sensex-rises.pdf
+│   │   │   ├── share-price-of-shriram-transport-finance-company-ltd-rises-as-nifty-strengthens.pdf
+│   │   │   └── verify-legality-of-the-project-before-financing-noida-administration-to-banks.pdf
+│   │   ├── Economy
+│   │   │   ├── india-among-large-emerging-mkt-sovereigns-to-have-highest-debt-burden-by-2021-moodys.pdf
+│   │   │   ├── indias-real-gdp-may-decline-by-10-9-in-fy21-sbi-economist.pdf
+│   │   │   ├── this-market-can-go-to-new-highs.pdf
+│   │   │   └── view-how-to-pull-the-indian-economy-out-of-its-rut.pdf
+│   │   ├── Finance
+│   │   │   ├── consider-more-legally-viable-options-for-providing-gst-dues-to-states-kejriwal-to-pm.pdf
+│   │   │   └── trade-setup-nifty-pushed-into-a-broad-phase-of-consolidation.pdf
+│   │   ├── Industry
+│   │   │   ├── govt-caps-key-export-benefit-to-rs-2-crore-per-exporter-till-december.pdf
+│   │   │   ├── india-us-can-close-limited-trade-deal-before-nov-elections-ball-in-us-court-goyal.pdf
+│   │   │   ├── share-price-of-page-industries-ltd-falls-as-nifty-strengthens.pdf
+│   │   │   └── share-price-of-pidilite-industries-ltd-rises-as-nifty-strengthens.pdf
+│   │   └── Marketing
+│   └── 2020-Sep-02
+│       ├── Business
+│       │   ├── indiabulls-housing-finance-ltd-shares-gain-0-29-as-sensex-rises.pdf
+│       │   ├── lic-housing-finance-ltd-shares-drop-0-99-as-sensex-falls.pdf
+│       │   ├── power-finance-corporation-ltd-shares-down-1-49-as-nifty-gains.pdf
+│       │   └── shriram-transport-finance-company-ltd-shares-drop-2-31-as-sensex-falls.pdf
+│       ├── Commerce
+│       │   └── simens-indias-mechanical-drives-biz-sale-puts-minority-shareholders-at-a-disadvantage.pdf
+│       ├── Economy
+│       │   └── japan-shares-rise-on-hopes-for-u-s-economy-new-prime-minister-eyed.pdf
+│       └── Finance
+│           └── gst-council-must-fill-revenue-gap-by-consensus-not-majority-opposition.pdf
+├── livemint
+│   ├── 2015-Feb-28
+│   │   └── Wildlife
+│   │       └── Budget-2015-Jaitley-cuts-allocation-to-envir.pdf
+│   ├── 2016-Jul-20
+│   │   └── Scholarship
+│   │       └── Aadhaar-mandatory-for-applying-to-UGC-fellow.pdf
+│   ├── 2016-Sep-07
+│   │   └── Scholarship
+│   │       └── Why-is-Aadhaar-mandatory-for-schola.pdf
+│   ├── 2017-Apr-13
+│   │   └── Animal_Husbandry_Dairying_And_Fisheries
+│   │       └── Curious-case-of-the-billiondollar-lithium-mi.pdf
+│   ├── 2017-Nov-10
+│   │   └── Fisheries
+│   │       └── Agreement-on-cutting-fisheries-subsidies-unli.pdf
+│   ├── 2017-Sep-23
+│   │   └── Commodities
+│   │       └── The-theory-of-t.pdf
+│   ├── 2018-Jul-23
+│   │   └── Commodities
+│   │       └── How-karate-and-scholarships-have-bec.pdf
+│   ├── 2019-Aug-01
+│   │   └── Irrigation
+│   │       └── andhra-government-tells-contractor-navayuga-to-exit-polavaram-irrigation-projec.pdf
+│   ├── 2019-Aug-15
+│   │   └── Irrigation
+│   │       └── rs-100-trillion-will-be-spent-on-infrastructure-creation-mod.pdf
+│   ├── 2019-Aug-20
+│   │   └── Irrigation
+│   │       └── centre-seeks-report-on-ap-s-decision-to-scrap-polavaram-project-tender.pdf
+│   ├── 2019-Aug-27
+│   │   └── Irrigation
+│   │       └── uttar-pradesh-government-scraps-6-allowances-for-its-employee.pdf
+│   ├── 2019-Dec-11
+│   │   └── Financial_Inclusion
+│   ├── 2019-Dec-20
+│   │   └── Loan
+│   │       └── acb-clean-chit-to-ajit-pawar-in-connection-with-another-irrigation-scam-case.pdf
+│   ├── 2019-Dec-22
+│   │   └── Financial_Inclusion
+│   │       └── nbfc-firm-avanti-seeks-to-raise-up-to-40-million.pdf
+│   ├── 2019-Dec-23
+│   │   └── Gst
+│   │       └── tata-nilekani-promoted-avanti-finance-to-soon-raise-about-rs-285-crore.pdf
+│   ├── 2019-Jan-07
+│   │   └── Natural_Resource
+│   │       └── GST-ministerial-panel-favours-Kerala-levying.pdf
+│   ├── 2019-Jan-25
+│   │   └── Natural_Resource
+│   │       └── india-s-2018-thermal-coal-imports-grew-at-fastest-pace-in-four-years-repor.pdf
+│   ├── 2019-Jul-08
+│   │   └── Dairy
+│   ├── 2019-Jul-10
+│   │   └── Irrigation
+│   │       └── maharashtra-moves-to-start-irrigation-scheme-in-251-chronic-drought-hit-taluka.pdf
+│   ├── 2019-Jul-24
+│   │   └── Irrigation
+│   │       └── india-s-crude-oil-imports-fall-to-more-than-two-year-lo.pdf
+│   ├── 2019-Jul-27
+│   │   └── Irrigation
+│   │       └── poor-monsoon-likely-to-hit-crop-output-amplify-rural-slowdow.pdf
+│   ├── 2019-Jul-31
+│   │   └── Irrigation
+│   │       └── kaleshwaram-project-secures-hyderabad-s-water-supply-for-the-futur.pdf
+│   ├── 2019-May-22
+│   │   └── Commodities
+│   │       └── apple-nurturing-young-indian-coders-to-create-next-gen-app.pdf
+│   ├── 2019-May-31
+│   │   └── Commodities
+│   │       └── on-day-1-modi-approves-changes-in-prime-minister-s-scholarship-scheme-under-nd.pdf
+│   ├── 2019-Nov-19
+│   │   └── Loan
+│   │       └── drones-are-transforming-palm-oil-output-in-s-e-asia.pdf
+│   ├── 2019-Nov-25
+│   │   └── Loan
+│   │       └── maharashtra-acb-drops-9-corruption-cases-against-ajit-pawar.pdf
+│   ├── 2019-Oct-15
+│   │   └── Loan
+│   │       └── jain-irrigation-systems-cut-to-selective-default-by-s-p.pdf
+│   ├── 2019-Sep-21
+│   │   └── Irrigation
+│   │       └── rs-58-crore-saved-in-first-reverse-tendering-bid-for-polavaram-project-ap-gov.pdf
+│   ├── 2019-Sep-24
+│   │   ├── Irrigation
+│   │   │   └── polavaram-row-ap-govt-says-it-saved-rs-780-crore-more-through-reverse-tenderin.pdf
+│   │   └── Loan
+│   ├── 2020-Apr-03
+│   │   └── Climate_Change
+│   │       └── as-humans-get-locked-indoors-wildlife-comes-to-visit-but-not-to-stay.pdf
+│   ├── 2020-Apr-14
+│   │   └── Climate_Change
+│   │       └── pandemic-takes-a-bite-out-of-india-s-wildlife-economy.pdf
+│   ├── 2020-Apr-15
+│   │   └── Dairy
+│   │       └── encouragement-to-rural-activity-focus-of-relaxation-from-20-april-mha.pdf
+│   ├── 2020-Apr-17
+│   │   └── Natural_Resource
+│   │       └── what-happens-to-planes-grounded-by-coronavirus.pdf
+│   ├── 2020-Apr-20
+│   │   └── Climate_Change
+│   │       └── manipur-govt-battles-rebels-free-speech-amid-virus-crisis.pdf
+│   ├── 2020-Apr-23
+│   │   └── Climate_Change
+│   │       └── bats-coronaviruses-evolving-together-for-millions-of-years-report.pdf
+│   ├── 2020-Apr-24
+│   │   └── Climate_Change
+│   │       └── source-a-compendium-of-objects-of-desire-for-your-garden.pdf
+│   ├── 2020-Apr-30
+│   │   ├── Climate_Change
+│   │   │   └── ori-and-the-will-of-wisps-is-engaging-perfect-for-keeping-anxiety-in-check.pdf
+│   │   └── Dairy
+│   │       └── cadbury-replaces-logo-with-thank-you-on-limited-edition-dairy-milk-bars.pdf
+│   ├── 2020-Aug-02
+│   │   └── Irrigation
+│   │       └── assam-flood-situation-improves-10-63-lakh-affected.pdf
+│   ├── 2020-Aug-03
+│   │   └── Consumer
+│   │       ├── rbi-won-t-find-it-easy-to-focus-on-growth-this-time.pdf
+│   │       └── should-you-invest-in-multi-asset-funds.pdf
+│   ├── 2020-Aug-04
+│   │   ├── Environment_Forest_And_Climate_Change
+│   │   │   └── imd-forecasts-widespread-rainfall-for-gujarat-in-next-three-days.pdf
+│   │   ├── Market
+│   │   │   ├── facebook-s-campaign-talks-about-helping-people-solve-covid-woes.pdf
+│   │   │   └── sequoia-india-makes-three-senior-level-hires.pdf
+│   │   ├── Marketing
+│   │   │   └── job-search-for-work-from-home-in-india-rises-442-during-feb-jul-report.pdf
+│   │   └── Pension
+│   │       └── covid-19-sc-asks-centre-states-to-ensure-timely-pension-essentials-to-senior-citizens.pdf
+│   ├── 2020-Aug-05
+│   │   ├── Consumer
+│   │   │   └── india-s-inflation-outlook-isn-t-as-benign-as-it-may-seem.pdf
+│   │   ├── Environment_Forest_And_Climate_Change
+│   │   │   └── kashmir-jammu-and-ladakh-could-heat-up-by-7-degrees-celsius-by-2100.pdf
+│   │   └── Market
+│   │       ├── apple-s-schiller-steps-down-from-marketing-role-but-retains-app-store.pdf
+│   │       ├── sequoia-capital-strengthens-india-team-creates-new-public-policy-role.pdf
+│   │       └── total-adani-jv-to-seek-permit-for-setting-up-fuel-stations.pdf
+│   ├── 2020-Aug-06
+│   │   ├── Environment_Forest_And_Climate_Change
+│   │   │   └── climate-change-tracker-rising-temperatures-will-result-in-a-high-death-toll.pdf
+│   │   └── Market
+│   │       ├── adani-total-jv-to-seek-fuel-retailing-licence.pdf
+│   │       └── lupin-signs-exclusive-pact-for-distribution-of-2-complex-injectable-drugs.pdf
+│   ├── 2020-Aug-07
+│   │   ├── Consumer
+│   │   │   └── plea-in-delhi-hc-to-classify-masks-and-sanitisers-as-essential-commodities.pdf
+│   │   └── Pension
+│   │       └── india-uk-social-security-pact-back-on-the-table.pdf
+│   ├── 2020-Aug-08
+│   │   └── Pension
+│   │       └── nps-investment-options-all-you-need-to-know-about-active-and-auto-choice.pdf
+│   ├── 2020-Aug-09
+│   │   ├── Agriculture
+│   │   │   ├── agri-infra-fund-to-benefit-farmers-create-jobs-develop-rural-economy-amit-shah.pdf
+│   │   │   ├── goa-taking-steps-to-make-agri-sector-self-reliant-cm-pramod-sawant.pdf
+│   │   │   └── govt-proposes-separate-emission-norms-for-agri-machinery-and-construction-equipment.pdf
+│   │   ├── Market
+│   │   │   └── pm-modi-launches-rs-1-trillion-agri-infrastructure-fund.pdf
+│   │   └── Pension
+│   │       ├── best-performing-nps-schemes-for-central-state-government-employees.pdf
+│   │       └── check-how-your-investments-in-nps-are-farin.pdf
+│   ├── 2020-Aug-10
+│   │   ├── Agriculture
+│   │   │   └── pm-launches-1-trillion-fund-to-boost-agri-infra.pdf
+│   │   ├── Market
+│   │   │   └── honda-cars-india-begins-pre-launch-bookings-of-new-jazz.pdf
+│   │   └── Pension
+│   │       └── allocation-to-nps-slows-down-in-june-quarter.pdf
+│   ├── 2020-Aug-11
+│   │   ├── Market
+│   │   │   └── cheil-india-elevates-sourav-ray-as-chief-strategy-officer.pdf
+│   │   ├── Marketing
+│   │   └── Pension
+│   │       └── epf-pensioners-can-check-passbook-update-jeevan-pramaan-patra-on-umang-app.pdf
+│   ├── 2020-Aug-12
+│   │   ├── Agriculture
+│   │   │   └── fm-nirmala-sitharaman-signals-further-support-to-farm-sector.pdf
+│   │   ├── Consumer
+│   │   │   └── abn-amro-exits-trade-commodity-finance-in-wider-industry-shake-up.pdf
+│   │   └── Pension
+│   │       └── nps-corpus-may-hit-6-trillion-in-a-year-pfrda-chairman-supratim-bandyopadhyay.pdf
+│   ├── 2020-Aug-13
+│   │   ├── Consumer
+│   │   │   └── delhi-hc-dismisses-plea-to-classify-masks-sanitisers-as-essential-commodities.pdf
+│   │   └── Forest
+│   │       └── ipl-may-help-bolster-india-s-ties-with-uae.pdf
+│   ├── 2020-Aug-14
+│   │   └── Agriculture
+│   │       └── iit-delhi-gets-rs-170-crore-from-dst-to-develop-collaborative-robotics-hub.pdf
+│   ├── 2020-Aug-15
+│   │   ├── Agriculture
+│   │   │   └── self-reliant-farmers-a-key-to-make-india-atma-nirbhar-pm-modi-at-red-fort.pdf
+│   │   ├── Food
+│   │   │   └── pm-talks-atmanirbhar-bharat-national-digital-health-mission-ayodhya-on-i-day.pdf
+│   │   └── Forest
+│   │       └── 20-million-families-provided-with-piped-drinking-water-in-last-one-year-pm-modi.pdf
+│   ├── 2020-Aug-16
+│   │   ├── Farmer
+│   │   │   └── food-safety-in-focus.pdf
+│   │   ├── Food
+│   │   │   ├── ninjacart-s-10-000-steps-of-efficiency-from-farm-to-doorstep.pdf
+│   │   │   └── this-startup-is-going-nuts-over-niche-farmers.pdf
+│   │   └── Forest
+│   │       └── india-sends-team-to-mauritius-to-assist-in-oil-spill.pdf
+│   ├── 2020-Aug-17
+│   │   ├── Climate
+│   │   ├── Forest
+│   │   │   ├── 12-city-forests-ready-in-delhi-four-more-soon-minister-gopal-rai.pdf
+│   │   │   ├── eia-draft-2020-violation-of-environmental-law-is-seen-as-development.pdf
+│   │   │   └── glenmark-appoints-dipankar-bhattacharjee-to-its-board-of-directors.pdf
+│   │   ├── Pension
+│   │   │   ├── pension-enrolment-in-unorganized-sector-plunges-as-income-dries-up.pdf
+│   │   │   └── pfrda-mulls-permanent-licenses-for-pension-fund-managers.pdf
+│   │   └── Trade
+│   │       └── lic-pension-scheme-for-senior-citizens-vs-sbi-special-fd-know-interest-rates-other-benefits.pdf
+│   ├── 2020-Aug-18
+│   │   ├── Agriculture
+│   │   │   ├── 41-lakh-youth-lose-jobs-in-india-due-to-covid-19-impact-ilo-adb-report.pdf
+│   │   │   ├── china-advances-development-of-vaccine-against-virus-that-wiped-out-millions-of-pigs.pdf
+│   │   │   └── india-s-agri-exports-up-23-24-to-over-rs-25-500-cr-in-mar-jun-govt.pdf
+│   │   ├── Consumer
+│   │   │   └── gold-imports-are-rising-on-renewed-investor-interest.pdf
+│   │   ├── Crop
+│   │   │   ├── india-plans-to-sell-cotton-to-bangladesh-to-trim-record-reserves.pdf
+│   │   │   └── india-s-overall-unemployment-rate-touches-a-nine-week-high.pdf
+│   │   ├── Employment
+│   │   ├── Farmer
+│   │   │   └── dubai-how-high-tech-farmers-are-sowing-seeds-of-revolution-in-desert.pdf
+│   │   ├── Forest
+│   │   │   └── centre-mulling-to-start-environmental-surveillance-of-sars-cov-2-virus-in-wastewater.pdf
+│   │   └── Trade
+│   │       ├── pension-fund-manager-fees-may-rise-after-new-round-of-licensing.pdf
+│   │       └── senior-citizens-savings-scheme-offers-over-7-return-amid-record-low-interest-rates.pdf
+│   ├── 2020-Aug-19
+│   │   ├── Climate
+│   │   │   └── nuclear-plants-face-more-heat-risk-than-they-re-prepared-to-handle.pdf
+│   │   ├── Employment
+│   │   │   ├── cabinet-approves-national-recruitment-agency.pdf
+│   │   │   ├── fixed-broadband-wifi-hotspots-digital-investments-must-growth-trai-chief.pdf
+│   │   │   ├── google-launches-new-app-in-india-to-help-people-find-jobs.pdf
+│   │   │   └── india-s-overall-unemployment-rate-touches-a-nine-week-high-at-9-1.pdf
+│   │   ├── Environment
+│   │   │   └── -jaipur-guwahati-thiruvananthapuram-airports-to-be-leased-out-javadekar.pdf
+│   │   ├── Farmer
+│   │   │   ├── ccea-approves-increase-in-sugarcane-frp-by-10-to-285-qtil-for-2020-21-report.pdf
+│   │   │   ├── resurgent-farm-sector-keeps-up-volume-momentum-for-balkrishna-industries.pdf
+│   │   │   └── ugc-cautions-against-distance-online-education-in-12-domains-phd.pdf
+│   │   ├── Forest
+│   │   │   ├── auto-component-firms-seek-tax-rationalisation-to-tide-over-covid-slowdown.pdf
+│   │   │   ├── mystery-grows-over-virus-spread-via-contaminated-food-packaging.pdf
+│   │   │   └── strong-immunity-key-for-fighting-covid-19-health-minister-harsh-vardhan.pdf
+│   │   └── Trade
+│   │       ├── lic-clocks-a-40-jump-in-premium-income.pdf
+│   │       └── nsdl-egovernance-to-create-awareness-about-nps.pdf
+│   ├── 2020-Aug-20
+│   │   ├── Climate
+│   │   │   └── climate-change-tracker-the-rising-threat-of-humid-heatwaves.pdf
+│   │   ├── Employment
+│   │   │   ├── axis-bank-launches-hiring-initiative-gig-a-opportunities-to-hire-up-to-1-000.pdf
+│   │   │   └── msmes-the-growth-engines-of-the-indian-economy.pdf
+│   │   ├── Farmer
+│   │   │   ├── 1-22-crore-kisan-credit-cards-sanctioned-with-credit-limit-of-rs-102-065-crore.pdf
+│   │   │   ├── equity-over-efficiency-in-groundwater-policy.pdf
+│   │   │   ├── food-price-flare-up-has-no-real-winners.pdf
+│   │   │   ├── india-faces-protracted-slowdown-as-coranavirus-clouds-rural-revival.pdf
+│   │   │   └── niti-aayog-panel-recommends-linking-sugarcane-prices-to-sugar-rates.pdf
+│   │   ├── Scholarship
+│   │   └── Trade
+│   │       ├── 153-500-cos-return-to-epfo-fold-in-signs-of-recovery.pdf
+│   │       └── nps-tier-ii-account-income-tax-benefits-rules-for-govt-employees-released.pdf
+│   ├── 2020-Aug-21
+│   │   ├── Crop
+│   │   │   └── covid-19-bajaj-allianz-pitches-for-pandemic-pool.pdf
+│   │   ├── Farmer
+│   │   │   └── cyril-amarchand-mangaldas-advises-info-edge-on-raising-rs-1-875cr.pdf
+│   │   └── Trade
+│   │       └── nearly-500-000-joined-formal-workforce-in-june-epfo.pdf
+│   ├── 2020-Aug-22
+│   │   └── Environment
+│   │       ├── elon-musk-is-going-to-have-a-hard-time-finding-an-important-lifeline-for-tesla.pdf
+│   │       ├── india-needs-to-look-at-esg-factors-to-attract-major-fdi-mukesh-aghi.pdf
+│   │       └── log-9-supplies-sorbene-oil-sorbent-pads-to-aid-oil-spill-clean-up-in-mauritius.pdf
+│   ├── 2020-Aug-23
+│   │   ├── Crop
+│   │   │   ├── a-recipe-for-pumpkin-payasam-and-other-sweet-stories-from-onam.pdf
+│   │   │   ├── donald-trump-slams-fda-for-slowing-down-human-trials-of-covid-19-vaccine.pdf
+│   │   │   ├── liquor-ads-run-on-ott-in-absence-of-advertising-code.pdf
+│   │   │   └── trump-to-present-virus-therapy-breakthrough-after-hitting-fda.pdf
+│   │   ├── Environment
+│   │   │   └── iit-bombay-shiv-nadar-researchers-develop-environment-friendly-lithium-batteries.pdf
+│   │   ├── Farmer
+│   │   │   ├── covid-19-parties-gear-up-for-debate-in-a-truncated-monsoon-session-in-september.pdf
+│   │   │   ├── jharkhand-agriculture-minister-badal-patralekh-tests-positive-for-covid-19.pdf
+│   │   │   └── pm-modi-extends-greeting-to-farmers-on-nuakhai-juhar.pdf
+│   │   └── Trade
+│   │       ├── atal-pension-yojana-pay-pending-contributions-by-september-30-without-penalty.pdf
+│   │       └── nps-income-tax-benefits-latest-rules-for-private-govt-employees-explained.pdf
+│   ├── 2020-Aug-24
+│   │   ├── Climate
+│   │   │   ├── a-91-billion-asset-manager-dumps-exxon-chevron-on-climate.pdf
+│   │   │   └── bangladesh-has-an-ambitious-climate-plan-a-2-billion-loan-could-give-it-a-start.pdf
+│   │   ├── Crop
+│   │   │   └── call-off-the-gst-guessing-game.pdf
+│   │   ├── Environment
+│   │   │   └── postpone-neet-jee-2020-until-situation-gets-conducive-mamata-urges-centre.pdf
+│   │   ├── Farmer
+│   │   │   └── nabard-launches-credit-guarantee-programme-for-nbfc-mfis.pdf
+│   │   └── Scholarship
+│   ├── 2020-Aug-25
+│   │   ├── Agriculture
+│   │   ├── Crop
+│   │   │   ├── hong-kong-to-announce-new-social-distancing-rules-as-covid-19-cases-drop.pdf
+│   │   │   ├── industry-seeks-lower-gst-on-processed-foods.pdf
+│   │   │   ├── managing-food-surplus-key-challenge-for-india-rbi-report.pdf
+│   │   │   ├── ncdex-to-relaunch-futures-contract-of-til-on-aug-26.pdf
+│   │   │   └── rbi-expects-inflation-to-firm-up-further-in-coming-months.pdf
+│   │   ├── Environment
+│   │   │   └── renew-power-unep-ink-pact-for-better-clean-energy-access-higher-efficiency.pdf
+│   │   ├── Farmer
+│   │   │   ├── farm-profits-likely-to-rise-3-5-in-2020-crisil.pdf
+│   │   │   ├── icici-bank-starts-using-satellite-data-to-assess-credit-worthiness-of-farmers.pdf
+│   │   │   ├── monsoon-24-above-average-in-august-heavy-rain-to-continue-imd.pdf
+│   │   │   └── rbi-flags-concerns-over-climate-change-impact-on-india-s-farm-outlook.pdf
+│   │   ├── Food
+│   │   └── Scholarship
+│   │       └── esic-scheme-adds-7-92-lakh-new-members-in-june.pdf
+│   ├── 2020-Aug-26
+│   │   ├── Environment
+│   │   │   ├── neet-jee-holding-exams-will-expose-28-lakh-students-to-covid-says-sisodia.pdf
+│   │   │   └── vedanta-moves-sc-challenging-madras-hc-refusal-to-reopen-sterlite-copper-plant.pdf
+│   │   ├── Industry
+│   │   │   ├── mint-lite-tata-all-in-one-e-commerce-app-amazon-covid-vaccines-others.pdf
+│   │   │   ├── plan-to-use-surplus-land-of-railways-to-generate-20-gw-renewable-energy-goyal.pdf
+│   │   │   └── us-blacklists-chinese-individuals-firms-for-south-china-sea-work.pdf
+│   │   └── Scholarship
+│   │       └── 90-million-more-workers-will-look-for-non-farm-jobs-by-2030-mckinsey-report.pdf
+│   ├── 2020-Aug-27
+│   │   ├── Agriculture
+│   │   │   └── us-launches-free-app-to-alert-consumers-about-vehicle-recalls.pdf
+│   │   ├── Commerce
+│   │   │   └── another-online-thrust-for-disintermediation.pdf
+│   │   ├── Credit
+│   │   ├── Employment
+│   │   ├── Environment
+│   │   │   ├── bankers-say-they-are-prudent-not-risk-averse.pdf
+│   │   │   ├── banks-should-rejig-business-strategy-look-out-for-sunrise-sectors-rbi-das.pdf
+│   │   │   └── insurance-companies-cannot-reject-claims-for-not-holding-valid-puc-certificate.pdf
+│   │   ├── Food
+│   │   ├── Industry
+│   │   │   ├── amazon-enters-fitness-space-with-amazon-halo-smart-band.pdf
+│   │   │   ├── e-commerce-retail-market-expected-to-cross-100-billion-mark-by-2024.pdf
+│   │   │   ├── india-asean-businesses-need-to-work-to-resolve-differences-piyush-goyal.pdf
+│   │   │   ├── indian-gaming-startup-gamezop-raises-rs-32-crore-from-us-investors-bitkraft.pdf
+│   │   │   ├── reliance-retail-warns-of-fake-jiomart-websites-seeking-franchisees.pdf
+│   │   │   ├── us-targets-chinese-individuals-companies-amid-south-china-sea-dispute.pdf
+│   │   │   └── what-indian-states-export-to-rest-of-the-world.pdf
+│   │   └── Scholarship
+│   │       └── india-needs-to-create-90-mn-non-farm-jobs-by-30-report.pdf
+│   ├── 2020-Aug-28
+│   │   ├── Commerce
+│   │   │   ├── walmart-sells-2-more-e-commerce-brands-in-digital-reshuffle.pdf
+│   │   │   └── walmart-wants-to-go-viral-with-tiktok-wall-street-thinks-it-can.pdf
+│   │   ├── Finance
+│   │   │   └── angela-merkel-warns-of-long-road-ahead-in-worsening-virus-crisis.pdf
+│   │   └── Food
+│   │       ├── co.pdf
+│   │       ├── covid-accelerated-digitisation-of-agri-sector-omnivore.pdf
+│   │       └── fssai-collects-cooking-oil-samples-for-quality-tests.pdf
+│   ├── 2020-Aug-29
+│   │   ├── Commerce
+│   │   │   └── urban-ladder-buyout-plan-to-consolidate-furniture-e-tail.pdf
+│   │   ├── Finance
+│   │   │   ├── centre-writes-to-states-on-terms-for-financing-gst-shortfall.pdf
+│   │   │   ├── hdk-hits-out-at-centre-for-blaming-covid-19-pandemic-for-contraction-of-country.pdf
+│   │   │   └── insurance-for-jan-dhan-a-c-holders-fm.pdf
+│   │   ├── Food
+│   │   │   └── why-himachali-cuisine-is-having-a-moment.pdf
+│   │   └── Insurance
+│   │       └── pre-existing-diseases-in-health-insurance-all-you-need-to-know.pdf
+│   ├── 2020-Aug-30
+│   │   ├── Business
+│   │   │   └── c.pdf
+│   │   ├── Commerce
+│   │   │   ├── india-asean-trade-ministers-call-for-fta-review.pdf
+│   │   │   ├── paytm-mall-suffers-data-breach-ransom-demanded-by-hackers-cyble-report.pdf
+│   │   │   ├── retail-s-digital-shift.pdf
+│   │   │   ├── startups-mncs-are-rushing-to-collect-data-from-kirana-stores.pdf
+│   │   │   └── virus-lockdowns-give-major-boost-to-e-commerce.pdf
+│   │   ├── Employment
+│   │   ├── Finance
+│   │   │   ├── esaf-small-finance-bank-to-take-call-on-rs-976-crore-ipo-after-sept-md.pdf
+│   │   │   ├── fm-to-meet-bankers-thursday-to-resolve-stress-on-loans-due-to-covid-19.pdf
+│   │   │   ├── four-reasons-why-comprehensive-motor-insurance-is-important-in-covid19-times.pdf
+│   │   │   ├── kerala-based-finance-firm-s-owners-arrested-in-rs-2000-crore-fraud.pdf
+│   │   │   └── pranab-mukherjee-still-in-coma-lung-treatment-on-hospital-bulletin.pdf
+│   │   ├── Industry
+│   │   ├── Insurance
+│   │   ├── Loan
+│   │   │   ├── best-home-loan-rates.pdf
+│   │   │   ├── india-s-exporters-are-on-the-edge.pdf
+│   │   │   └── markets-may-turn-wary-as-gdp-print-to-shift-focus-to-tough-economic-reality.pdf
+│   │   ├── Marketing
+│   │   ├── Pension
+│   │   └── Trade
+│   ├── 2020-Aug-31
+│   │   ├── Business
+│   │   │   ├── future-group-companies-surge-on-ril-acquisition-announcement.pdf
+│   │   │   ├── india-faces-worst-quarterly-gdp-slump-ever-after-lockdown.pdf
+│   │   │   ├── netflix-offering-select-original-movies-tv-shows-for-free-even-for-non-members.pdf
+│   │   │   ├── reliance-retail-preps-for-stake-sale-puts-scale-and-dominance-on-display.pdf
+│   │   │   ├── stocks-to-watch-ril-future-enterprises-pvr-vedanta-hcl-tech.pdf
+│   │   │   └── tech-startup-trying-to-be-amazon-for-farms-runs-into-agricultural-giants.pdf
+│   │   ├── Commerce
+│   │   │   ├── bikayi-raises-2-million-from-mantis-ventures-y-combinator-and-others.pdf
+│   │   │   ├── core-industries-output-contracts-9-6-in-july.pdf
+│   │   │   ├── l-t-sells-its-electrical-and-automation-business-to-schneider-electric-for-rs-14-000-crore.pdf
+│   │   │   ├── niyogin-acquires-51-stake-in-iservu-for-inr-592-million.pdf
+│   │   │   ├── the-headache-of-ibc-resolution-plans-wrecked-by-covid.pdf
+│   │   │   └── why-green-reform-is-a-grave-step-back.pdf
+│   │   ├── Consumer
+│   │   ├── Credit
+│   │   │   ├── a-gdp-contraction-makes-for-an-ugly-loan-growth-arithmetic.pdf
+│   │   │   ├── beware-the-future.pdf
+│   │   │   ├── five-companies-garner-rs-882-cr-via-ncds-in-april-july.pdf
+│   │   │   └── ril-gains-3-on-buying-stake-in-future-group-for-rs-24-713-crore.pdf
+│   │   ├── Employment
+│   │   │   └── cbdt-warns-of-penal-action-for-charges-on-e-payments.pdf
+│   │   ├── Environment
+│   │   ├── Finance
+│   │   │   └── bank-fixed-deposit-fd-rates-of-8-25-8-60-senior-citizens-latest-rates-here.pdf
+│   │   ├── Gst
+│   │   │   └── col.pdf
+│   │   ├── Industry
+│   │   │   ├── india-inc-seeks-further-stimulus-for-economy.pdf
+│   │   │   ├── karnataka-cans-industrial-cluster-project.pdf
+│   │   │   └── mint-lite-india-gdp-buffett-s-birthday-gift-piketty-female-managers-others.pdf
+│   │   ├── Insurance
+│   │   ├── Loan
+│   │   │   └── fm-to-meet-bank-officials-on-3-sep.pdf
+│   │   ├── Marketing
+│   │   ├── Pension
+│   │   │   ├── -by-september-end-we-will-have-four-products-in-guaranteed-savings-space.pdf
+│   │   │   ├── dii-august-sell-off-highest-in-17-months-fii-inflows-near-decadal-high.pdf
+│   │   │   ├── icici-prudential-life-insurance-introduces-ai-powered-voice-chatbot-on-google-assistant.pdf
+│   │   │   ├── insurance-regulator-may-soon-give-the-nod-to-video-kyc.pdf
+│   │   │   └── will-covid-19-vaccine-be-covered-under-your-existing-health-insurance-policy.pdf
+│   │   └── Tax
+│   │       ├── 40-of-americans-back-trump-executive-order-on-tiktok-poll.pdf
+│   │       ├── captainless-wto-in-troubled-water-with-no-land-in-sight.pdf
+│   │       ├── china-detains-australian-tv-anchor-with-local-station-abc-says.pdf
+│   │       ├── covid-19-impact-india-june-quarter-gdp-contracts-a-record-24.pdf
+│   │       ├── first-direct-israel-uae-flight-lands-in-abu-dhabi-amid-deal.pdf
+│   │       ├── india-s-gdp-contracts-record-23-9-in-q1-due-to-covid-key-highlights.pdf
+│   │       ├── israel-sees-6-5-billion-in-trade-as-uae-peace-talks-start.pdf
+│   │       ├── phonepe-to-digitise-25-million-small-merchants-in-towns.pdf
+│   │       ├── us-stocks-trade-mixed-but-s-p-500-on-track-for-best-august-since-1984.pdf
+│   │       └── who-is-in-the-running-for-wto-top-job.pdf
+│   ├── 2020-Feb-04
+│   │   └── Loan
+│   │       └── centre-gives-nod-to-nearly-rs-6-000-cr-multi-purpose-project-in-j-k.pdf
+│   ├── 2020-Feb-06
+│   │   └── Loan
+│   │       └── pm-modi-says-india-has-kept-fiscal-deficit-price-rise-in-check.pdf
+│   ├── 2020-Feb-08
+│   │   └── Wildlife
+│   │       └── coronavirus-live-update-death-toll-crosses-700-apple-to-reopen-china-office-next-week.pdf
+│   ├── 2020-Feb-09
+│   │   └── Wildlife
+│   │       └── the-growing-threat-of-new-mysterious-viruses-are-bats-to-blame.pdf
+│   ├── 2020-Feb-10
+│   │   └── Loan
+│   │       └── yediyurappa-to-announce-portfolios-of-new-cabinet-ministers-today.pdf
+│   ├── 2020-Feb-12
+│   │   ├── Gst
+│   │   │   └── president-kovind-urges-banks-to-deepen-financial-inclusion.pdf
+│   │   └── Wildlife
+│   │       └── bats-for-sale-at-indonesia-s-wildlife-market-despite-deadly-coronavirus-warning.pdf
+│   ├── 2020-Feb-14
+│   │   └── Wildlife
+│   │       └── climate-change-tracker-india-s-future-losses.pdf
+│   ├── 2020-Feb-17
+│   │   └── Wildlife
+│   │       └── china-s-appetite-for-wildlife-likely-to-survive-virus.pdf
+│   ├── 2020-Feb-18
+│   │   └── Loan
+│   │       └── delay-in-execution-of-irrigation-projects-costs-karnataka-1-603-crore.pdf
+│   ├── 2020-Feb-19
+│   │   ├── Irrigation
+│   │   └── Loan
+│   │       └── water-released-into-yamuna-to-improve-its-condition-ahead-of-trump-s-india-visit.pdf
+│   ├── 2020-Jan-05
+│   │   └── Loan
+│   │       └── beyond-amaravati-andhra-s-capital-games.pdf
+│   ├── 2020-Jan-08
+│   │   └── Gst
+│   │       └── -there-was-very-little-attention-paid-to-financial-inclusion-for-businesses.pdf
+│   ├── 2020-Jan-10
+│   │   └── Gst
+│   │       └── rbi-releases-national-strategy-for-financial-inclusion.pdf
+│   ├── 2020-Jan-20
+│   │   └── Gst
+│   │       └── flourish-ventures-may-fund-indian-firms-in-embedded-finance-neo-banks-this-year.pdf
+│   ├── 2020-Jan-28
+│   │   └── Wildlife
+│   │       ├── wildlife-activists-protest-against-filming-man-vs-wild-with-rajinikanth-in-bandipur.pdf
+│   │       └── wildlife-activists-protest-filming-of-man-vs-wild-with-rajinikanth.pdf
+│   ├── 2020-Jan-29
+│   │   └── Gst
+│   │       └── can-ubi-reignite-the-economy.pdf
+│   ├── 2020-Jan-30
+│   │   └── Wildlife
+│   │       ├── china-coronavirus-cases-surpass-sars-as-big-economic-hit-looms.pdf
+│   │       └── into-the-wild-night.pdf
+│   ├── 2020-Jul-08
+│   │   └── Forest
+│   │       ├── japan-s-abe-in-security-talks-with-australia-as-they-seek-to-counter-china.pdf
+│   │       └── sc-notice-to-tn-assembly-speaker-others-on-dmk-s-plea-for-disqualification-of-11-aiadmk-mlas.pdf
+│   ├── 2020-Jul-10
+│   │   └── Forest
+│   │       ├── delhi-govt-will-work-with-neighbouring-states-to-deal-with-air-pollution-problem.pdf
+│   │       ├── dreams-and-doubts-of-a-green-revival.pdf
+│   │       └── science-tech-panel-pac-hold-meeting-as-parliamentary-committees-resume-activity.pdf
+│   ├── 2020-Jul-12
+│   │   ├── Commodities
+│   │   └── Forest
+│   │       └── naxals-blow-forest-dept-office-cum-quarter-in-jharkhand-s-chaibasa.pdf
+│   ├── 2020-Jul-14
+│   │   └── Forest
+│   │       └── sc-notice-to-centre-on-plea-challenging-auction-of-coal-blocks-in-jharkhand.pdf
+│   ├── 2020-Jul-18
+│   │   └── Irrigation
+│   │       └── heavy-monsoon-rains-speed-up-crop-planting-in-india.pdf
+│   ├── 2020-Jul-19
+│   │   ├── Commodities
+│   │   │   ├── covid-19-streets-in-karnataka-s-dakshina-kannada-deserted-amid-7-day-lockdown.pdf
+│   │   │   └── gold-imports-dip-94-in-apr-jun-to-688-million.pdf
+│   │   └── Irrigation
+│   │       ├── assam-floods-108-animals-die-at-kaziranga-national-park.pdf
+│   │       └── floods-in-india-nepal-displace-nearly-4-million-people-at-least-189-dead.pdf
+│   ├── 2020-Jul-20
+│   │   ├── Irrigation
+│   │   │   └── parliamentary-panel-on-farm-issues-meets-tuesday-agenda-includes-locust-attacks.pdf
+│   │   └── Marketing
+│   │       ├── cipla-amgen-settle-case-involving-generic-cinacalcet-hydrochloride-tablets.pdf
+│   │       └── police-arrest-14-in-mumbai-hyderabad-for-black-marketing-covid-drug.pdf
+│   ├── 2020-Jul-21
+│   │   ├── Commodities
+│   │   │   └── brent-crude-rises-to-4-month-high-on-economic-recovery-hopes.pdf
+│   │   ├── Fisheries
+│   │   └── Irrigation
+│   │       └── parliamentary-panel-set-to-review-impact-of-locust-attacks-today.pdf
+│   ├── 2020-Jul-22
+│   │   ├── Commodities
+│   │   │   └── declaring-country-of-origin-on-products-mandatory-for-e-commerce-platforms-centre-to-hc.pdf
+│   │   └── Marketing
+│   │       ├── panasonic-turns-focus-on-tier-2-and-tier-3-towns-bets-big-on-first-time-buyers.pdf
+│   │       └── spotify-signs-new-licensing-deal-with-vivendi-s-universal-music-group.pdf
+│   ├── 2020-Jul-23
+│   │   ├── Climate_Change
+│   │   │   ├── climate-change-tracker-polar-bears-might-disappear-by-2100.pdf
+│   │   │   ├── column.pdf
+│   │   │   └── earth-s-atmosphere-more-sensitive-to-co2-emissions-than-thought-study-finds.pdf
+│   │   ├── Commodities
+│   │   │   └── the-yellow-metal-could-add-lustre-to-your-portfolio.pdf
+│   │   └── Fisheries
+│   │       └── milk-glut-in-india-likely-to-deepen.pdf
+│   ├── 2020-Jul-24
+│   │   ├── Climate_Change
+│   │   │   └── the-indian-climate-change-heroes-you-should-know-about.pdf
+│   │   └── Irrigation
+│   │       └── amid-pandemic-puppy-boom-instagram-swells-with-new-crop-of-dogfluencers.pdf
+│   ├── 2020-Jul-27
+│   │   ├── Commodities
+│   │   │   └── oil-dips-with-us-china-tension-and-virus-second-wave-hitting.pdf
+│   │   └── Marketing
+│   │       └── indian-audiences-watch-entertainers-with-or-without-star-kids.pdf
+│   ├── 2020-Jul-28
+│   │   └── Irrigation
+│   │       └── iffco-launches-organic-fertiliser-for-all-crops.pdf
+│   ├── 2020-Jul-29
+│   │   ├── Consumer
+│   │   │   ├── adb-approves-nearly-rs-22-crore-grant-to-india-to-combat-covid-19.pdf
+│   │   │   └── india-can-be-among-top-5-agri-goods-exporters-with-effective-policies-report.pdf
+│   │   ├── Irrigation
+│   │   │   ├── us-warning-don-t-plant-mystery-seeds-from-china.pdf
+│   │   │   └── wild-bee-decline-threatens-major-us-crops-study.pdf
+│   │   └── Marketing
+│   │       ├── how-an-indian-small-town-boy-built-a-15-million-edtech-start-up.pdf
+│   │       ├── raymond-cuts-jobs-as-people-work-from-home.pdf
+│   │       └── sequoia-backed-hevo-raises-8-million-in-series-a-funding.pdf
+│   ├── 2020-Jul-30
+│   │   ├── Climate_Change
+│   │   │   └── climate-change-tracker-how-much-will-the-earth-heat-up-with-rising-co2-levels.pdf
+│   │   ├── Consumer
+│   │   │   └── gold-surge-adds-3-billion-to-three-family-fortunes.pdf
+│   │   └── Environment_Forest_And_Climate_Change
+│   │       ├── brace-for-a-white-swan-crisis-that-may-hit-the-world-later-this-year.pdf
+│   │       ├── coastal-flooding-could-hit-20-of-world-gdp-by-2100-study.pdf
+│   │       └── credit-suisse-earmarks-more-than-300-billion-for-sustainable-finance.pdf
+│   ├── 2020-Jul-31
+│   │   └── Marketing
+│   │       └── eu-strikes-a-deal-with-sanofi-for-300-million-doses-of-covid-19-vaccine.pdf
+│   ├── 2020-Jun-04
+│   │   ├── Climate_Change
+│   │   │   ├── ratan-tata-expressed-shock-over-elephant-killing-in-kerala-says-justice-need-to-prevail.pdf
+│   │   │   └── will-take-stern-action-against-culprits-forest-minister-javadekar-on-kerala-s-pregnant-elephant-killing.pdf
+│   │   └── Forest
+│   ├── 2020-Jun-05
+│   │   └── Forest
+│   │       └── one-person-arrested-in-connection-with-death-of-pregnant-elephant.pdf
+│   ├── 2020-Jun-08
+│   │   └── Dairy
+│   │       └── covid-19-mother-dairy-launches-haldi-milk-to-boost-immunity.pdf
+│   ├── 2020-Jun-11
+│   │   ├── Dairy
+│   │   │   └── cadbury-dairy-milk-silk-asks-how-far-will-you-go-for-love-in-new-campaign.pdf
+│   │   └── Forest
+│   │       └── kerala-power-plant-at-baahubali-waterfalls-revived.pdf
+│   ├── 2020-Jun-12
+│   │   └── Dairy
+│   │       └── ads-of-immunity-boosting-products-woo-customers-amidst-pandemic.pdf
+│   ├── 2020-Jun-19
+│   │   └── Forest
+│   │       └── satellite-images-suggest-chinese-activity-at-himalayan-border-with-india-before-clash.pdf
+│   ├── 2020-Jun-21
+│   │   └── Dairy
+│   │       └── how-a-niche-vc-brought-agritech-into-the-sunlight.pdf
+│   ├── 2020-Jun-23
+│   │   └── Dairy
+│   │       └── smc-power-acquires-concast-s-unit-via-ibc.pdf
+│   ├── 2020-Jun-24
+│   │   └── Dairy
+│   │       └── govt-approves-rs-15-000-cr-infra-fund-for-dairy-poultry-and-meat-units.pdf
+│   ├── 2020-Mar-12
+│   │   └── Wildlife
+│   │       └── bengaluru-to-lose-precious-green-cover-as-centre-okays-shrinking-eco-sensitive-zone-of-bannerghatta-national-park.pdf
+│   ├── 2020-Mar-16
+│   │   └── Gst
+│   │       └── five-things-that-can-strengthen-the-digital-kyc-verification-landscape.pdf
+│   ├── 2020-Mar-27
+│   │   └── Climate_Change
+│   │       └── the-netflix-of-exercise-videos.pdf
+│   ├── 2020-Mar-28
+│   │   └── Gst
+│   │       └── covid-19-lockdown-fm-says-to-ensure-access-to-banking-services-for-all.pdf
+│   ├── 2020-May-02
+│   │   └── Natural_Resource
+│   │       └── are-birds-flying-back-to-our-concrete-jungles-in-lockdown.pdf
+│   ├── 2020-May-05
+│   │   ├── Gst
+│   │   │   └── sarfaesi-act-applicable-to-cooperative-banks-sc.pdf
+│   │   └── Natural_Resource
+│   │       └── australia-pm-says-new-coronavirus-most-likely-emerged-from-chinese-wildlife-mark.pdf
+│   ├── 2020-May-10
+│   │   └── Dairy
+│   │       └── us-to-buy-3-billion-worth-of-agricultural-goods-from-farmers-donald-trump.pdf
+│   ├── 2020-May-15
+│   │   └── Dairy
+│   │       └── mumbai-to-set-up-1-lakh-beds-for-covid-19-patients-reserve-60-in-pvt-hospitals.pdf
+│   ├── 2020-May-18
+│   │   └── Natural_Resource
+│   │       └── let-s-coexist-says-wwf-india-in-new-coronavirus-campaign.pdf
+│   ├── 2020-May-23
+│   │   └── Climate_Change
+│   │       └── carcass-of-40-feet-long-critically-endangered-whale-washes-ashore-in-odisha.pdf
+│   ├── 2020-May-27
+│   │   └── Gst
+│   │       └── npci-launches-ai-virtual-assistant-pai.pdf
+│   ├── 2020-May-29
+│   │   └── Dairy
+│   │       └── what-connects-poultry-to-pandemics-and-the-future-of-the-planet.pdf
+│   ├── 2020-Sep-01
+│   │   ├── Business
+│   │   │   ├── interest-waiver-on-emis-during-moratorium-against-basic-canon-of-finance-centre.pdf
+│   │   │   └── pranab-mukherjee-in-memory-of-a-truly-remarkable-individual.pdf
+│   │   ├── Commerce
+│   │   │   ├── bigbasket-sees-sharp-spike-in-new-customers-due-to-covid.pdf
+│   │   │   ├── cinemas-remain-shut-in-unlock-4-sadak-2-disappoints.pdf
+│   │   │   ├── lenders-need-to-balance-growth-with-prudence-says-arijit-basu.pdf
+│   │   │   ├── mbas-are-usually-swimming-in-job-offers-by-now-not-this-year.pdf
+│   │   │   └── unlock-4-covid-19-as-restaurants-bars-re-open-in-goa-businesses-hope-for-sizeable-tourism-by-nov.pdf
+│   │   ├── Consumer
+│   │   │   └── does-reliance-future-group-union-pose-a-threat-to-avenue-supermarts.pdf
+│   │   ├── Credit
+│   │   │   └── further-shocks-will-deliver-a-big-blow-to-lending-institutions.pdf
+│   │   ├── Economy
+│   │   │   ├── a-ray-of-hope-in-india-s-pmi.pdf
+│   │   │   ├── bonds-rally-in-india-after-rbi-sends-whatever-it-takes-signal.pdf
+│   │   │   ├── five-reasons-why-economists-are-chopping-their-fy21-gdp-forecast.pdf
+│   │   │   ├── india-among-large-emerging-market-sovereigns-to-have-highest-debt-burden-by-2021-moody-s.pdf
+│   │   │   ├── india-s-slowing-diesel-sales-in-august-points-to-lower-industry-output.pdf
+│   │   │   ├── india-s-urban-unemployment-rate-climbs-up-to-nearly-10.pdf
+│   │   │   ├── many-acts-behind-the-world-s-worst-economic-slump.pdf
+│   │   │   ├── real-gdp-likely-to-contract-by-10-9-in-fy21-sbi-ecowrap.pdf
+│   │   │   ├── sharper-gdp-contraction-brings-focus-back-on-fiscal-policy.pdf
+│   │   │   └── what-vahan-data-tells-us-about-india-s-economic-recovery.pdf
+│   │   ├── Finance
+│   │   │   ├── china-s-august-export-orders-shake-off-covid-gloom-fuelling-factory-expansion.pdf
+│   │   │   ├── india-paid-the-price-of-coronavirus-lockdown-for-little-reward.pdf
+│   │   │   ├── india-s-recovery-to-take-time-after-economy-shrinks-24-in-june-quarter.pdf
+│   │   │   ├── india-stocks-flirt-with-overbought-territory.pdf
+│   │   │   └── virus-bites-lockdown-hurts-gdp-shrinks-by-most-in-q1.pdf
+│   │   ├── Financial_Inclusion
+│   │   │   ├── another-call-drop.pdf
+│   │   │   ├── hero-motocorp-sees-robust-recovery-in-august-wholesales-as-rural-demand-improves.pdf
+│   │   │   ├── markets-rally-on-hopes-of-fiscal-stimulus-to-spur-growth.pdf
+│   │   │   └── warner-head-hints-at-hbo-max-launch-for-india.pdf
+│   │   ├── Gst
+│   │   ├── Insurance
+│   │   ├── Pension
+│   │   │   ├── flipkart-s-sachin-bansal-to-buy-out-kishore-biyani-s-future-generali-life-insurance.pdf
+│   │   │   ├── irdai-may-soon-allow-insurers-to-use-video-kyc-for-verification.pdf
+│   │   │   ├── lic-s-western-zone-collects-a-whopping-rs-10-879-cr-first-year-premium-income.pdf
+│   │   │   └── should-you-buy-your-furry-friend-a-health-insurance-cover.pdf
+│   │   └── Tax
+│   └── 2020-Sep-02
+│       ├── Business
+│       │   ├── cognizant-to-acquire-chicago-based-cloud-company-10th-magnitude.pdf
+│       │   ├── india-inc-seeks-rate-cut-fresh-fiscal-stimulus.pdf
+│       │   ├── money-with-monika-why-should-you-stop-buying-bundled-life-insurance-plans.pdf
+│       │   └── mutual-funds-platform-kuvera-now-offers-indian-investors-to-invest-in-us-stocks.pdf
+│       ├── Economy
+│       │   └── there-is-a-sense-of-uncertainty-uday-kotak.pdf
+│       ├── Financial_Inclusion
+│       │   ├── digital-payment-firms-lock-horns-with-bharatpe.pdf
+│       │   └── manufacturing-turns-around-after-5-months.pdf
+│       ├── Market
+│       │   ├── amazon-adds-insurance-gold-to-its-menu-makes-india-centre-of-fintech-push.pdf
+│       │   ├── automobile-sales-soar-in-august.pdf
+│       │   ├── best-stock-trading-tips-six-mistakes-you-should-avoid.pdf
+│       │   ├── markets-likely-to-be-volatile-telecom-auto-stocks-to-remain-in-focus.pdf
+│       │   ├── post-their-best-august-since-1986-a-lot-could-go-wrong-for-global-equities.pdf
+│       │   ├── sensex-nifty-live-today-2-09-2020-nifty-nse-bse-news-updates.pdf
+│       │   ├── stocks-to-watch-vodafone-idea-infosys-ongc-coal-india.pdf
+│       │   ├── unshackle-the-consumer-internet.pdf
+│       │   ├── vistara-japan-airlines-enter-frequent-flyer-partnership.pdf
+│       │   └── zydus-cadila-gets-usfda-nod-for-muscle-relaxant-injection.pdf
+│       └── Pension
 └── the_hindu
-    └── 31-Aug-2020
+    ├── 2020-Aug-21
+    │   ├── Financial_Inclusion
+    │   │   └── The_leaders_we_need_in_today\342\200\231s_world.pdf
+    │   └── Gst
+    ├── 2020-Aug-27
+    │   ├── Financial_Inclusion
+    │   ├── Gst
+    │   │   └── Govt._pushes_ahead_with_BC_welfare_agenda.pdf
+    │   └── Scholarship
+    │       └── U.P._CM_directs_officials_to_invoke_NSA_against_those_involved_in_Lakhimpur_Kheri_rape,_murder_case.pdf
+    ├── 2020-Aug-28
+    │   └── Commodities
+    │       └── Railways_ready_to_operate_intra-State_special_trains:_official.pdf
+    ├── 2020-Aug-30
+    │   └── Commodities
+    │       └── \342\200\230Duty_bound_to_raise_questions_against_any_govt._on_policy\342\200\231.pdf
+    ├── 2020-Aug-31
+    │   ├── Consumer
+    │   │   └── Coronavirus_India_lockdown_Day_160_updates_|_August_31,_2020.pdf
+    │   └── Pension
+    │       └── Andhra_University_staring_at_fund_crunch.pdf
+    ├── 2020-Sep-01
+    │   ├── Commerce
+    │   │   └── Pranab\342\200\231s_death_is_a_tragic_loss_to_the_nation:_Governor.pdf
+    │   ├── Industry
+    │   │   └── Left_it_to_USTR_on_timing_of_initial_trade_deal:_Goyal.pdf
+    │   ├── Insurance
+    │   │   └── Gartner_predicts_75%_of_CEOs_will_be_personally_liable_for_cyber-physical_security_incidents_by_2024.pdf
+    │   ├── Pension
+    │   │   └── Will_corporate_kindness_have_a_permanent_online_address?.pdf
+    │   ├── Scholarship
+    │   │   └── Get_cracking_on_SDCs,_Jagan_tells_officials.pdf
+    │   └── Trade
+    │       └── \342\200\230Pension_Betrayal_Day\342\200\231_protest.pdf
+    └── 2020-Sep-02
+        ├── Agriculture
+        │   ├── Airlines_see_uptick_in_demand_ahead_of_festival_season.pdf
+        │   └── Water_released,_advisory_board_meeting_yet_to_convene.pdf
         ├── Business
-        │   ├── \342\200\230Action\ against\ those\ violating\ COVID-19\ safety\ norms\342\200\231.pdf
-        │   └── Extend\ EMI\ repayment\ relief:\ Stalin.pdf
+        │   ├── Chinese-born_Australian_CCTV_journalist_detained_in_China.pdf
+        │   └── Loan_moratorium_|_Interest_on_interest_\342\200\234worse_than_taking_a_pound_of_flesh\342\200\235.pdf
         ├── Commerce
-        │   ├── Paytm\ Mall\ says\ no\ security\ lapses\ found\ after\ investigating\ alleged\ breach.pdf
-        │   └── Warren\ Buffett\ looks\ to\ Japan,\ takes\ 5%\ stakes\ in\ five\ trading\ companies.pdf
+        │   └── Flipkart_Wholesale_to_serve_kiranas,_MSMEs.pdf
+        ├── Consumer
+        │   └── 3one4_Capital_launches_$100-million_early-growth_opportunities_fund.pdf
         ├── Economy
-        │   └── \342\200\230Most\ firms\ availing\ moratorium\ were\ struggling\ before\ COVID-19\342\200\231.pdf
+        │   ├── Data_|_Despite_stringent_lockdown,_India's_COVID-19_cases,_deaths_record_fastest_rise_even_as_GDP_plummets.pdf
+        │   └── Face\ the\ challenge\ head-on.pdf
+        ├── Employment
+        │   └── \342\200\230Seaweed_cultivation_will_helpcreate_job_opportunities\342\200\231.pdf
         ├── Finance
-        │   ├── Tamil\ Nadu\ rejects\ Centre\342\200\231s\ options\ for\ GST\ compensation.pdf
-        │   └── When\ crises\ pay\ politically.pdf
+        │   ├── Face_the_challenge_head-on.pdf
+        │   └── GST_collections_decline_by_12_%_in_August.pdf
+        ├── Financial_Inclusion
+        ├── Gst
+        │   └── Coronavirus_India_lockdown_Day_161_live_updates_|_Tamil_Nadu_inches_towards_50_lakh_RT-PCR_tests_for_COVID-19.pdf
         ├── Industry
-        │   ├── \342\200\230Infrastructure,\ State\ support\ key\ to\ better\ investment\ climate\342\200\231.pdf
-        │   └── MRF\ sees\ spurt\ in\ demand\ for\ two-wheelers,\ tractors.pdf
-        └── Marketing
+        │   ├── Gautam_Adani_says_airports_to_create_adjacencies_for_group_businesses.pdf
+        │   └── Today's_top_business_news:_Stocks_rise,_auto_firms_bet_on_revival_in_consumer_demand,_gold_imports_hit_8-month_high,_and_more.pdf
+        ├── Insurance
+        │   └── Data_|_India's_GDP_was_on_a_downward_slope_even_before_COVID-19_wreaked_havoc.pdf
+        ├── Market
+        │   ├── A_\342\200\230new\342\200\231_democracy?.pdf
+        │   └── Tata_Motors_unveils_Nexon_variant.pdf
+        ├── Marketing
+        │   ├── Production_disruption_likely,_says_HAL.pdf
+        │   ├── Sensex_ends_185_points_higher;_Nifty_tops_11,500.pdf
+        │   └── Theatres_desperately_await_nod_to_welcome_back_fans.pdf
+        ├── Tax
+        └── Trade
+            └── Australia_enters_recession_after_three_decades_of_growth.pdf
 
-232 directories, 136 files
+1266 directories, 1191 files
