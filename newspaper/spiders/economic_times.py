@@ -37,11 +37,18 @@ class EconomicTimesSpider(scrapy.Spider):
             self.tag = self.tag.replace("%20", "_")
             self.tag = self.tag.strip()
             self.tag = self.tag.title()
-            mpdf = make_pdf(
-                str(self.name),
-                str(economic_times_link),
-                str(date),
-                str(self.tag),
-                str(article_name),
-            )
-            mpdf.print()
+            article_name_list = str(article_name).split("/")
+            article_name_list.reverse()
+            try:
+                article_name = article_name_list[0]
+                article_name = article_name.replace(" ","_")
+                mpdf = make_pdf(
+                    str(self.name),
+                    str(economic_times_link),
+                    str(date),
+                    str(self.tag),
+                    str(article_name),
+                )
+                mpdf.print()
+            except IndexError:
+                print(f"Index error: {article_name}")
