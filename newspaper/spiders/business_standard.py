@@ -52,7 +52,7 @@ class BusinessStandardSpider(scrapy.Spider):
                 print(f"\narticle name : {article_name}")
                 try:
                     article_name = article_name_list[0]
-                    article_name = article_name.replace(" ","_")
+                    article_name = article_name.replace(" ", "_")
                     mpdf = make_pdf(
                         str(self.name),
                         str(business_standard_link),

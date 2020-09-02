@@ -41,7 +41,7 @@ class EconomicTimesSpider(scrapy.Spider):
             article_name_list.reverse()
             try:
                 article_name = article_name_list[0]
-                article_name = article_name.replace(" ","_")
+                article_name = article_name.replace(" ", "_")
                 mpdf = make_pdf(
                     str(self.name),
                     str(economic_times_link),
