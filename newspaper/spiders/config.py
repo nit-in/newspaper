@@ -13,6 +13,7 @@ BUSINESS_STANDARD_PRINT = (
 ECONOMIC_TIMES = (
     "https://economictimes.indiatimes.com/topics_all.cms?type=article&query="
 )
+INDIAN_EXPRESS_ROOT = "https://indianexpress.com/"
 ECONOMIC_TIMES_ROOT = "https://economictimes.indiatimes.com"
 LIVEMINT_ROOT = "https://livemint.com/"
 LIVEMINT = "https://www.livemint.com/searchlisting/"

@@ -25,6 +25,8 @@ def generate_links(newspaper, tag):
             urls = config.LIVEMINT + str(num) + "/" + str(tag)
         if newspaper == "economic_times":
             urls = config.ECONOMIC_TIMES + str(tag) + "&curpg=" + str(num)
+        if newspaper == "indian_express":
+            urls = config.INDIAN_EXPRESS_ROOT + "page/" + str(num) + "/?s=" + str(tag)
 
         link_list.append(urls)
     random.shuffle(link_list, random.random)
