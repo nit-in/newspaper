@@ -3,6 +3,7 @@ import newspaper.spiders.config as config
 import pdfkit
 from pathlib import Path
 from itertools import chain
+import time
 
 # fields = ["Newspaper", "File_Name", "Link"]
 
@@ -38,7 +39,7 @@ class make_pdf:
             print(f"\nmaking {self.pdf_path.parent} folder")
             self.pdf_path.parent.mkdir(parents=True)
         # self.file_name = os.path.join(self.folder,self.file_name + ".pdf")
-        print(self.pdf_file_exists(self.pdf_path.name))
+
         if (
             self.pdf_file_exists(self.pdf_path.name)
             and int(self.pdf_path.lstat().st_size) > 25600
@@ -47,6 +48,7 @@ class make_pdf:
         else:
             print(f"\nDownloading: {self.pdf_path}")
             pdfkit.from_url(str(self.link), str(self.pdf_path), options=options)
+            time.sleep(5)
 
     def pdf_file_exists(self, pdf_name):
         self.pdf_name = pdf_name
