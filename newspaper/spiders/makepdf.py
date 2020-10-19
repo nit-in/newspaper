@@ -4,6 +4,7 @@ import pdfkit
 from pathlib import Path
 from itertools import chain
 import time
+from stringcolor import *
 
 # fields = ["Newspaper", "File_Name", "Link"]
 
@@ -14,7 +15,7 @@ class make_pdf:
     def __init__(self, newspaper, link, article_date, tag, file_name):
         self.newspaper = newspaper
         self.link = link
-        self.article_date = article_date
+        self.article_date = article_date.replace("-","/")
         self.tag = tag
         self.file_name = file_name
         self.folder = (
@@ -31,12 +32,14 @@ class make_pdf:
         self.pdf_path = self.pdf_path.expanduser()
 
     def print(self):
-        print("Working...")
+        print(cs("Working...", "blue4"))
         options = config.PDFKIT_OPTIONS
         if self.pdf_path.parent.is_dir():
-            print(f"\nFolder: {self.pdf_path.parent} already exists")
+            string = f"\nFolder: {self.pdf_path.parent} already exists"
+            print(cs(string, "orchid"))
         else:
-            print(f"\nmaking {self.pdf_path.parent} folder")
+            string = f"\nmaking {self.pdf_path.parent} folder"
+            print(cs(string, "olive"))
             self.pdf_path.parent.mkdir(parents=True)
         # self.file_name = os.path.join(self.folder,self.file_name + ".pdf")
 
@@ -44,9 +47,11 @@ class make_pdf:
             self.pdf_file_exists(self.pdf_path.name)
             and int(self.pdf_path.lstat().st_size) > 25600
         ):
-            print(f"\nFile: {self.pdf_path} already downloaded")
+            string2 = f"\nFile: {self.pdf_path} already downloaded"
+            print(cs(string2, "magenta"))
         else:
-            print(f"\nDownloading: {self.pdf_path}")
+            string2 = f"\nDownloading: {self.pdf_path}"
+            print(cs(string2, "springgreen2"))
             pdfkit.from_url(str(self.link), str(self.pdf_path), options=options)
             time.sleep(5)
 
