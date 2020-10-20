@@ -20,7 +20,8 @@ LIVEMINT = "https://www.livemint.com/searchlisting/"
 LIVEMINT_PRINT = "https://www.livemint.com/fullStory/"
 THE_HINDU_ROOT = "https://thehindu.com"
 THE_HINDU = "https://zdwidget3-bs.sphereup.com/Search?url=https://www.thehindu.com/&isDescending=true&sortOn=date&accountId=69878363&sessionId=undefined&limit=5&page="
-
+FINANCIAL_EXPRESS_ROOT = "https://www.financialexpress.com/"
+FINANCIAL_EXPRESS = "https://www.financialexpress.com/page/"
 
 PDFKIT_OPTIONS = {
     "page-size": "A4",
