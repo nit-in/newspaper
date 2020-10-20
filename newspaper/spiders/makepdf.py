@@ -15,7 +15,7 @@ class make_pdf:
     def __init__(self, newspaper, link, article_date, tag, file_name):
         self.newspaper = newspaper
         self.link = link
-        self.article_date = article_date.replace("-","/")
+        self.article_date = article_date.replace("-", "/")
         self.tag = tag
         self.file_name = file_name
         self.folder = (

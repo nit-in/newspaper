@@ -28,10 +28,10 @@ class LivemintSpider(scrapy.Spider):
         for response_link in response_links:
             anchor = response_link.css("h3 a::attr(href)").get()
             date = response_link.css(".minsago::text").get()
-            date = date.replace(" ","")
+            date = date.replace(" ", "")
             title = response_link.css("h3 a::text").get()
             try:
-                date = datetime.strptime(date,"%b%d,%Y").strftime("%Y-%b-%d")
+                date = datetime.strptime(date, "%b%d,%Y").strftime("%Y-%b-%d")
             except ValueError:
                 today = datetime.today()
                 date = datetime.strftime(today, "%Y-%b-%d")
@@ -39,7 +39,7 @@ class LivemintSpider(scrapy.Spider):
             self.tag = self.tag.strip()
             self.tag = self.tag.title()
             financial_express_link = str(anchor)
-            article_name = str(re.sub('\W+','_', title))
+            article_name = str(re.sub("\W+", "_", title))
             mpdf = make_pdf(
                 str(self.name),
                 str(financial_express_link),
@@ -48,4 +48,3 @@ class LivemintSpider(scrapy.Spider):
                 str(article_name),
             )
             mpdf.print()
-

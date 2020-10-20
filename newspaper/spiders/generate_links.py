@@ -28,7 +28,9 @@ def generate_links(newspaper, tag):
         if newspaper == "indian_express":
             urls = config.INDIAN_EXPRESS_ROOT + "page/" + str(num) + "/?s=" + str(tag)
         if newspaper == "financial_express":
-            urls = config.FINANCIAL_EXPRESS + str(num) + "/?search_scope=1&s=" + str(tag)
+            urls = (
+                config.FINANCIAL_EXPRESS + str(num) + "/?search_scope=1&s=" + str(tag)
+            )
 
         link_list.append(urls)
     random.shuffle(link_list, random.random)
