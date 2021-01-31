@@ -14,6 +14,10 @@ To use the newspaper spider
     
     cd news-paper
 
+**Install required packages:**
+
+    pip install -r requirements.txt
+
 **Command to use:**
 
   `scrapy crawl business_standard`
