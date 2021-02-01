@@ -25,8 +25,12 @@ To use the newspaper spider
   `scrapy crawl economic_times`
   
   `scrapy crawl livemint`
-  
+
   `scrapy crawl the_hindu`
+
+  `scrapy crawl indian_express`
+
+  `scrapy crawl financial_express`
  
 if you do not want any logs
 run these as
@@ -38,7 +42,12 @@ run these as
   `scrapy crawl --nolog livemint`
   
   `scrapy crawl --nolog the_hindu`
- 
+
+  `scrapy crawl --nolog indian_express`
+
+  `scrapy crawl --nolog financial_express`
+
+
 This will create a folder in your home directory i.e. **~/newspaper**
 
 Pdfs will be saved in this folder
