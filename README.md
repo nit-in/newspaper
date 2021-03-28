@@ -8,7 +8,7 @@ To use the newspaper spider
 
 **Clone the git or download:**
 
-    git clone https://github.com/nit-in/news-paper.git
+    git clone https://github.com/nit-in/newspaper.git
     
 **enter the news-paper diretory:**
     
