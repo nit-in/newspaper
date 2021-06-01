@@ -1,0 +1,136 @@
+name: the newspaper ci
+
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+    tags:
+      - 'v*'
+  pull_request:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: setting_up
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
+        run:  |
+          sudo apt update
+          sudo apt upgrade
+          sudo apt install -y python3 wkhtmltopdf
+          sudo pip install -r requirements.txt
+      # Runs a single command using the runners shell
+      - name: Run spider script
+        run: bash spider.sh
+
+      - name: zipup_the_hindu
+        run: zip -r the_hindu.zip /home/runner/newspaper/the_hindu
+
+      - name: zipup_business_standard
+        run: zip -r business_standard .zip /home/runner/newspaper/business_standard 
+
+      - name: zipup_financial_express
+        run: zip -r financial_express.zip /home/runner/newspaper/financial_express
+
+      - name: zipup_livemint
+        run: zip -r livemint.zip /home/runner/newspaper/livemint
+
+      - name: zipup_economic_times
+        run: zip -r economic_times.zip /home/runner/newspaper/economic_times
+
+      - name: zipup_indian_express
+        run: zip -r indian_express.zip /home/runner/newspaper/indian_express
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.NP_SECRET_TOKEN  }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: false
+          prerelease: false
+
+      - name: Upload the the_hindu zip
+        id: upload-release-asset-the-hindu
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.NP_SECRET_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          asset_path: /home/runner/work/newspaper/newspaper/the_hindu.zip
+          asset_name: the_hindu.zip
+          asset_content_type: application/zip
+
+
+      - name: Upload the business_standard zip
+        id: upload-release-asset-business-standard
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.NP_SECRET_TOKEN  }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          asset_path: /home/runner/work/newspaper/newspaper/business_standard.zip
+          asset_name: business_standard.zip
+          asset_content_type: application/zip
+
+
+      - name: Upload the financial_express zip
+        id: upload-release-asset-financial-express
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.NP_SECRET_TOKEN  }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          asset_path: /home/runner/work/newspaper/newspaper/financial_express.zip
+          asset_name: financial_express.zip
+          asset_content_type: application/zip
+
+      - name: Upload the livemint zip
+        id: upload-release-asset-livemint
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.NP_SECRET_TOKEN  }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          asset_path: /home/runner/work/newspaper/newspaper/livemint.zip
+          asset_name: livemint.zip
+          asset_content_type: application/zip
+
+
+      - name: Upload the economic_times zip
+        id: upload-release-asset-economic-times
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.NP_SECRET_TOKEN  }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          asset_path: /home/runner/work/newspaper/newspaper/economic_times.zip
+          asset_name: economic_times.zip
+          asset_content_type: application/zip
+
+
+      - name: Upload the indian_express zip
+        id: upload-release-asset-indian-express
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.NP_SECRET_TOKEN  }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          asset_path: /home/runner/work/newspaper/newspaper/indian_express.zip
+          asset_name: indian_express.zip
+          asset_content_type: application/zip
