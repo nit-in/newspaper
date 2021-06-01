@@ -59,4 +59,9 @@ function finexp(){
     #sed -e 's/,,/, ,/g' failed_to_download.csv | column -s , -t | cat
 }
 
-the_hindu &;bustd &;etime &;finexp &;livem&;indexp &  
+the_hindu &
+bustd &
+etime &
+finexp &
+livem &
+indexp &  
