@@ -1,5 +1,5 @@
 yarl==1.8.1
-string_color==1.2.1
+string_color==1.2.3
 pdfkit==1.0.0
 Scrapy==2.4.1
 itemadapter==0.7.0
