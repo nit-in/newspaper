@@ -1,4 +1,4 @@
-yarl==1.8.1
+yarl==1.8.2
 string_color==1.2.3
 pdfkit==1.0.0
 Scrapy==2.7.1
