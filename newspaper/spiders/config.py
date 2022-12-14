@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-CUTOFF_DATE = "28/11/2022"
+CUTOFF_DATE = "12/12/2022"
 ROOT_DIR = "~/newspaper/"
 JSON_FILE = "newspaper/spiders/terms.json"
 UPPER_RANGE = 2
