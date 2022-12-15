@@ -55,4 +55,4 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           artifacts: "/home/runner/work/newspaper/newspaper/*.zip"
-          token: ${{ secrets.NP_SECRET_TOKEN }}
+          token: ${{ secrets.NP }}
